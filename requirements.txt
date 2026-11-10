@@ -1,0 +1,7 @@
+bottle
+cheroot
+# 0.17.0 (Oct 2026) has its TLS handshake reset by some home ISPs in India;
+# 0.16.x connects everywhere.
+curl_cffi>=0.16,<0.17
+marshmallow
+pytest

@@ -1,0 +1,26 @@
+{
+ "reviewPageUrl": "/bella-b-all-suite-bangkok-sha-extra-plus/reviews/bangkok-th.html",
+ "currentPage": 5000,
+ "hotelID": 9059812,
+ "pageSize": 20,
+ "selectedSortOption": 1,
+ "haveMoreThanOneComments": false,
+ "isCrawlablePage": true,
+ "isCurated": false,
+ "isReviewPage": false,
+ "shouldShowProminentLink": false,
+ "pageNumberToPageUrl": {},
+ "reviewsSortOptions": {
+  "1": "Most recent",
+  "2": "Rating, high to low",
+  "3": "Rating, low to high",
+  "7": "Most helpful"
+ },
+ "comments": [],
+ "reviewFilterAndSort": [],
+ "providerList": [],
+ "provider": 332,
+ "searchReview": {
+  "searchKeyword": ""
+ }
+}

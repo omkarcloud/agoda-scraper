@@ -1,0 +1,2316 @@
+{
+ "searchResult": {
+  "searchInfo": {
+   "isComplete": true,
+   "totalFilteredHotels": 738,
+   "objectInfo": {
+    "objectName": "Singapore",
+    "cityName": "Singapore",
+    "cityEnglishName": "Singapore",
+    "countryId": 114,
+    "countryEnglishName": "Singapore",
+    "mapLatitude": 1.283679,
+    "mapLongitude": 103.846332,
+    "cityId": 4064
+   }
+  },
+  "histogram": {
+   "bins": [
+    {
+     "numOfElements": 1,
+     "upperBound": {
+      "perNightPerRoom": 20
+     }
+    },
+    {
+     "numOfElements": 16,
+     "upperBound": {
+      "perNightPerRoom": 30
+     }
+    },
+    {
+     "numOfElements": 16,
+     "upperBound": {
+      "perNightPerRoom": 40
+     }
+    },
+    {
+     "numOfElements": 6,
+     "upperBound": {
+      "perNightPerRoom": 50
+     }
+    },
+    {
+     "numOfElements": 4,
+     "upperBound": {
+      "perNightPerRoom": 60
+     }
+    },
+    {
+     "numOfElements": 23,
+     "upperBound": {
+      "perNightPerRoom": 70
+     }
+    },
+    {
+     "numOfElements": 38,
+     "upperBound": {
+      "perNightPerRoom": 80
+     }
+    },
+    {
+     "numOfElements": 26,
+     "upperBound": {
+      "perNightPerRoom": 90
+     }
+    },
+    {
+     "numOfElements": 53,
+     "upperBound": {
+      "perNightPerRoom": 110
+     }
+    },
+    {
+     "numOfElements": 52,
+     "upperBound": {
+      "perNightPerRoom": 130
+     }
+    },
+    {
+     "numOfElements": 46,
+     "upperBound": {
+      "perNightPerRoom": 150
+     }
+    },
+    {
+     "numOfElements": 39,
+     "upperBound": {
+      "perNightPerRoom": 170
+     }
+    },
+    {
+     "numOfElements": 34,
+     "upperBound": {
+      "perNightPerRoom": 200
+     }
+    },
+    {
+     "numOfElements": 22,
+     "upperBound": {
+      "perNightPerRoom": 230
+     }
+    },
+    {
+     "numOfElements": 23,
+     "upperBound": {
+      "perNightPerRoom": 270
+     }
+    },
+    {
+     "numOfElements": 16,
+     "upperBound": {
+      "perNightPerRoom": 310
+     }
+    },
+    {
+     "numOfElements": 18,
+     "upperBound": {
+      "perNightPerRoom": 360
+     }
+    },
+    {
+     "numOfElements": 9,
+     "upperBound": {
+      "perNightPerRoom": 420
+     }
+    },
+    {
+     "numOfElements": 3,
+     "upperBound": {
+      "perNightPerRoom": 490
+     }
+    },
+    {
+     "numOfElements": 3,
+     "upperBound": {
+      "perNightPerRoom": 570
+     }
+    },
+    {
+     "numOfElements": 2,
+     "upperBound": {
+      "perNightPerRoom": 670
+     }
+    },
+    {
+     "numOfElements": 0,
+     "upperBound": {
+      "perNightPerRoom": 770
+     }
+    },
+    {
+     "numOfElements": 2,
+     "upperBound": {
+      "perNightPerRoom": 900
+     }
+    },
+    {
+     "numOfElements": 0,
+     "upperBound": {
+      "perNightPerRoom": 1050
+     }
+    },
+    {
+     "numOfElements": 3,
+     "upperBound": {
+      "perNightPerRoom": 1220
+     }
+    },
+    {
+     "numOfElements": 0,
+     "upperBound": {
+      "perNightPerRoom": 1420
+     }
+    },
+    {
+     "numOfElements": 1,
+     "upperBound": {
+      "perNightPerRoom": 1650
+     }
+    },
+    {
+     "numOfElements": 0,
+     "upperBound": {
+      "perNightPerRoom": 1910
+     }
+    }
+   ]
+  }
+ },
+ "properties": [],
+ "aggregation": {
+  "matrixGroupResults": [
+   {
+    "matrixGroup": "AffordableCategory",
+    "matrixItemResults": [
+     {
+      "id": 1,
+      "name": "Budget",
+      "count": 262,
+      "filterKey": "AffordableCategory",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "Luxury",
+      "count": 90,
+      "filterKey": "AffordableCategory",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "AllGuestReviewBreakdown",
+    "matrixItemResults": [
+     {
+      "id": 8,
+      "name": "Excellent location ",
+      "count": 404,
+      "filterKey": "AllGuestLocationRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "Excellent service ",
+      "count": 377,
+      "filterKey": "AllGuestStaffRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "Excellent cleanliness ",
+      "count": 340,
+      "filterKey": "AllGuestCleanlinessRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "Excellent value for money",
+      "count": 326,
+      "filterKey": "AllGuestValueRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "Excellent facilities",
+      "count": 231,
+      "filterKey": "AllGuestFacilitiesRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "Excellent room quality ",
+      "count": 73,
+      "filterKey": "AllGuestComfortRating",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "HotelFacilities",
+    "matrixItemResults": [
+     {
+      "id": 93,
+      "name": "Swimming pool",
+      "count": 146,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 90,
+      "name": "Internet",
+      "count": 523,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 80,
+      "name": "Car park",
+      "count": 244,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 17,
+      "name": "Airport transfer",
+      "count": 112,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 92,
+      "name": "Gym/fitness",
+      "count": 144,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 116,
+      "name": "Front desk [24-hour]",
+      "count": 437,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 89,
+      "name": "Family/child friendly",
+      "count": 465,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 15,
+      "name": "Non-smoking",
+      "count": 468,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 91,
+      "name": "Spa/sauna",
+      "count": 37,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 11,
+      "name": "Restaurants",
+      "count": 195,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 83,
+      "name": "Smoking area",
+      "count": 186,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 24,
+      "name": "Pets allowed",
+      "count": 19,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 10,
+      "name": "Nightclub",
+      "count": 11,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 16,
+      "name": "Facilities for disabled guests",
+      "count": 216,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 88,
+      "name": "Business facilities",
+      "count": 108,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 56,
+      "name": "Golf course [on-site]",
+      "count": 6,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "TripPurpose",
+    "matrixItemResults": [
+     {
+      "id": 1,
+      "name": "Great for Groups",
+      "count": 380,
+      "filterKey": "TripPurpose",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "Great for Families",
+      "count": 291,
+      "filterKey": "TripPurpose",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3,
+      "name": "Workation Friendly",
+      "count": 175,
+      "filterKey": "TripPurpose",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "Pets Allowed",
+      "count": 24,
+      "filterKey": "TripPurpose",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "GroupedBedTypes",
+    "matrixItemResults": [
+     {
+      "id": 1,
+      "name": "Single/twin",
+      "count": 421,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "Queen",
+      "count": 293,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "Double",
+      "count": 284,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 5,
+      "name": "King",
+      "count": 190,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 7,
+      "name": "Bunk bed",
+      "count": 91,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "HotelAreaId",
+    "matrixItemResults": [
+     {
+      "id": 31515,
+      "name": "Bugis",
+      "count": 113,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 31513,
+      "name": "Little India",
+      "count": 91,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 25986,
+      "name": "Chinatown",
+      "count": 78,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 27798,
+      "name": "Geylang",
+      "count": 73,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 31516,
+      "name": "Clarke Quay",
+      "count": 70,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26017,
+      "name": "Orchard",
+      "count": 69,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 34302,
+      "name": "Kallang",
+      "count": 40,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 31517,
+      "name": "Novena",
+      "count": 36,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 62186,
+      "name": "East Coast",
+      "count": 30,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 597463,
+      "name": "CBD",
+      "count": 27,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26025,
+      "name": "Sentosa",
+      "count": 22,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 47700,
+      "name": "Changi",
+      "count": 20,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 94808,
+      "name": "HarbourFront",
+      "count": 14,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 94809,
+      "name": "City Hall",
+      "count": 14,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 62181,
+      "name": "Marina Bay",
+      "count": 11,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 34305,
+      "name": "Jurong West",
+      "count": 6,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 519559,
+      "name": "Sembawang",
+      "count": 5,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 34304,
+      "name": "Bukit Timah",
+      "count": 4,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 93392,
+      "name": "Serangoon",
+      "count": 4,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 94807,
+      "name": "Queenstown",
+      "count": 4,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 94811,
+      "name": "Mandai",
+      "count": 2,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 34301,
+      "name": "Dhoby Ghaut (Art & Heritage)",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 94805,
+      "name": "Pulau Ubin",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 94813,
+      "name": "Clementi",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 94816,
+      "name": "Bukit Batok",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "BeachAccessTypeIds",
+    "matrixItemResults": [
+     {
+      "id": 1,
+      "name": "Private beach",
+      "count": 1,
+      "filterKey": "BeachAccessTypeIds",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "HotelChainId",
+    "matrixItemResults": [
+     {
+      "id": 3,
+      "name": "Accor Hotels",
+      "count": 37,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 5824,
+      "name": "Worldwide Hotels",
+      "count": 35,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 717,
+      "name": "Far East Hospitality",
+      "count": 16,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 16,
+      "name": "InterContinental Hotels Group",
+      "count": 12,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22,
+      "name": "Millennium & Copthorne Hotels",
+      "count": 6,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "Ascott International",
+      "count": 12,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 27,
+      "name": "Pan Pacific Hotels and Resorts",
+      "count": 6,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 21,
+      "name": "Marriott Hotels and Resorts",
+      "count": 22,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 452,
+      "name": "Fragrance Hotel",
+      "count": 14,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 14,
+      "name": "Hilton Worldwide",
+      "count": 6,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 339,
+      "name": "Wyndham Hotels & Resorts",
+      "count": 3,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 112,
+      "name": "Dusit Hotels and Resorts",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 830,
+      "name": "Dorsett Hospitality International",
+      "count": 3,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 249,
+      "name": "Preferred Hotel Group",
+      "count": 6,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 719,
+      "name": "Park Avenue Hotels & Suites",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 716,
+      "name": "Aqueen Hotel & Resorts",
+      "count": 5,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 282,
+      "name": "Shangri-La Hotels and Resorts",
+      "count": 4,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2519,
+      "name": "Carlton Hotel Mangement Group",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 373,
+      "name": "Furama Hotels International",
+      "count": 2,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3977,
+      "name": "The Private Stay",
+      "count": 6,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 252,
+      "name": "Prince Hotels",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 17,
+      "name": "Kempinski",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 15,
+      "name": "Hyatt Hotels",
+      "count": 2,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 451,
+      "name": "Santa Grand Hotels",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 206,
+      "name": "Mandarin Oriental Hotel Group",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3098,
+      "name": "Resorts World Genting",
+      "count": 4,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 721,
+      "name": "Hotel Clover",
+      "count": 3,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 5,
+      "name": "Banyan Tree Hotels & Resorts",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 5364,
+      "name": "No chain - DO NOT USE",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 8040,
+      "name": "Mavin Ecom",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 301,
+      "name": "Deutsche Hospitality",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2772,
+      "name": "Far East Serviced Residences",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 11,
+      "name": "Four Seasons Hotels and Resorts",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 91,
+      "name": "COMO Hotels and Resorts ",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 11164,
+      "name": "Capella",
+      "count": 1,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1696,
+      "name": "ZEN Rooms",
+      "count": 8,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 722,
+      "name": "5Footway.Inn",
+      "count": 2,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "CityCenterDistance",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "Inside city center",
+      "count": 511,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "<2 km to center",
+      "count": 110,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "2-5 km to center",
+      "count": 69,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3,
+      "name": "5-10 km to center",
+      "count": 16,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": ">10 km to center",
+      "count": 31,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "ReviewScore",
+    "matrixItemResults": [
+     {
+      "id": 9,
+      "name": "Exceptional",
+      "count": 78,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "Excellent",
+      "count": 343,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "Very good",
+      "count": 485,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "Good",
+      "count": 530,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "ProductType",
+    "matrixItemResults": [
+     {
+      "id": -1,
+      "name": "Hotels & Homes",
+      "count": 737,
+      "filterKey": "ProductType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "Hotels",
+      "count": 729,
+      "filterKey": "ProductType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "Homes",
+      "count": 8,
+      "filterKey": "ProductType",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "NoOfBeds",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "Any",
+      "count": 529,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 1,
+      "name": "1+",
+      "count": 529,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 2,
+      "name": "2+",
+      "count": 427,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 3,
+      "name": "3+",
+      "count": 160,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 4,
+      "name": "4+",
+      "count": 61,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 5,
+      "name": "5+",
+      "count": 33,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "6+",
+      "count": 32,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "7+",
+      "count": 20,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "8+",
+      "count": 19,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 9,
+      "name": "9+",
+      "count": 17,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 10,
+      "name": "10+",
+      "count": 16,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "KidsStayForFree",
+    "matrixItemResults": [
+     {
+      "id": 250691,
+      "name": "Kids stay for free",
+      "count": 0,
+      "filterKey": "KidsStayForFree",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "NoOfBedrooms",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "Any",
+      "count": 525,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 1,
+      "name": "1+",
+      "count": 525,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 2,
+      "name": "2+",
+      "count": 27,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 3,
+      "name": "3+",
+      "count": 4,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 4,
+      "name": "4+",
+      "count": 2,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 5,
+      "name": "5+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "6+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "7+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "8+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 9,
+      "name": "9+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 10,
+      "name": "10+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "NoOfBathrooms",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "Any",
+      "count": 485,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 1,
+      "name": "1+",
+      "count": 413,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 2,
+      "name": "2+",
+      "count": 75,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 3,
+      "name": "3+",
+      "count": 20,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 4,
+      "name": "4+",
+      "count": 11,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 5,
+      "name": "5+",
+      "count": 7,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "6+",
+      "count": 5,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "7+",
+      "count": 3,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "8+",
+      "count": 2,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 9,
+      "name": "9+",
+      "count": 1,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 10,
+      "name": "10+",
+      "count": 1,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "LandmarkIds",
+    "matrixItemResults": [
+     {
+      "id": 23634,
+      "name": "Sultan Mosque",
+      "count": 186,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23614,
+      "name": "Mustafa Centre",
+      "count": 171,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 43488,
+      "name": "Haji Lane",
+      "count": 163,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 35914,
+      "name": "Arab Street",
+      "count": 153,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26052,
+      "name": "Little India",
+      "count": 145,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23598,
+      "name": "Chinatown Heritage Centre",
+      "count": 143,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23632,
+      "name": "Sri Mariamman Temple",
+      "count": 141,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26050,
+      "name": "Chinatown",
+      "count": 139,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26069,
+      "name": "Buddha Tooth Relic Temple and Museum",
+      "count": 139,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22627,
+      "name": "Maxwell Food Centre",
+      "count": 136,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26073,
+      "name": "Peranakan Museum",
+      "count": 136,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22530,
+      "name": "Clarke Quay",
+      "count": 133,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26072,
+      "name": "National Museum of Singapore",
+      "count": 132,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 160056,
+      "name": "Lau Pa Sat Festival Pavilion",
+      "count": 132,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26074,
+      "name": "Singapore City Gallery",
+      "count": 125,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26049,
+      "name": "Boat Quay",
+      "count": 122,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23592,
+      "name": "Asian Civilisations Museum",
+      "count": 118,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 107687,
+      "name": "Raffles Hotel Arcade",
+      "count": 111,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26024,
+      "name": "Fort Canning Park",
+      "count": 109,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 36964,
+      "name": "Battlebox",
+      "count": 108,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22626,
+      "name": "Esplanade - Theatres on the Bay",
+      "count": 107,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 275933,
+      "name": "Waterfront Promenade",
+      "count": 93,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 230993,
+      "name": "Merlion Park",
+      "count": 71,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22454,
+      "name": "Orchard Road",
+      "count": 48,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 135892,
+      "name": "ION Orchard",
+      "count": 37,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 49537,
+      "name": "National Orchid Garden",
+      "count": 26,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26145,
+      "name": "Universal Studios Singapore",
+      "count": 14,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 153631,
+      "name": "ArtScience Museum at Marina Bay Sands",
+      "count": 14,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 137356,
+      "name": "Marina Bay Sands Casino",
+      "count": 12,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1375065,
+      "name": "The Shoppes at Marina Bay Sands",
+      "count": 12,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 274691,
+      "name": "Sands Skypark Observation Deck",
+      "count": 11,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 114305,
+      "name": "VivoCity Shopping Mall",
+      "count": 10,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23641,
+      "name": "The Changi Museum",
+      "count": 9,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26023,
+      "name": "East Coast Park",
+      "count": 9,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1518153,
+      "name": "Jewel Changi Airport",
+      "count": 9,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22160,
+      "name": "Singapore Flyer",
+      "count": 8,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 191145,
+      "name": "The Southern Ridges",
+      "count": 7,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 204416,
+      "name": "Singapore Cable Car",
+      "count": 6,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 26110,
+      "name": "Jurong Bird Park",
+      "count": 4,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1447281,
+      "name": "Flower Dome",
+      "count": 4,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 200462,
+      "name": "Cloud Forest",
+      "count": 3,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 247013,
+      "name": "Supertree Grove",
+      "count": 3,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 277882,
+      "name": "The Helix Bridge",
+      "count": 3,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1450183,
+      "name": "Gardens By The Bay",
+      "count": 3,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23616,
+      "name": "Night Safari",
+      "count": 2,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23630,
+      "name": "Singapore Zoo",
+      "count": 2,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 137773,
+      "name": "River Safari",
+      "count": 2,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2859248,
+      "name": "Little Island Brewing Co @ Changi Village",
+      "count": 2,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23602,
+      "name": "Haw Par Villa",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23606,
+      "name": "Kranji War Memorial",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1502220,
+      "name": "MacRitchie Nature Trail",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "ReviewTopicIds",
+    "matrixItemResults": [
+     {
+      "id": 43,
+      "name": "Ideal location",
+      "count": 335,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 54,
+      "name": "Sparkling clean",
+      "count": 234,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 40,
+      "name": "Professional guest services",
+      "count": 220,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 41,
+      "name": "Top value",
+      "count": 166,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 33,
+      "name": "Attentive host service",
+      "count": 110,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "BusStationLandmarkIds",
+    "matrixItemResults": []
+   },
+   {
+    "matrixGroup": "AtmosphereIds",
+    "matrixItemResults": [
+     {
+      "id": 103,
+      "name": "Transportation hub",
+      "count": 20,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 6,
+      "name": "Restaurants",
+      "count": 587,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "Shopping area",
+      "count": 391,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "Sightseeing",
+      "count": 262,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 5,
+      "name": "Nightlife",
+      "count": 212,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3,
+      "name": "Culture",
+      "count": 169,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "Business district",
+      "count": 105,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 9,
+      "name": "Beaches",
+      "count": 52,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 8,
+      "name": "Adventure",
+      "count": 42,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 11,
+      "name": "Family fun",
+      "count": 24,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 13,
+      "name": "Casinos",
+      "count": 11,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 101,
+      "name": "Nature retreats",
+      "count": 1,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "PaymentOptions",
+    "matrixItemResults": [
+     {
+      "id": 49499,
+      "name": "Free cancellation",
+      "count": 370,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 56649,
+      "name": "Pay at the hotel",
+      "count": 133,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 52770,
+      "name": "Book now, pay later",
+      "count": 343,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 84640,
+      "name": "Pay now",
+      "count": 412,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "TrainStationLandmarkIds",
+    "matrixItemResults": []
+   },
+   {
+    "matrixGroup": "StarRatingWithLuxury",
+    "matrixItemResults": [
+     {
+      "id": 3,
+      "name": "",
+      "count": 217,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "",
+      "count": 198,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "",
+      "count": 148,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 5,
+      "name": "",
+      "count": 102,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "",
+      "count": 46,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 101,
+      "name": "Agoda Luxe",
+      "count": 35,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "AccommodationType",
+    "matrixItemResults": [
+     {
+      "id": 34,
+      "name": "Hotel",
+      "count": 616,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 29,
+      "name": "Apartment/Flat",
+      "count": 4,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 37,
+      "name": "Resort",
+      "count": 13,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 120,
+      "name": "Serviced apartment",
+      "count": 17,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 32,
+      "name": "Guesthouse/bed and breakfast",
+      "count": 4,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 33,
+      "name": "Hostel",
+      "count": 48,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 105,
+      "name": "Capsule hotel",
+      "count": 27,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 102,
+      "name": "Boat/cruise",
+      "count": 1,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 114,
+      "name": "Tent",
+      "count": 3,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 111,
+      "name": "Inn",
+      "count": 3,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 112,
+      "name": "Lodge",
+      "count": 1,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 89,
+      "name": "Family/child friendly",
+      "count": 465,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 141,
+      "name": "Guest House",
+      "count": 1,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "RoomBenefits",
+    "matrixItemResults": [
+     {
+      "id": 78322,
+      "name": "Breakfast included",
+      "count": 184,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 78307,
+      "name": "Dinner included",
+      "count": 24,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128283,
+      "name": "Outside food delivery allowed",
+      "count": 7,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 84845,
+      "name": "Complimentary snacks",
+      "count": 6,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 78310,
+      "name": "Early check-in ",
+      "count": 4,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128280,
+      "name": "Espresso machine with pods",
+      "count": 4,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 78309,
+      "name": "Late check-out",
+      "count": 4,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 78312,
+      "name": "Free shuttle service ",
+      "count": 4,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 78306,
+      "name": "Lunch included",
+      "count": 3,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 84841,
+      "name": "Afternoon tea",
+      "count": 3,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128276,
+      "name": "Exercise bike",
+      "count": 3,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128281,
+      "name": "Delivery from family and relatives allowed",
+      "count": 2,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128278,
+      "name": "Treadmill",
+      "count": 2,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128273,
+      "name": "Vegetarian",
+      "count": 1,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128275,
+      "name": "Dumbbells",
+      "count": 1,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 78308,
+      "name": "Airport transfer",
+      "count": 1,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128268,
+      "name": "Halal",
+      "count": 1,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128282,
+      "name": "Delivery from nearby convenience store",
+      "count": 1,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 128270,
+      "name": "Kids' menu",
+      "count": 1,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "RoomAmenities",
+    "matrixItemResults": [
+     {
+      "id": 25,
+      "name": "Air conditioning",
+      "count": 443,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 35,
+      "name": "TV",
+      "count": 366,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 33,
+      "name": "Ironing facilities",
+      "count": 271,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 86,
+      "name": "Refrigerator",
+      "count": 259,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 47,
+      "name": "Coffee/tea maker",
+      "count": 225,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 31,
+      "name": "Internet access",
+      "count": 212,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 37,
+      "name": "Bathtub",
+      "count": 131,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 43,
+      "name": "Balcony/terrace",
+      "count": 129,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 87,
+      "name": "Washing machine",
+      "count": 93,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 42,
+      "name": "Kitchen",
+      "count": 32,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 143,
+      "name": "Heating",
+      "count": 30,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 50,
+      "name": "Private pool",
+      "count": 12,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 342,
+      "name": "Pets allowed in room",
+      "count": 7,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "MetroSubwayStationLandmarkIds",
+    "matrixItemResults": []
+   },
+   {
+    "matrixGroup": "ReviewLocationScore",
+    "matrixItemResults": [
+     {
+      "id": 9,
+      "name": "Exceptional",
+      "count": 171,
+      "filterKey": "ReviewLocationScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "Excellent",
+      "count": 404,
+      "filterKey": "ReviewLocationScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "Very good",
+      "count": 503,
+      "filterKey": "ReviewLocationScore",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "Popular",
+    "matrixItemResults": [
+     {
+      "id": 26017,
+      "name": "Orchard area",
+      "count": 69,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 31515,
+      "name": "Bugis area",
+      "count": 113,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 56649,
+      "name": "Pay at the hotel",
+      "count": 133,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 89,
+      "name": "Family/child friendly",
+      "count": 465,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 93,
+      "name": "Swimming pool",
+      "count": 146,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 91,
+      "name": "Spa/sauna",
+      "count": 37,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 11,
+      "name": "Restaurants",
+      "count": 195,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "Segment",
+    "matrixItemResults": [
+     {
+      "id": 78322,
+      "name": "Breakfast included",
+      "count": 184,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 90,
+      "name": "Internet",
+      "count": 523,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 49499,
+      "name": "Free cancellation",
+      "count": 370,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 91,
+      "name": "Spa/sauna",
+      "count": 37,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 93,
+      "name": "Swimming pool",
+      "count": 146,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 56649,
+      "name": "Pay at the hotel",
+      "count": 133,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "PopularForFamily",
+    "matrixItemResults": [
+     {
+      "id": 250691,
+      "name": "Kids stay for free",
+      "count": 0,
+      "filterKey": "KidsStayForFree",
+      "filterRequestType": "IDs"
+     }
+    ]
+   }
+  ]
+ }
+}

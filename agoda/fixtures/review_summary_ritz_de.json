@@ -1,0 +1,3099 @@
+{
+ "hasReviewsData": true,
+ "pageSize": 5,
+ "hotelId": 10626,
+ "hotelName": "The Ritz-Carlton, Millenia Singapore",
+ "additionalReviewProviders": [
+  27901,
+  28999,
+  27989
+ ],
+ "recentReviewScores": [
+  {
+   "providerId": 332,
+   "recentReviewScores": [
+    4.4,
+    9.2,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    8.8,
+    10.0,
+    10.0,
+    10.0
+   ],
+   "recentReviewScoresFormatted": [
+    "4,4",
+    "9,2",
+    "10",
+    "10",
+    "10",
+    "10",
+    "8,8",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "providerId": 3038,
+   "recentReviewScores": [
+    10.0,
+    8.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    1.0,
+    10.0,
+    10.0
+   ],
+   "recentReviewScoresFormatted": [
+    "10",
+    "8,0",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "1,0",
+    "10",
+    "10"
+   ]
+  }
+ ],
+ "combinedReview": {
+  "isShowCombinedRating": true,
+  "score": {
+   "maxScore": 10,
+   "providerId": -1,
+   "reviewCommentsCount": 4989,
+   "reviewCount": 7808,
+   "score": 9.2,
+   "demographic": "Alle Reisearten",
+   "formattedReviewCount": "7.808",
+   "formattedScore": "9,2",
+   "scoreText": "Exzellent"
+  },
+  "providers": [
+   {
+    "providerId": 332,
+    "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+    "logoName": "agoda",
+    "logoAltText": "Agoda"
+   },
+   {
+    "providerId": 3038,
+    "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+    "logoName": "booking",
+    "logoAltText": "Booking.com"
+   },
+   {
+    "providerId": 28999,
+    "logoUrl": "https://cdn6.agoda.net/images/default/priceline-logo.png",
+    "logoName": "priceline",
+    "logoAltText": "Priceline.com"
+   },
+   {
+    "providerId": 29100,
+    "logoUrl": "",
+    "logoName": "",
+    "logoAltText": ""
+   }
+  ],
+  "grades": [
+   {
+    "id": "cleanliness",
+    "name": "Zustand/Sauberkeit",
+    "score": 9.5,
+    "scoreText": "Exzellent",
+    "formattedScore": "9,5"
+   },
+   {
+    "id": "location",
+    "name": "Lage",
+    "score": 9.4,
+    "scoreText": "Exzellent",
+    "formattedScore": "9,4"
+   },
+   {
+    "id": "roomComfort",
+    "name": "Zimmerkomfort und Qualität",
+    "score": 9.4,
+    "scoreText": "Exzellent",
+    "formattedScore": "9,4"
+   },
+   {
+    "id": "staffPerformance",
+    "name": "Service",
+    "score": 9.4,
+    "scoreText": "Exzellent",
+    "formattedScore": "9,4"
+   },
+   {
+    "id": "facilities",
+    "name": "Einrichtungen",
+    "score": 9.3,
+    "scoreText": "Exzellent",
+    "formattedScore": "9,3"
+   },
+   {
+    "id": "overall",
+    "name": "",
+    "score": 9.2,
+    "scoreText": "Exzellent",
+    "formattedScore": "9,2"
+   },
+   {
+    "id": "valueForMoney",
+    "name": "Preis-Leistung",
+    "score": 8.7,
+    "scoreText": "Fantastisch",
+    "formattedScore": "8,7"
+   },
+   {
+    "id": "foodDining",
+    "name": "Essen und Trinken",
+    "score": 8.3,
+    "scoreText": "Fantastisch",
+    "formattedScore": "8,3"
+   }
+  ]
+ },
+ "commentList": {
+  "reviewPageUrl": "/de-de/the-ritz-carlton-millenia-singapore/reviews/singapore-sg.html",
+  "currentPage": 1,
+  "hotelID": 10626,
+  "pageSize": 5,
+  "selectedSortOption": 7,
+  "haveMoreThanOneComments": true,
+  "isCrawlablePage": true,
+  "isCurated": false,
+  "isReviewPage": false,
+  "shouldShowProminentLink": false,
+  "pageNumberToPageUrl": {},
+  "reviewsSortOptions": {
+   "1": "Neueste zuerst",
+   "2": "Beste Bewertung zuerst",
+   "3": "Schlechteste Bewertung zuerst",
+   "7": "Hilfreichste zuerst"
+  },
+  "comments": [
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1199415110,
+    "providerId": 332,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "Oktober 2026",
+    "encryptedReviewData": "VflSwrUNMNyRe/liH1p28g==",
+    "formattedRating": "10,0",
+    "formattedReviewDate": "25 Oktober 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Exzellent",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "Unser 24-Stunden stop over in Singapur war ein tolles Erlebnis, auch weil das Ritz ein absoluter Wohlfühlort war. Von dem Moment des Ankommens bis zur Abreise wurde vom super freundlichen staff alles getan, damit wir uns wohl fühlen. Schönes Zimmer, exzellentes Frühstück. Weil wir einen späten Flug hatten durften wir nach dem Sightseeing noch den Pool und den Spa nutzen, um frisch in den Flieger zu steigen. \nAbsolute Empfehlung ",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Phantastischer Stop over ",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "checkInDate": "2026-10-23T00:00:00+07:00",
+    "checkOutDate": "2026-10-24T00:00:00+07:00",
+    "reviewDate": "2026-10-25T04:41:02+07:00",
+    "reviewerInfo": {
+     "countryName": "Deutschland",
+     "displayMemberName": "Kristine",
+     "flagName": "de",
+     "reviewGroupName": "Familie mit älteren Kindern",
+     "roomTypeName": "Grand Marina, Guest room, 1 King, Sofa bed, Marina Bay view",
+     "countryId": 101,
+     "lengthOfStay": 1,
+     "reviewGroupId": 5,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1200835327,
+    "providerId": 3038,
+    "rating": 8.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "tdkMR4Mi3GRg9XI46VAsBQ==",
+    "formattedRating": "8,0",
+    "formattedReviewDate": "17 Oktober 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Fantastisch",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "",
+    "reviewNegatives": "Überteuertes Frühstück, wenig Ausweichmöglichkeiten für Breakfast.\nViel Business-Gäste, eher unentspannt für Urlauber.\nSauber, hätte aber noch besser sein können.",
+    "reviewPositives": "Sehr zuvorkommendes Personal.\nSchöner Pool.\nTolles Ambiente.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Gute Lage, schönes Ambiente, viel Personal",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "reviewDate": "2026-10-17T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Thomas",
+     "flagName": "",
+     "reviewGroupName": "Zu zweit unterwegs",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1062574573,
+    "providerId": 332,
+    "rating": 9.6,
+    "checkInDateMonthAndYear": "Dezember 2025",
+    "encryptedReviewData": "X/hbK7dRwYzWzW3LnaxwJg==",
+    "formattedRating": "9,6",
+    "formattedReviewDate": "27 Dezember 2025",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Exzellent",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "Alles war einfach perfekt. Der Preis ist zwar nicht niedrig, aber bereits bei der Ankunft merkt man sofort, dass man sich in einem Hotel der absoluten Spitzenklasse befindet. Schon der Empfang war außergewöhnlich: Man wird herzlich begrüßt, durch die beeindruckende Lobby geführt und persönlich zur Rezeption begleitet.\nDer Service ist auf einem Niveau, das ich so bisher noch nicht erlebt habe. Jeder Mitarbeiter war extrem aufmerksam, freundlich und zuvorkommend – man fühlt sich vom ersten Moment an rundum gut aufgehoben.\n\nIch hatte ein Zimmer mit Marina-Ausblick, und es war einfach atemberaubend. Das Zimmer war luxuriös, sehr großzügig geschnitten, makellos sauber und bot sowohl vom Zimmer als auch von der Badewanne aus einen fantastischen Blick auf die Marina.\n\nAuch das Frühstücksbuffet gehört zu den besten, die ich je erlebt habe. Eine riesige Auswahl mit verschiedenen Stationen: chinesische, indische und westliche Gerichte, gesunde Optionen, Süßes, frisches Obst, Säfte und vieles mehr. Ich war wirklich beeindruckt. Besonders hervorzuheben ist auch hier der Service: Leere Teller wurden sofort diskret abgeräumt, und als ich mir ein Glas Porridge holte, wurde mir umgehend ein kleiner Löffel an den Tisch gebracht – so viel Aufmerksamkeit fürs Detail habe ich selten erlebt.\n\nDer Poolbereich ist ebenfalls sehr schön: groß, gepflegt und mit ausreichend Liegen zum Entspannen. Insgesamt habe ich mich während des gesamten Aufenthalts extrem wohlgefühlt und jede Minute genossen.\n\nDie Lage ist auch hervorragend mit Nähe zur Marina. Direkt neben dem Hotel befinden sich zudem mit wenigen Minuten Gehzeit zwei Bushaltestellen.\n\nDieses Hotel hat die fünf Sterne mehr als verdient.\n\nP.S.: Ich war zur Weihnachtszeit dort, und die Lobby war wunderschön und festlich dekoriert – ich habs geliebt!",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Fünf Sterne, die man in jedem Detail spürt",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "checkInDate": "2025-12-22T00:00:00+07:00",
+    "checkOutDate": "2025-12-23T00:00:00+07:00",
+    "reviewDate": "2025-12-27T09:58:00+07:00",
+    "reviewerInfo": {
+     "countryName": "Deutschland",
+     "displayMemberName": "Julia",
+     "flagName": "de",
+     "reviewGroupName": "Allein unterwegs",
+     "roomTypeName": "Grand Marina, Guest room, 1 King, Sofa bed, Marina Bay view",
+     "countryId": 101,
+     "lengthOfStay": 1,
+     "reviewGroupId": 3,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1188093338,
+    "providerId": 3038,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "Ei9wUbWAPca/+ZEa6RElNA==",
+    "formattedRating": "10,0",
+    "formattedReviewDate": "23 September 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Exzellent",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "",
+    "reviewNegatives": "Nach dem Check out wenig Möglichkeiten  zum umziehen beim späteren Abflug",
+    "reviewPositives": "Das Personal sehr freundlich und hilfsbereit. \nDie Zimmer sehr groß mit einer phantastischen Aussicht auf die Bay.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Besser geht nicht.",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "reviewDate": "2026-09-23T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "uli56",
+     "flagName": "",
+     "reviewGroupName": "Allein unterwegs",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 3,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 908805018,
+    "providerId": 332,
+    "rating": 8.8,
+    "checkInDateMonthAndYear": "Dezember 2024",
+    "encryptedReviewData": "S+0DYXxRt9hI+LsovStCjg==",
+    "formattedRating": "8,8",
+    "formattedReviewDate": "29 Dezember 2024",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Fantastisch",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "Das in Ritz Crlanton ansässige Restaurant \"Summer Pavilion\" hat leider nicht überzeugt. Wir dinnierten mit 3 Personen, wählten das angebotene Weihnachtsmenü. Bei einer Skala von maximal 10 Punkten, würden wir einstimmig maximal 4 Punkte vergeben. Das Servicepersonal des Restaurants würden wir mit 8 Punkten bewerten. Wir hatten 3 Hotelzimmer mit Club Zugang und wurden angenehm  überrascht, dass Essen und Servicepersonal war fantastisch. Insgesamt würden wir das Hotel auf jeden Fall weiter empfehlen. ",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Fantastisch",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "checkInDate": "2024-12-22T00:00:00+07:00",
+    "checkOutDate": "2024-12-25T00:00:00+07:00",
+    "reviewDate": "2024-12-29T01:30:00+07:00",
+    "reviewerInfo": {
+     "countryName": "Deutschland",
+     "displayMemberName": "Sebastian",
+     "flagName": "de",
+     "reviewGroupName": "Gruppe",
+     "roomTypeName": "Club Deluxe Kallang, Club lounge access, Guest room, 1 King, Kallang Precinct view",
+     "countryId": 101,
+     "lengthOfStay": 3,
+     "reviewGroupId": 6,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1188093348,
+    "providerId": 3038,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "Lf05gzBl1I2g8zVMCtWNXQ==",
+    "formattedRating": "10,0",
+    "formattedReviewDate": "19 September 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Exzellent",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "",
+    "reviewNegatives": "Nichts war negativ.",
+    "reviewPositives": "Die zentrale Lage, die Sauberkeit, das freundliche Personal, das“ Hotel im Hotel“ ,keine langen Wartezeiten, der wunderschöne Spa Bereich. Wir fühlten uns sehr verwöhnt in der Club Lounge.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Der Hotelgast ist König",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "reviewDate": "2026-09-19T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Marion",
+     "flagName": "",
+     "reviewGroupName": "Gruppe",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 6,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1079490188,
+    "providerId": 332,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "Februar 2026",
+    "encryptedReviewData": "vh/aA09SY0J040glpVUWBw==",
+    "formattedRating": "10,0",
+    "formattedReviewDate": "01 März 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Exzellent",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "alles tiptop… bester blick ",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Exzellent",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "checkInDate": "2026-02-28T00:00:00+07:00",
+    "checkOutDate": "2026-03-01T00:00:00+07:00",
+    "reviewDate": "2026-03-01T09:52:00+07:00",
+    "reviewerInfo": {
+     "countryName": "Deutschland",
+     "displayMemberName": "erik",
+     "flagName": "de",
+     "reviewGroupName": "Zu zweit unterwegs",
+     "roomTypeName": "Deluxe Marina, Guest room, 1 King, Marina Bay view",
+     "countryId": 101,
+     "lengthOfStay": 1,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [
+     {
+      "id": 3294794,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/d23b19a8bac8c7d655e110b9699a25a0.jpeg?ce=3",
+      "caption": ""
+     },
+     {
+      "id": 3294793,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/4326d709938c2b8f73e7b1fa8101c1e4.jpeg?ce=3",
+      "caption": ""
+     },
+     {
+      "id": 3294792,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/bfe2705a1a50285daa282fc3ecdae4d4.jpeg?ce=3",
+      "caption": ""
+     }
+    ],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1188093351,
+    "providerId": 3038,
+    "rating": 4.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "x4xzCIPbCvVZP9jpFkD4eA==",
+    "formattedRating": "4,0",
+    "formattedReviewDate": "16 September 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Bewertung",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "",
+    "reviewNegatives": "Wir hatten 6 Tage gebucht langfristig vorher, und bekamen nur ein Zimmer im 10.Stock ( bei 32 Stockwerken). Vor dem Hotel befindet Sich eine Großbaustelle die den Blick auf die Sands Bay deutlich verschlechterte. Zusätzlich war der Besuch der Bar im 32 Stock nicht im Preis inbegriffen, der sollte allen Hotelgästen freistehen",
+    "reviewPositives": "Dia Lage des Hotels und das Zimmer, die Sauberkeit",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Akzeptabel",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "reviewDate": "2026-09-16T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Christian",
+     "flagName": "",
+     "reviewGroupName": "Zu zweit unterwegs",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": true,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1195076450,
+    "providerId": 332,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "Oktober 2026",
+    "encryptedReviewData": "lmfBp4W8U4xenv7UfdsQRQ==",
+    "formattedRating": "10,0",
+    "formattedReviewDate": "16 Oktober 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Exzellent",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "en",
+    "reviewComments": "We truly had a relaxing and wonderful stay at Ritz Carlton. Hospitality was top notch. Spoilt for choice spread at breakfast. Location is superb. We are locals, so we know our way around but if you’re a traveller, you’ll find places of interest and shopping within walking distance of this property. ",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Superb staycation",
+    "translateSource": "en",
+    "translateTarget": "de",
+    "checkInDate": "2026-10-02T00:00:00+07:00",
+    "checkOutDate": "2026-10-04T00:00:00+07:00",
+    "reviewDate": "2026-10-16T05:10:12+07:00",
+    "reviewerInfo": {
+     "countryName": "Singapur",
+     "displayMemberName": "Nurfarehan",
+     "flagName": "sg",
+     "reviewGroupName": "Familie mit Kleinkindern",
+     "roomTypeName": "Deluxe Marina, Guest room, 1 King, Marina Bay view",
+     "countryId": 114,
+     "lengthOfStay": 2,
+     "reviewGroupId": 4,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 3,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1180397802,
+    "providerId": 3038,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "MNbIYSs8yxcUsu8CiTWzDg==",
+    "formattedRating": "10,0",
+    "formattedReviewDate": "06 September 2026",
+    "formattedReviewHelpfulText": "Fanden Sie diese Bewertung hilfreich?",
+    "ratingText": "Exzellent",
+    "responderName": "The Ritz-Carlton, Millenia Singapore",
+    "responseDateText": "",
+    "responseTranslateSource": "de",
+    "reviewComments": "",
+    "reviewNegatives": "Wenn man das Haar in der Suppe suchen will, dann die etwas altmodisch anmutende Einrichtung der Zimmer, die aber technisch dennoch auf gutem Niveau sind.",
+    "reviewPositives": "Der Service des Ritz-Carlton lässt keine. Wünsche offen, das Frühstück mit 7 Live Küchen ist einzigartig, SPA, Poolarea und Gym lassen einen vergessen, dass man in einem Stadthotel ist.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Superior 5 Stern ohne jeden Tadel",
+    "translateSource": "de",
+    "translateTarget": "de",
+    "reviewDate": "2026-09-06T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Andreas",
+     "flagName": "",
+     "reviewGroupName": "Zu zweit unterwegs",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   }
+  ],
+  "reviewFilterAndSort": [
+   {
+    "providerId": 332,
+    "selectedSortingOption": 7,
+    "hasSelectedFilters": false,
+    "showLanguageFilter": true,
+    "showRoomTypeFilter": true,
+    "hasCommentsMoreThanOnePage": true,
+    "shouldShowReviewFilters": true,
+    "sortings": [
+     {
+      "sortId": 1,
+      "sortText": "Neueste zuerst"
+     },
+     {
+      "sortId": 2,
+      "sortText": "Beste Bewertung zuerst"
+     },
+     {
+      "sortId": 3,
+      "sortText": "Schlechteste Bewertung zuerst"
+     },
+     {
+      "sortId": 7,
+      "sortText": "Hilfreichste zuerst"
+     }
+    ],
+    "filters": [
+     {
+      "name": "Sprache",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 2,
+      "filterItems": [
+       {
+        "id": 1,
+        "key": "1",
+        "name": "English",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 9,
+        "key": "9",
+        "name": "한국어",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 6,
+        "key": "6",
+        "name": "日本語",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 8,
+        "key": "8",
+        "name": "简体中文",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 20,
+        "key": "20",
+        "name": "繁體中文 (台灣)",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 22,
+        "key": "22",
+        "name": "ภาษาไทย",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 7,
+        "key": "7",
+        "name": "繁體中文 (香港)",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 16,
+        "key": "16",
+        "name": "English / United Kingdom",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 19,
+        "key": "19",
+        "name": "English / Singapore",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 24,
+        "key": "24",
+        "name": "Tiếng Việt",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 26,
+        "key": "26",
+        "name": "Bahasa Indonesia",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3,
+        "key": "3",
+        "name": "Deutsch",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 2,
+        "key": "2",
+        "name": "Français",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 11,
+        "key": "11",
+        "name": "Русский",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 23,
+        "key": "23",
+        "name": "Bahasa Malaysia",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 40,
+        "key": "40",
+        "name": "العربية",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 29,
+        "key": "29",
+        "name": "Dansk",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 30,
+        "key": "30",
+        "name": "Suomi",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 18,
+        "key": "18",
+        "name": "English / Australia",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 13,
+        "key": "13",
+        "name": "Nederlands",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 5,
+        "key": "5",
+        "name": "Español",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 25,
+        "key": "25",
+        "name": "Svenska",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 4,
+        "key": "4",
+        "name": "Italiano",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 39,
+        "key": "39",
+        "name": "עברית",
+        "count": 0,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Zimmertyp",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 3,
+      "filterItems": [
+       {
+        "id": 108415020,
+        "key": "108415020",
+        "name": "Club Deluxe Marina, Club lounge access, Guest room, 2 Twin, Marina Bay view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 9489108,
+        "key": "9489108",
+        "name": "Club Deluxe Suite, Club lounge access, Suite, 1 King, Marina Bay view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 7652764,
+        "key": "7652764",
+        "name": "Grand Kallang, Guest room, 1 King, Sofa bed, Kallang Precinct view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 108415017,
+        "key": "108415017",
+        "name": "Deluxe Marina, Guest room, 2 Twin, Marina Bay view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3281220,
+        "key": "3281220",
+        "name": "Club Premier Suite, Club lounge access, Suite, 1 King, Marina Bay view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3281222,
+        "key": "3281222",
+        "name": "Club Deluxe Marina, Club Lounge Access, Guest Room, 1 King, Marina Bay View",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3281227,
+        "key": "3281227",
+        "name": "Elevated Kallang, Guest room, 1 King, Kallang Precinct view, High floor",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 108415015,
+        "key": "108415015",
+        "name": "Deluxe Kallang, Guest room, 2 Twin, Kallang Precinct view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3281221,
+        "key": "3281221",
+        "name": "Club Deluxe Kallang, Club lounge access, Guest room, 1 King, Kallang Precinct view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3281224,
+        "key": "3281224",
+        "name": "Deluxe Marina, Guest room, 1 King, Marina Bay view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3281223,
+        "key": "3281223",
+        "name": "Deluxe Kallang, Guest room, 1 King, Kallang Precinct view",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 7652792,
+        "key": "7652792",
+        "name": "Grand Marina, Guest room, 1 King, Sofa bed, Marina Bay view",
+        "count": 0,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Bewertung",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 4,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "exceptional",
+        "name": "9+ Exzellent",
+        "count": 769,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "excellent",
+        "name": "8–9 Fantastisch",
+        "count": 70,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "very_good",
+        "name": "7–8 Sehr gut",
+        "count": 57,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "good",
+        "name": "6–7 Gut",
+        "count": 13,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "below_expectation",
+        "name": "<6 Unter den Erwartungen",
+        "count": 32,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Jahreszeit",
+      "filterItemsPerRow": 4,
+      "displayShowMore": false,
+      "type": 5,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "mar_to_may",
+        "name": "März – Mai",
+        "count": 233,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "jun_to_aug",
+        "name": "Jun – Aug",
+        "count": 262,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "sep_to_nov",
+        "name": "Sep – Nov",
+        "count": 207,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "dec_to_feb",
+        "name": "Dez – Feb",
+        "count": 239,
+        "isSelected": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "providerId": 3038,
+    "selectedSortingOption": 7,
+    "hasSelectedFilters": false,
+    "showLanguageFilter": false,
+    "showRoomTypeFilter": false,
+    "hasCommentsMoreThanOnePage": true,
+    "shouldShowReviewFilters": false,
+    "sortings": [
+     {
+      "sortId": 1,
+      "sortText": "Neueste zuerst"
+     },
+     {
+      "sortId": 2,
+      "sortText": "Beste Bewertung zuerst"
+     },
+     {
+      "sortId": 3,
+      "sortText": "Schlechteste Bewertung zuerst"
+     },
+     {
+      "sortId": 7,
+      "sortText": "Hilfreichste zuerst"
+     }
+    ],
+    "filters": [
+     {
+      "name": "Bewertung",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 4,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "exceptional",
+        "name": "9+ Exzellent",
+        "count": 688,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "excellent",
+        "name": "8–9 Fantastisch",
+        "count": 260,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "very_good",
+        "name": "7–8 Sehr gut",
+        "count": 134,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "good",
+        "name": "6–7 Gut",
+        "count": 58,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "below_expectation",
+        "name": "<6 Unter den Erwartungen",
+        "count": 87,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Jahreszeit",
+      "filterItemsPerRow": 4,
+      "displayShowMore": false,
+      "type": 5,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "mar_to_may",
+        "name": "März – Mai",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "jun_to_aug",
+        "name": "Jun – Aug",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "sep_to_nov",
+        "name": "Sep – Nov",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "dec_to_feb",
+        "name": "Dez – Feb",
+        "count": 0,
+        "isSelected": false
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "providerList": [
+   {
+    "id": 332,
+    "isDefaultProvider": true,
+    "totalIndex": 941
+   },
+   {
+    "id": 3038,
+    "isDefaultProvider": false,
+    "totalIndex": 1227
+   }
+  ],
+  "provider": 332,
+  "searchReview": {
+   "searchKeyword": ""
+  }
+ },
+ "score": {
+  "reviewPageUrl": "/de-de/the-ritz-carlton-millenia-singapore/reviews/singapore-sg.html",
+  "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+  "hotelId": 10626,
+  "hotelName": "The Ritz-Carlton, Millenia Singapore",
+  "providerIdForSeoReviewScore": 332,
+  "providerId": 332,
+  "demographics": [
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 9.1,
+    "maxScore": 10.0,
+    "id": 0,
+    "count": 4510,
+    "providerId": 332,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,1",
+    "name": "Alle Reisearten",
+    "reviewProviderLogoText": "Bereitgestellt von geprüften Gästen von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 8.7,
+      "uid": "cleanliness-9.6-6",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.3,
+      "formattedScore": "9,3",
+      "scale": 10.0,
+      "percentage": 93.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "93.0",
+      "cityAverage": 8.4,
+      "uid": "facilities-9.3-10",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 8.8,
+      "uid": "location-9.4-25",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 8.7,
+      "uid": "roomComfort-9.4-15",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 8.6,
+      "uid": "staffPerformance-9.4-2",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.8,
+      "formattedScore": "8,8",
+      "scale": 10.0,
+      "percentage": 88.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "88.0",
+      "cityAverage": 8.0,
+      "uid": "valueForMoney-8.8-21",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exzellent",
+      "count": 2798
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8–9 Fantastisch",
+      "count": 578
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7–8 Sehr gut",
+      "count": 139
+     },
+     {
+      "id": "good",
+      "scoreText": "6–7 Gut",
+      "count": 104
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Unter den Erwartungen",
+      "count": 68
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 8.9,
+    "maxScore": 10.0,
+    "id": 1,
+    "count": 251,
+    "providerId": 332,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "8,9",
+    "name": "Geschäftsreisenden",
+    "reviewProviderLogoText": "Bereitgestellt von geprüften Gästen von",
+    "scoreText": "Fantastisch",
+    "subReview": {
+     "score": "9,4",
+     "text": "Exzellenter Zimmerkomfort",
+     "name": "Zimmerkomfort und Qualität"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.2,
+      "formattedScore": "9,2",
+      "scale": 10.0,
+      "percentage": 92.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "92.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.2-1",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 8.8,
+      "formattedScore": "8,8",
+      "scale": 10.0,
+      "percentage": 88.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "88.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-8.8-1",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.0,
+      "formattedScore": "9,0",
+      "scale": 10.0,
+      "percentage": 90.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "90.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.0-10",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.4-2",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.1,
+      "formattedScore": "9,1",
+      "scale": 10.0,
+      "percentage": 91.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "91.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.1-23",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.4,
+      "formattedScore": "8,4",
+      "scale": 10.0,
+      "percentage": 84.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "84.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.4-1",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exzellent",
+      "count": 158
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8–9 Fantastisch",
+      "count": 47
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7–8 Sehr gut",
+      "count": 19
+     },
+     {
+      "id": "good",
+      "scoreText": "6–7 Gut",
+      "count": 18
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Unter den Erwartungen",
+      "count": 5
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 9.4,
+    "maxScore": 10.0,
+    "id": 2,
+    "count": 1770,
+    "providerId": 332,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,4",
+    "name": "Paare",
+    "reviewProviderLogoText": "Bereitgestellt von geprüften Gästen von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.6-25",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.4-27",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.5-16",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.4-2",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.5-4",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.9,
+      "formattedScore": "8,9",
+      "scale": 10.0,
+      "percentage": 89.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "89.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.9-13",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exzellent",
+      "count": 1349
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8–9 Fantastisch",
+      "count": 257
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7–8 Sehr gut",
+      "count": 66
+     },
+     {
+      "id": "good",
+      "scoreText": "6–7 Gut",
+      "count": 36
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Unter den Erwartungen",
+      "count": 27
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 9.3,
+    "maxScore": 10.0,
+    "id": 3,
+    "count": 397,
+    "providerId": 332,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,3",
+    "name": "Alleinreisende",
+    "reviewProviderLogoText": "Bereitgestellt von geprüften Gästen von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.6-5",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.2,
+      "formattedScore": "9,2",
+      "scale": 10.0,
+      "percentage": 92.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "92.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.2-21",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.3,
+      "formattedScore": "9,3",
+      "scale": 10.0,
+      "percentage": 93.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "93.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.3-2",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.4-15",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.5-7",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.8,
+      "formattedScore": "8,8",
+      "scale": 10.0,
+      "percentage": 88.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "88.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.8-28",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exzellent",
+      "count": 294
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8–9 Fantastisch",
+      "count": 60
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7–8 Sehr gut",
+      "count": 7
+     },
+     {
+      "id": "good",
+      "scoreText": "6–7 Gut",
+      "count": 8
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Unter den Erwartungen",
+      "count": 11
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 9.3,
+    "maxScore": 10.0,
+    "id": 4,
+    "count": 647,
+    "providerId": 332,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,3",
+    "name": "Familie mit Kleinkindern",
+    "reviewProviderLogoText": "Bereitgestellt von geprüften Gästen von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,5",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.5-14",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.2,
+      "formattedScore": "9,2",
+      "scale": 10.0,
+      "percentage": 92.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "92.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.2-6",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.4-18",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.2,
+      "formattedScore": "9,2",
+      "scale": 10.0,
+      "percentage": 92.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "92.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.2-4",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.4-3",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.8,
+      "formattedScore": "8,8",
+      "scale": 10.0,
+      "percentage": 88.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "88.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.8-25",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exzellent",
+      "count": 466
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8–9 Fantastisch",
+      "count": 107
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7–8 Sehr gut",
+      "count": 25
+     },
+     {
+      "id": "good",
+      "scoreText": "6–7 Gut",
+      "count": 19
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Unter den Erwartungen",
+      "count": 13
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 9.4,
+    "maxScore": 10.0,
+    "id": 5,
+    "count": 311,
+    "providerId": 332,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,4",
+    "name": "Familie mit Kindern",
+    "reviewProviderLogoText": "Bereitgestellt von geprüften Gästen von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.6-25",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.3,
+      "formattedScore": "9,3",
+      "scale": 10.0,
+      "percentage": 93.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "93.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.3-21",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.5-1",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.6-3",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.5-14",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.9,
+      "formattedScore": "8,9",
+      "scale": 10.0,
+      "percentage": 89.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "89.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.9-29",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exzellent",
+      "count": 237
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8–9 Fantastisch",
+      "count": 39
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7–8 Sehr gut",
+      "count": 15
+     },
+     {
+      "id": "good",
+      "scoreText": "6–7 Gut",
+      "count": 8
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Unter den Erwartungen",
+      "count": 3
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 9.3,
+    "maxScore": 10.0,
+    "id": 6,
+    "count": 512,
+    "providerId": 332,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,3",
+    "name": "Reisegruppe",
+    "reviewProviderLogoText": "Bereitgestellt von geprüften Gästen von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.6-2",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.3,
+      "formattedScore": "9,3",
+      "scale": 10.0,
+      "percentage": 93.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "93.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.3-13",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.4-1",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.3,
+      "formattedScore": "9,3",
+      "scale": 10.0,
+      "percentage": 93.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "93.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.3-19",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.5-22",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.9,
+      "formattedScore": "8,9",
+      "scale": 10.0,
+      "percentage": 89.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "89.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.9-9",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exzellent",
+      "count": 294
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8–9 Fantastisch",
+      "count": 68
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7–8 Sehr gut",
+      "count": 7
+     },
+     {
+      "id": "good",
+      "scoreText": "6–7 Gut",
+      "count": 15
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Unter den Erwartungen",
+      "count": 9
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 9.4,
+    "maxScore": 10.0,
+    "id": 0,
+    "count": 1755,
+    "providerId": 3038,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,4",
+    "name": "Alle Reisearten",
+    "reviewProviderLogoText": "Verifizierte Bewertungen mithilfe von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 8.8,
+      "uid": "cleanliness-9.6-21",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 8.5,
+      "uid": "facilities-9.4-2",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 8.9,
+      "uid": "location-9.6-29",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 8.8,
+      "uid": "roomComfort-9.6-22",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 8.8,
+      "uid": "staffPerformance-9.6-26",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.6,
+      "formattedScore": "8,6",
+      "scale": 10.0,
+      "percentage": 86.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "86.0",
+      "cityAverage": 7.8,
+      "uid": "valueForMoney-8.6-15",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 9.5,
+    "maxScore": 10.0,
+    "id": 2,
+    "count": 829,
+    "providerId": 3038,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,5",
+    "name": "Paare",
+    "reviewProviderLogoText": "Verifizierte Bewertungen mithilfe von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,7",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.7,
+      "formattedScore": "9,7",
+      "scale": 10.0,
+      "percentage": 97.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "97.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.7-0",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.5-13",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.6-3",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.7,
+      "formattedScore": "9,7",
+      "scale": 10.0,
+      "percentage": 97.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "97.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.7-27",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.7,
+      "formattedScore": "9,7",
+      "scale": 10.0,
+      "percentage": 97.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "97.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.7-22",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.7,
+      "formattedScore": "8,7",
+      "scale": 10.0,
+      "percentage": 87.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "87.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.7-19",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 9.3,
+    "maxScore": 10.0,
+    "id": 3,
+    "count": 266,
+    "providerId": 3038,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,3",
+    "name": "Alleinreisende",
+    "reviewProviderLogoText": "Verifizierte Bewertungen mithilfe von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellenter Zimmerkomfort",
+     "name": "Zimmerkomfort und Qualität"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.5-16",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.3,
+      "formattedScore": "9,3",
+      "scale": 10.0,
+      "percentage": 93.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "93.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.3-20",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.5-2",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.6-27",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.5-0",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.6,
+      "formattedScore": "8,6",
+      "scale": 10.0,
+      "percentage": 86.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "86.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.6-26",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 9.3,
+    "maxScore": 10.0,
+    "id": 4,
+    "count": 497,
+    "providerId": 3038,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,3",
+    "name": "Familie mit Kleinkindern",
+    "reviewProviderLogoText": "Verifizierte Bewertungen mithilfe von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,6",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.6-3",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.3,
+      "formattedScore": "9,3",
+      "scale": 10.0,
+      "percentage": 93.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "93.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.3-27",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.7,
+      "formattedScore": "9,7",
+      "scale": 10.0,
+      "percentage": 97.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "97.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.7-28",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.6-14",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.4,
+      "formattedScore": "9,4",
+      "scale": 10.0,
+      "percentage": 94.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "94.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.4-6",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.5,
+      "formattedScore": "8,5",
+      "scale": 10.0,
+      "percentage": 85.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "85.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.5-2",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 9.5,
+    "maxScore": 10.0,
+    "id": 6,
+    "count": 163,
+    "providerId": 3038,
+    "cityAverageText": "Durchschnittliche Bewertung für 5-Sterne-Unterkünfte in Singapur",
+    "formattedScore": "9,5",
+    "name": "Reisegruppe",
+    "reviewProviderLogoText": "Verifizierte Bewertungen mithilfe von",
+    "scoreText": "Exzellent",
+    "subReview": {
+     "score": "9,8",
+     "text": "Exzellente Sauberkeit",
+     "name": "Zustand/Sauberkeit"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Zustand/Sauberkeit",
+      "score": 9.8,
+      "formattedScore": "9,8",
+      "scale": 10.0,
+      "percentage": 98.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "98.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-9.8-0",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Einrichtungen",
+      "score": 9.5,
+      "formattedScore": "9,5",
+      "scale": 10.0,
+      "percentage": 95.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "95.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-9.5-21",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Lage",
+      "score": 9.7,
+      "formattedScore": "9,7",
+      "scale": 10.0,
+      "percentage": 97.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "97.0",
+      "cityAverage": 0.0,
+      "uid": "location-9.7-13",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Zimmerkomfort und Qualität",
+      "score": 9.7,
+      "formattedScore": "9,7",
+      "scale": 10.0,
+      "percentage": 97.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "97.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-9.7-16",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 9.6,
+      "formattedScore": "9,6",
+      "scale": 10.0,
+      "percentage": 96.0,
+      "scoreText": "Exzellent",
+      "progressBarScoreStyle": "96.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-9.6-29",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Preis-Leistung",
+      "score": 8.9,
+      "formattedScore": "8,9",
+      "scale": 10.0,
+      "percentage": 89.0,
+      "scoreText": "Fantastisch",
+      "progressBarScoreStyle": "89.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.9-20",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 27901,
+      "logoUrl": "https://cdn6.agoda.net/images/default/japanican-logo.png",
+      "logoName": "jtb",
+      "logoAltText": "Japanican.com"
+     },
+     {
+      "providerId": 28999,
+      "logoUrl": "https://cdn6.agoda.net/images/default/priceline-logo.png",
+      "logoName": "priceline",
+      "logoAltText": "Priceline.com"
+     },
+     {
+      "providerId": 27989,
+      "logoUrl": "https://cdn6.agoda.net/images/default/yanolja-logo.png",
+      "logoName": "yanolja",
+      "logoAltText": "Yanolja"
+     },
+     {
+      "providerId": 29014,
+      "logoUrl": "",
+      "logoName": "jtb",
+      "logoAltText": "Japanican.com"
+     }
+    ],
+    "score": 9.302592352559948,
+    "maxScore": 10.0,
+    "id": 0,
+    "count": 1543,
+    "providerId": -999,
+    "cityAverageText": "",
+    "formattedScore": "9.3",
+    "name": "Alle Reisearten",
+    "reviewProviderLogoText": "Echte Gäste, echte Bewertungen. Bereitgestellt von:",
+    "scoreText": "Exzellent",
+    "grades": [],
+    "scoreDistribution": []
+   }
+  ],
+  "priceRange": ""
+ },
+ "reviewTabs": {
+  "reviewTabs": [
+   {
+    "providerId": 332,
+    "reviewCount": 4510,
+    "tabName": "Agoda Bewertungen (4.510)",
+    "ratingViaProvider": "Bewertet über Agoda"
+   },
+   {
+    "providerId": 3038,
+    "reviewCount": 1755,
+    "tabName": "Booking.com Bewertungen (1.755)",
+    "ratingViaProvider": "Bewertet über Booking.com"
+   },
+   {
+    "providerId": -999,
+    "reviewCount": 1543,
+    "tabName": "Weitere Bewertungen (1.543)",
+    "ratingViaProvider": "Bewertet über zusätzliche Anbieter"
+   }
+  ],
+  "defaultProviderId": 332,
+  "showBComAsLink": true,
+  "originalProvider": 332
+ },
+ "reviewCardPopup": {
+  "recommendTexts": [
+   "<b>3.376</b> Gäste fanden den Aufenthalt in dieser Unterkunft großartig",
+   "Ausgezeichnete Bewertung für: <b>Sauberkeit</b> ¦ <b>Standort</b>",
+   "Von <b>Paaren</b> und <b>Familien</b> als sehr gut bewertet"
+  ],
+  "title": "<b>{0} % aller Gäste</b> empfehlen diese Unterkunft (auf Basis von <b>{1} Bewertungen</b>)",
+  "readAllButtonTitle": "Alle verifizierten Bewertungen lesen",
+  "locale": "de-de"
+ },
+ "reviewWordCloud": {
+  "reviewWordCloud": [
+   {
+    "wordCloudList": [
+     {
+      "count": 97,
+      "filterTypeId": 6,
+      "hotelId": 10626,
+      "wordsCloudId": 6505,
+      "representors": "ritz carlton",
+      "formattedCount": "97"
+     },
+     {
+      "count": 35,
+      "filterTypeId": 6,
+      "hotelId": 10626,
+      "wordsCloudId": 6508,
+      "representors": "view from the room",
+      "formattedCount": "35"
+     },
+     {
+      "count": 34,
+      "filterTypeId": 6,
+      "hotelId": 10626,
+      "wordsCloudId": 6507,
+      "representors": "marina bay view",
+      "formattedCount": "34"
+     },
+     {
+      "count": 33,
+      "filterTypeId": 6,
+      "hotelId": 10626,
+      "wordsCloudId": 180137,
+      "representors": "bay view",
+      "formattedCount": "33"
+     },
+     {
+      "count": 32,
+      "filterTypeId": 6,
+      "hotelId": 10626,
+      "wordsCloudId": 6509,
+      "representors": "marina bay sands",
+      "formattedCount": "32"
+     }
+    ],
+    "hasWordCloud": true,
+    "providerId": 332
+   }
+  ],
+  "hasReviewWordCloud": true
+ },
+ "facilityClassWordsCloud": {
+  "reviewWordCloud": [
+   {
+    "wordCloudList": [
+     {
+      "count": 77,
+      "filterTypeId": 7,
+      "hotelId": 10626,
+      "wordsCloudId": 23,
+      "representors": "View",
+      "formattedCount": "77"
+     },
+     {
+      "count": 37,
+      "filterTypeId": 7,
+      "hotelId": 10626,
+      "wordsCloudId": 2,
+      "representors": "Breakfast",
+      "formattedCount": "37"
+     },
+     {
+      "count": 27,
+      "filterTypeId": 7,
+      "hotelId": 10626,
+      "wordsCloudId": 1,
+      "representors": "Food & Dining",
+      "formattedCount": "27"
+     },
+     {
+      "count": 25,
+      "filterTypeId": 7,
+      "hotelId": 10626,
+      "wordsCloudId": 25,
+      "representors": "Housekeeping",
+      "formattedCount": "25"
+     }
+    ],
+    "hasWordCloud": true,
+    "providerId": 332
+   }
+  ],
+  "hasReviewWordCloud": true
+ },
+ "reviewTagsV2": {
+  "reviewTagsV2": [
+   {
+    "tagId": 36,
+    "tagName": "Service",
+    "mentionedNumber": 124,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 94.0,
+    "negativePercentage": 5.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 34,
+    "tagName": "Aussicht vom Zimmer",
+    "mentionedNumber": 74,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 93.0,
+    "negativePercentage": 6.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 9,
+    "tagName": "Frühstück",
+    "mentionedNumber": 60,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 91.0,
+    "negativePercentage": 8.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 24,
+    "tagName": "Standort",
+    "mentionedNumber": 56,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 98.0,
+    "negativePercentage": 1.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 13,
+    "tagName": "Sauberkeit",
+    "mentionedNumber": 35,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 82.0,
+    "negativePercentage": 17.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 11,
+    "tagName": "Check-in",
+    "mentionedNumber": 29,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 72.0,
+    "negativePercentage": 27.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 33,
+    "tagName": "Zimmergröße",
+    "mentionedNumber": 29,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 96.0,
+    "negativePercentage": 3.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 31,
+    "tagName": "Zimmerkomfort",
+    "mentionedNumber": 28,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 82.0,
+    "negativePercentage": 17.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 28,
+    "tagName": "Pool",
+    "mentionedNumber": 24,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 91.0,
+    "negativePercentage": 8.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 12,
+    "tagName": "Check-out",
+    "mentionedNumber": 15,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 86.0,
+    "negativePercentage": 13.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 5,
+    "tagName": "Badezimmer",
+    "mentionedNumber": 14,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 78.0,
+    "negativePercentage": 21.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 30,
+    "tagName": "Restaurant-Optionen",
+    "mentionedNumber": 12,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 91.0,
+    "negativePercentage": 8.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 40,
+    "tagName": "Spa",
+    "mentionedNumber": 12,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 91.0,
+    "negativePercentage": 8.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 3,
+    "tagName": "Atmosphäre",
+    "mentionedNumber": 11,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 90.0,
+    "negativePercentage": 9.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 6,
+    "tagName": "Badewanne",
+    "mentionedNumber": 11,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 81.0,
+    "negativePercentage": 18.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 16,
+    "tagName": "Familie",
+    "mentionedNumber": 11,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 90.0,
+    "negativePercentage": 9.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 17,
+    "tagName": "Fitnessstudio",
+    "mentionedNumber": 11,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 100.0,
+    "negativePercentage": 0.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 22,
+    "tagName": "Kindereinrichtungen",
+    "mentionedNumber": 11,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 72.0,
+    "negativePercentage": 27.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 8,
+    "tagName": "Bettenkonstellation",
+    "mentionedNumber": 9,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 88.0,
+    "negativePercentage": 11.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 29,
+    "tagName": "Einrichtungen der Unterkunft",
+    "mentionedNumber": 8,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 75.0,
+    "negativePercentage": 25.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   }
+  ],
+  "hasReviewTagsV2": true
+ }
+}

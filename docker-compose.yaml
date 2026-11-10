@@ -1,0 +1,10 @@
+services:
+  agoda-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Agoda answers plain requests, so leave this unset.
+      # - AGODA_PROXY=http://user:pass@host:port

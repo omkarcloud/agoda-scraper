@@ -1,0 +1,8071 @@
+{
+ "searchResult": {
+  "searchInfo": {
+   "isComplete": true,
+   "totalFilteredHotels": 15,
+   "objectInfo": {
+    "objectName": "バンコク",
+    "cityName": "バンコク",
+    "cityEnglishName": "Bangkok",
+    "countryId": 106,
+    "countryEnglishName": "Thailand",
+    "mapLatitude": 13.739198,
+    "mapLongitude": 100.553263,
+    "cityId": 9395
+   }
+  },
+  "histogram": {
+   "bins": [
+    {
+     "numOfElements": 4,
+     "upperBound": {
+      "perNightPerRoom": 3270
+     }
+    },
+    {
+     "numOfElements": 3,
+     "upperBound": {
+      "perNightPerRoom": 3640
+     }
+    },
+    {
+     "numOfElements": 1,
+     "upperBound": {
+      "perNightPerRoom": 4050
+     }
+    },
+    {
+     "numOfElements": 0,
+     "upperBound": {
+      "perNightPerRoom": 4510
+     }
+    },
+    {
+     "numOfElements": 2,
+     "upperBound": {
+      "perNightPerRoom": 5010
+     }
+    },
+    {
+     "numOfElements": 2,
+     "upperBound": {
+      "perNightPerRoom": 5580
+     }
+    },
+    {
+     "numOfElements": 2,
+     "upperBound": {
+      "perNightPerRoom": 6200
+     }
+    },
+    {
+     "numOfElements": 0,
+     "upperBound": {
+      "perNightPerRoom": 6900
+     }
+    }
+   ]
+  }
+ },
+ "properties": [
+  {
+   "propertyId": 411514,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "バンコク・マリオット・ホテル・スクンビット",
+     "defaultName": "Bangkok Marriott Hotel Sukhumvit",
+     "displayName": "バンコク・マリオット・ホテル・スクンビット (Bangkok Marriott Hotel Sukhumvit)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/bangkok-marriott-hotel-sukhumvit/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27713,
+       "name": "スクンビット"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 5.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": null,
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.72314167022705,
+      "longitude": 100.58039093017578
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 6
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 35
+      },
+      {
+       "id": 25
+      },
+      {
+       "id": 20
+      },
+      {
+       "id": 1
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": null
+    },
+    "propertyEngagement": {
+     "lastBooking": "2025-04-08T22:28:48.233+07:00",
+     "peopleLooking": 0,
+     "todayBooking": "＜今日の予約状況＞ 1件の予約が入りました"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 748617591,
+       "caption": "パブ/ラウンジ",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/477560081.jpg?k=d80d8d03db6fb2beca75a9ef63b638007b145bb218e1825477b14cba57c7ce34&o="
+        }
+       ]
+      },
+      {
+       "id": 146006896,
+       "caption": "スイート ルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/411514/21081939/7b8bd419e8ae82286584a20ea7c62149.jpeg?ce=2"
+        }
+       ]
+      },
+      {
+       "id": 210690473,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6586947/0/54d6277cc52724cb213c59a8d8a6df52.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 147238046,
+       "caption": "衛生対策",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/411514/0/906c3c2704aee072d179de71cbcc6e20.jpeg?ce=2"
+        }
+       ]
+      },
+      {
+       "id": 210690463,
+       "caption": "",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6586947/0/1ac6720b3a98a340ab502c3a28c8ef6a.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 151107650,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/411514/0/f43789eb9b09cbc93ba7bda0c79ae734.jpeg?ce=2"
+        }
+       ]
+      },
+      {
+       "id": 207643330,
+       "caption": "屋外プール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/411514/0/8d57c41de40fbca605009d0d5f5d1fe1.png?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 1108063800,
+       "caption": "スイミングプール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/660827237.jpg?k=fd64ee310994e92a8f405a0bf1d137d837da7d6889d8cb1f70cb851002ae8cf9&o="
+        }
+       ]
+      },
+      {
+       "id": 207643327,
+       "caption": "バスタブ",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/411514/0/c5889045e2eb1dd6bf4aedbec077f82a.png?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 156894377,
+       "caption": "お部屋概要",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/411514/21081922/783c0355f4e62e72109aeb1b87237a92.jpeg?ce=2"
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 9.0
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 9.0
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.1
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 9.1
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 8.7
+           },
+           {
+            "id": "location",
+            "score": 8.6
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.0
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.0
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.2
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 8.7
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.9
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 8.8
+           },
+           {
+            "id": "location",
+            "score": 8.9
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.9
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 84
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 64,
+          "countryCode": "AE",
+          "countryName": "United Arab Emirates",
+          "date": "2024-08-11T09:59:00.000+07:00",
+          "demographicId": 4,
+          "demographicName": "Family with young children",
+          "reviewer": "ahmed",
+          "reviewRating": 10.0,
+          "snippet": "So quite place and very clean, I need to visit them again"
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 2998,
+        "score": 8.8
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1712,
+        "score": 8.9
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 28999,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1289,
+        "score": 8.6
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 228,
+        "score": 9.2
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 6227,
+      "score": 8.8
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": true,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": true,
+     "hasKidsClub": false
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS トンロー駅",
+        "distanceInM": 266.66
+       },
+       {
+        "landmarkName": "エカマイ バス乗り場",
+        "distanceInM": 523.76
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 5582.54
+       },
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 5942.77
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 6345.32
+       },
+       {
+        "landmarkName": "アジアティーク ザ リバーフロント",
+        "distanceInM": 8589.91
+       },
+       {
+        "landmarkName": "チャトチャック ウィークエンドマーケット",
+        "distanceInM": 9142.48
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 23130,
+        "title": "ルンピニー公園",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": [
+      {
+       "summary": "ルーフトップバー『Octave』"
+      },
+      {
+       "summary": "迅速なスタッフサービス"
+      }
+     ],
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "キチンと泳げるプール、全て鍛えられるジム、質も種類も満足できる朝食、景色最高のルーフトップバー、期待通りです。",
+       "BTSトンローから至近で、大通りに面しており立地は言うまでもなし。",
+       "タクシーで10分ほどでショッピングモールにも行けて、コンビニも徒歩1分圏内にありとても便利でした。"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 5750.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5750.0
+             },
+             "inclusive": {
+              "display": 6767.75,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 6767.75
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 11500.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 11500.0
+             },
+             "inclusive": {
+              "display": 13535.5,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 13535.5
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 5750.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5750.0
+             },
+             "inclusive": {
+              "display": 6767.75,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 6767.75
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "DealOfTheDay",
+      "value": null
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 1,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T19:36:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 36.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "propertyId": 1280163,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "バンコク・マリオット・マーキス・クイーンズパーク",
+     "defaultName": "Bangkok Marriott Marquis Queen’s Park",
+     "displayName": "バンコク・マリオット・マーキス・クイーンズパーク (Bangkok Marriott Marquis Queen’s Park)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/bangkok-marriott-marquis-queen-s-park/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27713,
+       "name": "スクンビット"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 5.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": "2024",
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.730466842651367,
+      "longitude": 100.56542205810547
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 6
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 3
+      },
+      {
+       "id": 20
+      },
+      {
+       "id": 1
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": {
+      "hotelTag": {
+       "name": "ユーザーから高評価",
+       "symbol": "fill/amenity/backpack"
+      },
+      "hotelView": null
+     }
+    },
+    "propertyEngagement": {
+     "lastBooking": "2025-04-09T09:17:46.617+07:00",
+     "peopleLooking": 0,
+     "todayBooking": "本日9件の予約"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 143002087,
+       "caption": "外観",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/1280163/0/b6a9b38df6c53e66d66a4411bca3939b.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219128781,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5075605/1154078853/a3a7a5e6f927b46948adac9336d923e8.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 218381934,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5075605/0/8cbb48e8387d1dbf30b834c51bc836fb.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 1241797400,
+       "caption": "レストラン",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/426578650.jpg?k=25c715e82200e71c0550af7d26927ee8274da9d556b52f1dd6652f6caefeb452&o="
+        }
+       ]
+      },
+      {
+       "id": 219128631,
+       "caption": "",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5075605/0/0861aeb4bfd231de23a429051ecaa698.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 143009330,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/1280163/0/96be01dbbedee768c68a557d52ccc4ad.jpeg"
+        }
+       ]
+      },
+      {
+       "id": 219128633,
+       "caption": "バー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5075605/0/886ddf1ec6a1c4aafc4b24725dbb15e3.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220440242,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5075605/1154078853/d3366b2a14d8158ab32c919065647109.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 219583716,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5075605/0/0ebffb27569adcaf3f119bee715761fe.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 1241797402,
+       "caption": "会議室 / ダンスホール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/651812762.jpg?k=ce4669be535fc50123655b2e4048a471e75d803521335b1677f3c62b5a6459d0&o="
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.7
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.0
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.7
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.9
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.5
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.0
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.0
+           },
+           {
+            "id": "facilities",
+            "score": 8.8
+           },
+           {
+            "id": "location",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.6
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.8
+           },
+           {
+            "id": "facilities",
+            "score": 8.6
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.9
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.9
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 90
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 132,
+          "countryCode": "HK",
+          "countryName": "Hong Kong SAR, China",
+          "date": "2024-03-31T15:50:00.000+07:00",
+          "demographicId": 3,
+          "demographicName": "Solo traveler",
+          "reviewer": "Cyrus",
+          "reviewRating": 9.6,
+          "snippet": "Room is clean, large, and comes with everything required."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 2504,
+        "score": 8.7
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1057,
+        "score": 9.1
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 28999,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 6,
+        "score": 9.5
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 662,
+        "score": 9.2
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 4229,
+      "score": 8.8
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": true,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": true,
+     "hasKidsClub": true
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS プロンポン駅",
+        "distanceInM": 469.47
+       },
+       {
+        "landmarkName": "BTS アソーク駅",
+        "distanceInM": 902.15
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 3772.36
+       },
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 4133.47
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 4534.44
+       },
+       {
+        "landmarkName": "アジアティーク ザ リバーフロント",
+        "distanceInM": 7314.35
+       },
+       {
+        "landmarkName": "チャトチャック ウィークエンドマーケット",
+        "distanceInM": 7873.87
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 23130,
+        "title": "ルンピニー公園",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": [
+      {
+       "summary": "BTSプロンポン駅徒歩アクセス"
+      },
+      {
+       "summary": "ロビー直結ラウンジバー"
+      }
+     ],
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "立地も歩いて公園に抜けられるし、ちょっとした屋台や、ターミナル21、エンポリまで歩いて行けて最適。",
+       "立地はとてもよく、エムスフィアという最新大型モールも近所。（値段は高め）",
+       "立地、サービス、部屋の清潔さが最高！"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 5700.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5700.0
+             },
+             "inclusive": {
+              "display": 6708.9,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 6708.9
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 11400.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 11400.0
+             },
+             "inclusive": {
+              "display": 13417.8,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 13417.8
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 5700.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5700.0
+             },
+             "inclusive": {
+              "display": 6708.9,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 6708.9
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "BestSeller",
+      "value": null
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 9,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T20:12:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 32.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "propertyId": 60235592,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "マリオット・エグゼクティブ・アパートメント・バンコク・タウンホール・スクンビット",
+     "defaultName": "Marriott Executive Apartments, Bangkok Townhall Sukhumvit",
+     "displayName": "マリオット・エグゼクティブ・アパートメント・バンコク・タウンホール・スクンビット (Marriott Executive Apartments, Bangkok Townhall Sukhumvit)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/marriott-executive-apartments-bangkok-townhall-sukhumvit/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27713,
+       "name": "スクンビット"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 5.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": null,
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.733009338378906,
+      "longitude": 100.57714080810547
+     },
+     "remarks": {
+      "renovationInfo": {
+       "renovationType": 0,
+       "year": 2024
+      }
+     },
+     "spokenLanguages": [
+      {
+       "id": 1
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 6
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": null
+    },
+    "propertyEngagement": {
+     "lastBooking": "1899-12-31T23:42:04.000+06:42:04",
+     "peopleLooking": 0,
+     "todayBooking": "本日4件の予約"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 1025748509,
+       "caption": "スイミングプール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/687505758.jpg?k=0e14b8ac66de258bee60b6742f11e656d70d4ad9728014e77f8549bbf0795b90&o="
+        }
+       ]
+      },
+      {
+       "id": 217067409,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/68605719/1153933550/4bf1c5b8f007bfc2ea381b9024180e6f.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219582655,
+       "caption": "",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/68605719/0/15813935c55ed6821ea97d8ebd07096b.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 168628093,
+       "caption": "フロントデスクで受付",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/60235592/0/f76c3fc99aec431032bc01aa7b825cd6.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 152420663,
+       "caption": "屋外プール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/60235592/0/0d488ee0b01c7d7f23e14539a0d00679.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 168628140,
+       "caption": "リビングルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/60235592/0/e8052a072ea587f939de953e261d5447.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 168628085,
+       "caption": "リビングルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/60235592/0/c1003c645ff84e624f9a91a810b50427.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 152416713,
+       "caption": "外観",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/60235592/0/4bf696f903b95508d518e68d7a667e8f.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 152420451,
+       "caption": "プールサイドバー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/60235592/0/e5e54642f93975be4fc0e81ef56cc135.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 165036977,
+       "caption": "ベッドルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/60235592/947044638/afe53c47bceba35b5577ca69e4784d73.jpeg?ce=3"
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.3
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.4
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.0
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.1
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 9.7
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.1
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.4
+           },
+           {
+            "id": "facilities",
+            "score": 9.2
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.5
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.0
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.4
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.6
+           },
+           {
+            "id": "facilities",
+            "score": 9.6
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.4
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.0
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 10.0
+           },
+           {
+            "id": "facilities",
+            "score": 8.7
+           },
+           {
+            "id": "location",
+            "score": 8.0
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.3
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.4
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.4
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 89
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 114,
+          "countryCode": "SG",
+          "countryName": "Singapore",
+          "date": "2026-07-08T01:33:00.000+07:00",
+          "demographicId": 4,
+          "demographicName": "Family with young children",
+          "reviewer": "Lau",
+          "reviewRating": 9.6,
+          "snippet": "The rooms, facilities, pool, and service were all excellent."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 246,
+        "score": 8.8
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 472,
+        "score": 8.9
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 420,
+        "score": 9.1
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 1138,
+      "score": 8.9
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": false,
+     "isInfantCottageAvailable": false,
+     "hasKidsPool": true,
+     "hasKidsClub": false
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS プロンポン駅",
+        "distanceInM": 846.16
+       },
+       {
+        "landmarkName": "BTS トンロー駅",
+        "distanceInM": 965.81
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 4822.12
+       },
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 5235.3
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 5589.33
+       },
+       {
+        "landmarkName": "チャトチャック ウィークエンドマーケット",
+        "distanceInM": 7993.65
+       },
+       {
+        "landmarkName": "アジアティーク ザ リバーフロント",
+        "distanceInM": 8592.41
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 23130,
+        "title": "ルンピニー公園",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": null,
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "新しくて綺麗なホテル、ロケーションも最高で、スクンビット界隈では、最もオススメなホテルです。"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-11-27T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 4650.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4650.0
+             },
+             "inclusive": {
+              "display": 5473.05,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5473.05
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 9300.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 9300.0
+             },
+             "inclusive": {
+              "display": 10946.1,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 10946.1
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 4650.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4650.0
+             },
+             "inclusive": {
+              "display": 5473.05,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5473.05
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "BestValueForMoney",
+      "value": 9.0
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 4,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T20:39:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 43.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "propertyId": 3014254,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "バンコク・マリオット・ホテル・ザ・スラウォンセ",
+     "defaultName": "Bangkok Marriott Hotel The Surawongse",
+     "displayName": "バンコク・マリオット・ホテル・ザ・スラウォンセ (Bangkok Marriott Hotel The Surawongse)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/bangkok-marriott-hotel-the-surawongse/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27715,
+       "name": "シーロム"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 5.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": "2024",
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.727346420288086,
+      "longitude": 100.52230834960938
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 6
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 13
+      },
+      {
+       "id": 20
+      },
+      {
+       "id": 1
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": {
+      "hotelTag": {
+       "name": "ラグジュアリー",
+       "symbol": "gem3/solid"
+      },
+      "hotelView": null
+     }
+    },
+    "propertyEngagement": {
+     "lastBooking": "1899-12-31T23:42:04.000+06:42:04",
+     "peopleLooking": 0,
+     "todayBooking": ""
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 71794144,
+       "caption": "娯楽施設",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/3014254/0/405459b8e9d5cb1149d26fc672b0dce0.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219128264,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5077412/1153989159/aa0307505f272f095770aca115f5ca6f.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220115258,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5077412/0/4a32fbe08c166ec1ec789ba44c48a3dc.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 210705636,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5077412/0/e888ed42059f17fdcba318bed78a7256.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220115251,
+       "caption": "バー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5077412/0/09e87a66a304c6bccadb3733235379c5.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 739801492,
+       "caption": "パブ/ラウンジ",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/602776092.jpg?k=e94c79191042a62bbf3fcc94b4e552a8dfddf6dfc69f2e54f39aaf63891b4ad9&o="
+        }
+       ]
+      },
+      {
+       "id": 71794138,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/3014254/0/6c8177c9e21f77b825446c1c3303ac76.jpg?ca=7&ce=1"
+        }
+       ]
+      },
+      {
+       "id": 739801422,
+       "caption": "会議室 / ダンスホール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/602776125.jpg?k=c55912a5667d5416656eb0c4520e7e1cf28c0eeb8f9626d8c697abb5f5bf99af&o="
+        }
+       ]
+      },
+      {
+       "id": 739801453,
+       "caption": "会議室 / ダンスホール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/602776119.jpg?k=45cf4aa8ff42eca803afc7f7012cc9236713e6712a5bec2e57b2bbd3d4912d3d&o="
+        }
+       ]
+      },
+      {
+       "id": 214977217,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5077412/1153989231/3a876412868e76af84617bc3aa3aa892.jpeg?ce=3"
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.5
+           },
+           {
+            "id": "facilities",
+            "score": 9.3
+           },
+           {
+            "id": "location",
+            "score": 8.2
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.4
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.0
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.1
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.1
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.5
+           },
+           {
+            "id": "facilities",
+            "score": 9.4
+           },
+           {
+            "id": "location",
+            "score": 8.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.4
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.0
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.1
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.6
+           },
+           {
+            "id": "facilities",
+            "score": 9.4
+           },
+           {
+            "id": "location",
+            "score": 8.2
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.5
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.4
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.2
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 9.1
+           },
+           {
+            "id": "location",
+            "score": 7.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.2
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.6
+           },
+           {
+            "id": "facilities",
+            "score": 9.5
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.6
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.1
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 89
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 213,
+          "countryCode": "PT",
+          "countryName": "Portugal",
+          "date": "2022-07-29T18:32:00.000+07:00",
+          "demographicId": 3,
+          "demographicName": "Solo traveler",
+          "reviewer": "Daniel",
+          "reviewRating": 9.2,
+          "snippet": "Swimming pool and overall facilities well maintained."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 1580,
+        "score": 8.9
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1299,
+        "score": 9.3
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 28999,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 2,
+        "score": 9.5
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 664,
+        "score": 9.0
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 3545,
+      "score": 9.0
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": true,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": true,
+     "hasKidsClub": true
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS セント ルイス駅",
+        "distanceInM": 828.34
+       },
+       {
+        "landmarkName": "BTS チョンノンシー駅",
+        "distanceInM": 871.87
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 2193.29
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 2524.77
+       },
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 2554.5
+       },
+       {
+        "landmarkName": "アジアティーク ザ リバーフロント",
+        "distanceInM": 3276.66
+       },
+       {
+        "landmarkName": "ワット プラ チェトゥポン",
+        "distanceInM": 3845.5
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 131371,
+        "title": "アジアティーク ザ リバーフロント",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": [
+      {
+       "summary": "ICONSIAM花火パノラマビュー"
+      },
+      {
+       "summary": "ルーフトップバーYao"
+      }
+     ],
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "とにかく綺麗でロケーションもよく、素晴らしい時間を過ごすことができました。"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 5800.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5800.0
+             },
+             "inclusive": {
+              "display": 6826.6,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 6826.6
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 11600.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 11600.0
+             },
+             "inclusive": {
+              "display": 13653.2,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 13653.2
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 5800.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5800.0
+             },
+             "inclusive": {
+              "display": 6826.6,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 6826.6
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "BestValueForMoney",
+      "value": 9.0
+     },
+     {
+      "tspType": "BestSeller",
+      "value": null
+     },
+     {
+      "tspType": "LuxuryHotel",
+      "value": null
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 0,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": null
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 37.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "propertyId": 335031,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "アロフト バイ マリオット バンコク スクンビット 11",
+     "defaultName": "Aloft by Marriott Bangkok Sukhumvit 11",
+     "displayName": "アロフト バイ マリオット バンコク スクンビット 11 (Aloft by Marriott Bangkok Sukhumvit 11)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/aloft-bangkok-sukhumvit-11_18/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27713,
+       "name": "スクンビット"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 4.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": "2024",
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.74434757232666,
+      "longitude": 100.55656433105469
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 1
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 20
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": {
+      "hotelTag": {
+       "name": "ユーザーから高評価",
+       "symbol": "fill/amenity/backpack"
+      },
+      "hotelView": null
+     }
+    },
+    "propertyEngagement": {
+     "lastBooking": "2025-04-08T20:28:43.430+07:00",
+     "peopleLooking": 0,
+     "todayBooking": "本日20件の予約"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 162291522,
+       "caption": "バー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/335031/0/e718a2b31493d52d57f133dce97b0e9c.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 218691805,
+       "caption": "スイート ルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6539795/1153980656/46dd410a0fb2c9bfe25c9cd632272222.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220496701,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6539795/0/a1bbcfc22ebe9eaeea17380b8dbe0039.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 219450585,
+       "caption": "バー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6539795/0/d143fb5cbb9be409c76a9c7cbc6a6eca.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 146505337,
+       "caption": "屋外プール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/335031/0/0cc3a569af89f8f89cde7a103972afe7.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219450591,
+       "caption": "バー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6539795/0/cae1aad6a8c6f5e8943d49c2532f5e8e.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220079905,
+       "caption": "エントランス",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6539795/0/00d1f6f7a20bc83b2c02a45f00605b95.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 219450593,
+       "caption": "共有スペース",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6539795/0/a43e49fbf2d1d5f23148eeeb33c93b6d.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219107046,
+       "caption": "スイート ルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/6539795/1153980621/9a485d362459730978e68c6038fdc645.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 1391800964,
+       "caption": "スイミングプール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/904243872.jpg?k=df88baaed3becb8f4fca474a108d2d547bdb567011628ddf913ae1e540270810&o="
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.5
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.8
+           },
+           {
+            "id": "facilities",
+            "score": 8.4
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.3
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.3
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.6
+           },
+           {
+            "id": "facilities",
+            "score": 8.2
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.4
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.1
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.6
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.9
+           },
+           {
+            "id": "facilities",
+            "score": 8.5
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.3
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.6
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.9
+           },
+           {
+            "id": "facilities",
+            "score": 8.5
+           },
+           {
+            "id": "location",
+            "score": 8.9
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.2
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.0
+           },
+           {
+            "id": "facilities",
+            "score": 8.3
+           },
+           {
+            "id": "location",
+            "score": 9.0
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.0
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.5
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.6
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 8.7
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.6
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.8
+           },
+           {
+            "id": "facilities",
+            "score": 8.5
+           },
+           {
+            "id": "location",
+            "score": 8.7
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.7
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 92
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 181,
+          "countryCode": "US",
+          "countryName": "United States",
+          "date": "2026-04-08T10:34:00.000+07:00",
+          "demographicId": 3,
+          "demographicName": "Solo traveler",
+          "reviewer": "Jonathan",
+          "reviewRating": 10.0,
+          "snippet": "Location is superb right next to everything and BTS."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 2785,
+        "score": 8.5
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1134,
+        "score": 9.0
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 28999,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 3,
+        "score": 9.0
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 210,
+        "score": 9.0
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 4132,
+      "score": 8.6
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": true,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": true,
+     "hasKidsClub": true
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS ナナ駅",
+        "distanceInM": 442.58
+       },
+       {
+        "landmarkName": "BTS プルンチット駅",
+        "distanceInM": 832.79
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 2363.65
+       },
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 2829.06
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 3113.18
+       },
+       {
+        "landmarkName": "チャトチャック ウィークエンドマーケット",
+        "distanceInM": 6179.4
+       },
+       {
+        "landmarkName": "カオサン通り",
+        "distanceInM": 6618.58
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 23130,
+        "title": "ルンピニー公園",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": null,
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "アソークもサイアムも近いですし、コストパフォーマンス最高のホテルです。",
+       "ナナ駅至近、周りは飲食店だらけ、地下にはタンスクラブ、文句の付けようがありません。笑",
+       "近くにはBarやレストラン、セブンイレブンやCurrency exchangeもあって便利でした。"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 3950.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 3950.0
+             },
+             "inclusive": {
+              "display": 4649.15,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4649.15
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 7900.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 7900.0
+             },
+             "inclusive": {
+              "display": 9298.3,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 9298.3
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 3950.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 3950.0
+             },
+             "inclusive": {
+              "display": 4649.15,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4649.15
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "CheapestFourStarRating",
+      "value": null
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 21,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T18:51:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 32.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "propertyId": 930659,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "コートヤード バイ マリオット バンコク スクンビット 20",
+     "defaultName": "Courtyard by Marriott Bangkok Sukhumvit 20",
+     "displayName": "コートヤード バイ マリオット バンコク スクンビット 20 (Courtyard by Marriott Bangkok Sukhumvit 20)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/well-hotel-bangkok_17/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27713,
+       "name": "スクンビット"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 4.5,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": "2024",
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.732930183410645,
+      "longitude": 100.5638427734375
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 1
+      },
+      {
+       "id": 22
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": null
+    },
+    "propertyEngagement": {
+     "lastBooking": "2025-04-08T19:54:05.690+07:00",
+     "peopleLooking": 0,
+     "todayBooking": "本日6件の予約"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 141921959,
+       "caption": "外観",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/930659/0/cb12605c354b63fdbed5bfebf40186c9.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 176630180,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/930659/677711480/031857a0e09ef91bcb993a6c1d2b44af.jpg?ce=2"
+        }
+       ]
+      },
+      {
+       "id": 217416656,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/70169518/0/ae5522aaff37a559780882711d20fa0a.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220150839,
+       "caption": "",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/70169518/0/6aeca0583fc96a72cbc285e5fd4e9215.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 1238023740,
+       "caption": "スイミングプール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/695064363.jpg?k=5819611b40e0330ebc661f215a69eb86b5bce703e7a588e01f74732913fdd47c&o="
+        }
+       ]
+      },
+      {
+       "id": 220150842,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/70169518/0/f6df27d9c2ac9877ceb73afdb72c31c0.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 220150843,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/70169518/0/16c42f652c477d730016e7e115f4bc18.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 130398380,
+       "caption": "客室内ベッド",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/930659/677711510/0e3c920e6301d1f73c3bd096d56642d7.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 1238023744,
+       "caption": "スイミングプール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/550505012.jpg?k=07ed5aae4fad148bd6eba75a27c7e797cadce1c581478930d8f245727d391e21&o="
+        }
+       ]
+      },
+      {
+       "id": 130398064,
+       "caption": "屋外プール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/930659/0/a6d5450bbfeb5591ed95e3ec6ca2c1ff.jpeg?ce=3"
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.4
+           },
+           {
+            "id": "facilities",
+            "score": 8.8
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.3
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.6
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 9.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.6
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.1
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 8.7
+           },
+           {
+            "id": "location",
+            "score": 8.7
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.4
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.7
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.2
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.5
+           },
+           {
+            "id": "facilities",
+            "score": 8.8
+           },
+           {
+            "id": "location",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.1
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 8.3
+           },
+           {
+            "id": "location",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.2
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.5
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 9.1
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.2
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 92
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 212,
+          "countryCode": "KR",
+          "countryName": "South Korea",
+          "date": "2025-03-04T11:40:00.000+07:00",
+          "demographicId": 3,
+          "demographicName": "Solo traveler",
+          "reviewer": "Jed",
+          "reviewRating": 9.6,
+          "snippet": "Probably the most comfortable hotel beds I've ever slept in."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 423,
+        "score": 8.8
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 416,
+        "score": 8.8
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1171,
+        "score": 9.1
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 2010,
+      "score": 8.9
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": true,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": false,
+     "hasKidsClub": false
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS アソーク駅",
+        "distanceInM": 580.97
+       },
+       {
+        "landmarkName": "MRT スクンビット駅",
+        "distanceInM": 604.14
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 3494.29
+       },
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 3871.23
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 4259.63
+       },
+       {
+        "landmarkName": "アジアティーク ザ リバーフロント",
+        "distanceInM": 7273.16
+       },
+       {
+        "landmarkName": "チャトチャック ウィークエンドマーケット",
+        "distanceInM": 7568.86
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 23130,
+        "title": "ルンピニー公園",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": null,
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": []
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 4099.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4099.0
+             },
+             "inclusive": {
+              "display": 4824.52,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4824.52
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 8198.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 8198.0
+             },
+             "inclusive": {
+              "display": 9649.04,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 9649.04
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 4099.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4099.0
+             },
+             "inclusive": {
+              "display": 4824.52,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4824.52
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "BestValueForMoney",
+      "value": 8.9
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T19:50:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 30.0,
+     "facilities": []
+    }
+   }
+  },
+  {
+   "propertyId": 84277,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "コートヤード バイ マリオット バンコク",
+     "defaultName": "Courtyard by Marriott Bangkok",
+     "displayName": "コートヤード バイ マリオット バンコク (Courtyard by Marriott Bangkok)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/courtyard-by-marriott-bangkok/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 378468,
+       "name": "サイアム"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 0.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": "2024",
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.741073608398438,
+      "longitude": 100.54190826416016
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 1
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 20
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": {
+      "hotelTag": {
+       "name": "カップルから高評価",
+       "symbol": "fill/symbol/users"
+      },
+      "hotelView": null
+     }
+    },
+    "propertyEngagement": {
+     "lastBooking": "2025-04-08T16:14:50.550+07:00",
+     "peopleLooking": 0,
+     "todayBooking": "本日10件の予約"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 185197471,
+       "caption": "外観",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/84277/0/1803d6b3f91dabee9367b78b7c7f0c30.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 161378526,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/84277/459789289/6116a8681b55b6a2c6c47a169f7aafaa.jpeg?ce=2"
+        }
+       ]
+      },
+      {
+       "id": 220177250,
+       "caption": "バー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/4875721/0/8253dfe402c02e064929f7a20b77acf6.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 220177251,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/4875721/0/e4b625bda691f857256778e4d073d4a4.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 740020964,
+       "caption": "ロビー",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/491147591.jpg?k=06656a72f1df8ecab45f041d1c8647e21f0bd15e73950e208cdf1a85642cd269&o="
+        }
+       ]
+      },
+      {
+       "id": 127653477,
+       "caption": "宴会場",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/84277/0/8096c124a9475b00e2a8f75015bca3f5.jpeg?ce=2"
+        }
+       ]
+      },
+      {
+       "id": 127653467,
+       "caption": "会議室 / ダンスホール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/84277/0/ea6b61f16b49a90f286745f810e2c77f.jpeg?ce=2"
+        }
+       ]
+      },
+      {
+       "id": 220405131,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/4875721/1153906698/6f0193d5d3e647d27770768c9043767a.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 220177254,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/4875721/0/5774ae3a452cd8db595d0b2d03adfb2e.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 220177245,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/4875721/0/3dd1e4df88994813f25c14f5564272df.jpeg?ce=4"
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.5
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.9
+           },
+           {
+            "id": "facilities",
+            "score": 8.4
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.3
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.5
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.8
+           },
+           {
+            "id": "facilities",
+            "score": 8.4
+           },
+           {
+            "id": "location",
+            "score": 8.3
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.2
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.5
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.9
+           },
+           {
+            "id": "facilities",
+            "score": 8.4
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.5
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.9
+           },
+           {
+            "id": "facilities",
+            "score": 8.4
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.5
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.6
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.0
+           },
+           {
+            "id": "facilities",
+            "score": 8.4
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.0
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.5
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.5
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.9
+           },
+           {
+            "id": "facilities",
+            "score": 8.2
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.7
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.2
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.6
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.9
+           },
+           {
+            "id": "facilities",
+            "score": 8.5
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 92
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 114,
+          "countryCode": "SG",
+          "countryName": "Singapore",
+          "date": "2024-03-15T01:58:00.000+07:00",
+          "demographicId": 3,
+          "demographicName": "Solo traveler",
+          "reviewer": "Allison",
+          "reviewRating": 10.0,
+          "snippet": "Great breakfast spread and Momo also good for dinner."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 5349,
+        "score": 8.5
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 858,
+        "score": 9.1
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 28999,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 19,
+        "score": 8.4
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1406,
+        "score": 9.3
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 7632,
+      "score": 8.7
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": false,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": false,
+     "hasKidsClub": false
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS ラチャダムリ駅",
+        "distanceInM": 341.31
+       },
+       {
+        "landmarkName": "BTS チットロム駅",
+        "distanceInM": 383.05
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 996.46
+       },
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 1334.15
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 1740.99
+       },
+       {
+        "landmarkName": "カオサン通り",
+        "distanceInM": 5225.93
+       },
+       {
+        "landmarkName": "ワット プラ チェトゥポン",
+        "distanceInM": 5348.53
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 23130,
+        "title": "ルンピニー公園",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": null,
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "1泊2日の短い時間でしたが、BTSも近く徒歩でSIAM周辺を回ることができるので、とっても便利です。"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 3900.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 3900.0
+             },
+             "inclusive": {
+              "display": 4590.3,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4590.3
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 7800.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 7800.0
+             },
+             "inclusive": {
+              "display": 9180.6,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 9180.6
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 3900.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 3900.0
+             },
+             "inclusive": {
+              "display": 4590.3,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4590.3
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "CheapestReviewScore",
+      "value": null
+     },
+     {
+      "tspType": "BestSeller",
+      "value": null
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 11,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T14:00:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 30.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "propertyId": 46063163,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "コートヤード バイ マリオット バンコク スワンナプーム エアポート",
+     "defaultName": "Courtyard by Marriott Bangkok Suvarnabhumi Airport",
+     "displayName": "コートヤード バイ マリオット バンコク スワンナプーム エアポート (Courtyard by Marriott Bangkok Suvarnabhumi Airport)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/courtyard-bangkok-suvarnabhumi-airport/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27717,
+       "name": "スワンナプーム空港"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 4.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": "2024",
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.722519874572754,
+      "longitude": 100.72699737548828
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 1
+      },
+      {
+       "id": 22
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": null
+    },
+    "propertyEngagement": {
+     "lastBooking": "2025-04-09T07:06:45.267+07:00",
+     "peopleLooking": 0,
+     "todayBooking": "本日6件の予約"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 738110294,
+       "caption": "スイミングプール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/781841334.jpg?k=86069c9689dc76c39f618a4171e4cfb719a6752664477aaa1267dd0ec566bf9e&o="
+        }
+       ]
+      },
+      {
+       "id": 156432817,
+       "caption": "ベッドルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/46063163/736789263/35d1b4a502670420f751079fe568528b.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 148880259,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/46063163/0/2fcda398f5fd3d01bb574896c972bf55.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219596337,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/59428885/0/27669354e510a4f70b21c10d76ef24ba.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220156955,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/59428885/0/2d734435b87bf815f58369815afec9e3.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 217975742,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/59428885/0/f29b5992d2507417b192921636d5deff.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 738110249,
+       "caption": "会議室 / ダンスホール",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/658300550.jpg?k=29ad296b50498797aeeff32926e269a3919513718d1b633f098f2f101fef3fc4&o="
+        }
+       ]
+      },
+      {
+       "id": 1174704211,
+       "caption": "ロビー",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/781841338.jpg?k=3461227bf0d3be1cbb773757ecea7d930045602784f7323089fc418c9f8b0ec9&o="
+        }
+       ]
+      },
+      {
+       "id": 219596336,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/59428885/0/dd8452a03111f41dbe759ebc1425d119.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219596342,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/59428885/1153958207/d350114b46f04002616cc5777ffad669.jpeg?ce=3"
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.5
+           },
+           {
+            "id": "facilities",
+            "score": 9.3
+           },
+           {
+            "id": "location",
+            "score": 9.0
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.3
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.8
+           },
+           {
+            "id": "facilities",
+            "score": 9.5
+           },
+           {
+            "id": "location",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.2
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.5
+           },
+           {
+            "id": "facilities",
+            "score": 9.3
+           },
+           {
+            "id": "location",
+            "score": 9.2
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.0
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.2
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.6
+           },
+           {
+            "id": "facilities",
+            "score": 9.3
+           },
+           {
+            "id": "location",
+            "score": 9.0
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.5
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.6
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.6
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.4
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.2
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.5
+           },
+           {
+            "id": "location",
+            "score": 9.0
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.1
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 90
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 139,
+          "countryCode": "AU",
+          "countryName": "Australia",
+          "date": "2026-08-13T04:27:00.000+07:00",
+          "demographicId": 2,
+          "demographicName": "Couple",
+          "reviewer": "Christopher",
+          "reviewRating": 10.0,
+          "snippet": "With that said, what makes this hotel so good is the staff."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 502,
+        "score": 9.0
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 1528,
+        "score": 9.3
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 28999,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 2,
+        "score": 9.5
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 997,
+        "score": 9.3
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 3029,
+      "score": 9.2
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": true,
+     "isInfantCottageAvailable": false,
+     "hasKidsPool": true,
+     "hasKidsClub": false
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "ソイ ワット ラン ブン駅",
+        "distanceInM": 1237.13
+       },
+       {
+        "landmarkName": "ラートクラバン駅",
+        "distanceInM": 2400.67
+       }
+      ],
+      "topLandmark": null,
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 14922.781519398846
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       }
+      ]
+     },
+     "uniqueAttributes": null,
+     "hasNearbyPublicTransportation": false
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": []
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 5050.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5050.0
+             },
+             "inclusive": {
+              "display": 5943.85,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5943.85
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 10100.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 10100.0
+             },
+             "inclusive": {
+              "display": 11887.7,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 11887.7
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 5050.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5050.0
+             },
+             "inclusive": {
+              "display": 5943.85,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5943.85
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "BestValueForLocation",
+      "value": null
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 8,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T15:20:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 29.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "propertyId": 165350,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "マリオット エグゼクティブ アパートメンツ スクンビット パーク バンコク",
+     "defaultName": "Marriott Executive Apartments Sukhumvit Park, Bangkok",
+     "displayName": "マリオット エグゼクティブ アパートメンツ スクンビット パーク バンコク (Marriott Executive Apartments Sukhumvit Park, Bangkok)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/sukhumvit-park-bangkok-marriott-executive-apartments/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 27713,
+       "name": "スクンビット"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 5.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": "2024",
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.724360466003418,
+      "longitude": 100.56670379638672
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 1
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 20
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": {
+      "hotelTag": {
+       "name": "家族連れの旅行者から高評価",
+       "symbol": "fill/symbol/family"
+      },
+      "hotelView": null
+     }
+    },
+    "propertyEngagement": {
+     "lastBooking": "2025-04-08T16:10:33.150+07:00",
+     "peopleLooking": 0,
+     "todayBooking": "本日4件の予約"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 145537265,
+       "caption": "リビングルーム",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/165350/0/cc4c1872f8ed5dd65e79951c8fa8ea55.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 160255969,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499197/1016810004/98e6cd873e413d1f78fbbe59e447a4d6.jpeg?ce=0"
+        }
+       ]
+      },
+      {
+       "id": 34436411,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/165350/0/8ab4efa3b03f844732ea6e090c3c220a.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 217931449,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499197/0/0bdd1805490e2a30733ac3141c698984.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 119241935,
+       "caption": "コーヒーショップ/カフェ",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/165350/0/46bc8c3ded728e7760975b90ec55c459.jpeg"
+        }
+       ]
+      },
+      {
+       "id": 119242062,
+       "caption": "パブ/ラウンジ",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/165350/0/f5c64cbe6ed09592830205e184f174f5.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219502946,
+       "caption": "",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499197/0/4cec9af19e036b0230360eedbdd4ae9a.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 136357039,
+       "caption": "お部屋概要",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/165350/741132671/c0d51d7a2197911e3c83c92490ce2317.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219502941,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499197/0/485991e7e2ce7cc179570cc381aca3db.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 119241191,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/165350/0/c32c93d57ef17e26472643974c3ccce3.jpeg"
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.3
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.6
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.4
+           },
+           {
+            "id": "cleanliness",
+            "score": 8.8
+           },
+           {
+            "id": "facilities",
+            "score": 8.5
+           },
+           {
+            "id": "location",
+            "score": 7.8
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.6
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.8
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.0
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.5
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.2
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.4
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.2
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.8
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 9.2
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.3
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 92
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 114,
+          "countryCode": "SG",
+          "countryName": "Singapore",
+          "date": "2025-12-10T10:44:00.000+07:00",
+          "demographicId": 3,
+          "demographicName": "Solo traveler",
+          "reviewer": "Wendy",
+          "reviewRating": 10.0,
+          "snippet": "What truly sets this place apart is the impeccable service."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 1040,
+        "score": 8.7
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 411,
+        "score": 9.1
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 372,
+        "score": 9.1
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 1823,
+      "score": 8.8
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": false,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": true,
+     "hasKidsClub": true
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "MRT クイーンシリキット ナショナル コンベンションセンター駅",
+        "distanceInM": 678.6
+       },
+       {
+        "landmarkName": "BTS プロンポン駅",
+        "distanceInM": 753.56
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 4254.19
+       },
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 4568.94
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 5000.29
+       },
+       {
+        "landmarkName": "アジアティーク ザ リバーフロント",
+        "distanceInM": 7204.6
+       },
+       {
+        "landmarkName": "ワット プラ チェトゥポン",
+        "distanceInM": 8365.85
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 0.0
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 23130,
+        "title": "ルンピニー公園",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": null,
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "この１０年、バンコクに旅行する度に必ず２泊〜３泊。ロケーションの良さと１ベッドルームが広くて使いやすいのが主な理由。"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 4400.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4400.0
+             },
+             "inclusive": {
+              "display": 5178.8,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5178.8
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 8800.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 8800.0
+             },
+             "inclusive": {
+              "display": 10357.6,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 10357.6
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 4400.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4400.0
+             },
+             "inclusive": {
+              "display": 5178.8,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5178.8
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 3,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T17:45:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 45.0,
+     "facilities": []
+    }
+   }
+  },
+  {
+   "propertyId": 161588,
+   "propertyResultType": "NormalProperty",
+   "sponsoredDetail": {
+    "sponsoredType": "NoSponsored",
+    "isShowSponsoredFlag": false
+   },
+   "content": {
+    "informationSummary": {
+     "localeName": "サトーン ビスタ バンコク - マリオット エグゼクティブ アパートメント",
+     "defaultName": "Sathorn Vista, Bangkok - Marriott Executive Apartments",
+     "displayName": "サトーン ビスタ バンコク - マリオット エグゼクティブ アパートメント (Sathorn Vista, Bangkok - Marriott Executive Apartments)",
+     "accommodationType": 34,
+     "accommodation": {
+      "accommodationName": "ホテル"
+     },
+     "propertyLinks": {
+      "propertyPage": "/sathorn-vista-bangkok-marriott-executive-apartments/hotel/bangkok-th.html"
+     },
+     "address": {
+      "countryCode": "TH",
+      "country": {
+       "id": 106,
+       "name": "タイ"
+      },
+      "city": {
+       "id": 9395,
+       "name": "バンコク"
+      },
+      "area": {
+       "id": 514610,
+       "name": "サトーン"
+      }
+     },
+     "propertyType": "Hotel",
+     "rating": 5.0,
+     "isGovernmentVerifiedStars": null,
+     "awardYear": null,
+     "isSustainableTravel": false,
+     "geoInfo": {
+      "latitude": 13.723167419433594,
+      "longitude": 100.53693389892578
+     },
+     "remarks": null,
+     "spokenLanguages": [
+      {
+       "id": 1
+      },
+      {
+       "id": 22
+      },
+      {
+       "id": 20
+      }
+     ],
+     "nhaSummary": {
+      "hostPropertyCount": 0
+     },
+     "hotelCharacter": {
+      "hotelTag": {
+       "name": "家族連れの旅行者から高評価",
+       "symbol": "fill/symbol/family"
+      },
+      "hotelView": null
+     }
+    },
+    "propertyEngagement": {
+     "lastBooking": "1899-12-31T23:42:04.000+06:42:04",
+     "peopleLooking": 0,
+     "todayBooking": "＜今日の予約状況＞ 2件の予約が入りました"
+    },
+    "nonHotelAccommodation": {
+     "masterRooms": [],
+     "hostLevel": null,
+     "supportedLongStay": null
+    },
+    "images": {
+     "hotelImages": [
+      {
+       "id": 212488387,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499847/0/a9bc923c9eb798fae3cb1c21a27ffb31.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 211735968,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499847/1296573068/c922970bf11f7b9a617e9b6d5f1e184f.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 220055801,
+       "caption": "ロビー",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499847/0/0b0a9f291abf314bdd4f9d503897b7ed.jpeg?ce=4"
+        }
+       ]
+      },
+      {
+       "id": 207812049,
+       "caption": "屋外プール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/161588/0/1285d8e5ea342217998ae8b07aa9b633.jpg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219584810,
+       "caption": "レストラン",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499847/0/0d91b2ed3cd4ba2775d823989f067f16.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 219499374,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499847/0/68b8755189546fb66673202e17fb73ad.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 140305044,
+       "caption": "キッズ クラブ",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/161588/-1/b2978f1f2351f15c87309a92b1fce8f0.jpg?ce=0"
+        }
+       ]
+      },
+      {
+       "id": 219130977,
+       "caption": "客室",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499847/1154068533/d51fb3caa044c2e19b6a5b6f99962fbc.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 211736181,
+       "caption": "スイミングプール",
+       "providerId": 332,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//pix8.agoda.net/hotelImages/5499847/0/6580b1ab411a54d538d1e95424863cc2.jpeg?ce=3"
+        }
+       ]
+      },
+      {
+       "id": 1408713476,
+       "caption": "外観",
+       "providerId": 3038,
+       "urls": [
+        {
+         "key": "original",
+         "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/907130821.jpg?k=1a5adbcda5d216dae9827b34a0a5a320667da37746f8eedf4a6f848bcdcf9c92&o="
+        }
+       ]
+      }
+     ]
+    },
+    "reviews": {
+     "contentReview": [
+      {
+       "isDefault": true,
+       "providerId": 332,
+       "demographics": {
+        "groups": [
+         {
+          "id": 0,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.3
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.9
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 1,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.5
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.0
+           },
+           {
+            "id": "facilities",
+            "score": 8.7
+           },
+           {
+            "id": "location",
+            "score": 8.1
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 8.6
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.2
+           }
+          ]
+         },
+         {
+          "id": 2,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.9
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.4
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.1
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.4
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 3,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.8
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 8.8
+           },
+           {
+            "id": "location",
+            "score": 8.5
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.0
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.7
+           }
+          ]
+         },
+         {
+          "id": 4,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 9.0
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.3
+           },
+           {
+            "id": "facilities",
+            "score": 9.0
+           },
+           {
+            "id": "location",
+            "score": 8.4
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.3
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.4
+           },
+           {
+            "id": "valueForMoney",
+            "score": 9.0
+           }
+          ]
+         },
+         {
+          "id": 5,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.1
+           },
+           {
+            "id": "facilities",
+            "score": 8.7
+           },
+           {
+            "id": "location",
+            "score": 8.0
+           },
+           {
+            "id": "roomComfort",
+            "score": 9.2
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.2
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.8
+           }
+          ]
+         },
+         {
+          "id": 6,
+          "grades": [
+           {
+            "id": "overall",
+            "score": 8.7
+           },
+           {
+            "id": "cleanliness",
+            "score": 9.2
+           },
+           {
+            "id": "facilities",
+            "score": 8.9
+           },
+           {
+            "id": "location",
+            "score": 8.1
+           },
+           {
+            "id": "roomComfort",
+            "score": 8.4
+           },
+           {
+            "id": "staffPerformance",
+            "score": 9.1
+           },
+           {
+            "id": "valueForMoney",
+            "score": 8.9
+           }
+          ]
+         }
+        ]
+       },
+       "summaries": {
+        "recommendationScores": [
+         {
+          "recommendationScore": 91
+         }
+        ],
+        "snippets": [
+         {
+          "countryId": 64,
+          "countryCode": "AE",
+          "countryName": "United Arab Emirates",
+          "date": "2026-01-07T02:08:00.000+07:00",
+          "demographicId": 3,
+          "demographicName": "Solo traveler",
+          "reviewer": "Kasia",
+          "reviewRating": 9.6,
+          "snippet": "The apartment was spacious and bed absolutely fabulous."
+         }
+        ]
+       },
+       "cumulative": {
+        "reviewCount": 856,
+        "score": 8.7
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 3038,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 595,
+        "score": 9.3
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 28999,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 17,
+        "score": 9.6
+       }
+      },
+      {
+       "isDefault": false,
+       "providerId": 29100,
+       "demographics": null,
+       "summaries": null,
+       "cumulative": {
+        "reviewCount": 435,
+        "score": 9.3
+       }
+      }
+     ],
+     "cumulative": {
+      "reviewCount": 1903,
+      "score": 9.0
+     }
+    },
+    "familyFeatures": {
+     "hasChildrenFreePolicy": true,
+     "isFamilyRoom": true,
+     "hasMoreThanOneBedroom": true,
+     "isInterConnectingRoom": true,
+     "isInfantCottageAvailable": true,
+     "hasKidsPool": true,
+     "hasKidsClub": true
+    },
+    "localInformation": {
+     "landmarks": {
+      "transportation": [
+       {
+        "landmarkName": "BTS サラデーン駅",
+        "distanceInM": 659.32
+       },
+       {
+        "landmarkName": "MRT シーロム駅",
+        "distanceInM": 677.85
+       }
+      ],
+      "topLandmark": [
+       {
+        "landmarkName": "MBKセンター（マーブンクロンセンター）",
+        "distanceInM": 2574.77
+       },
+       {
+        "landmarkName": "サイアム パラゴン",
+        "distanceInM": 2640.98
+       },
+       {
+        "landmarkName": "ジム トンプソンの家",
+        "distanceInM": 3056.94
+       },
+       {
+        "landmarkName": "アジアティーク ザ リバーフロント",
+        "distanceInM": 4193.19
+       },
+       {
+        "landmarkName": "ワット プラ チェトゥポン",
+        "distanceInM": 5439.67
+       }
+      ],
+      "beach": []
+     },
+     "hasAirportTransfer": false
+    },
+    "highlight": {
+     "cityCenter": {
+      "distanceFromCityCenter": 81.71778950933921
+     },
+     "favoriteFeatures": {
+      "features": [
+       {
+        "id": 240,
+        "title": "清掃（毎日）",
+        "category": "property-facility"
+       },
+       {
+        "id": 73555,
+        "title": "公共交通機関近く",
+        "category": "transportation"
+       },
+       {
+        "id": 131371,
+        "title": "アジアティーク ザ リバーフロント",
+        "category": "landmark"
+       }
+      ]
+     },
+     "uniqueAttributes": null,
+     "hasNearbyPublicTransportation": true
+    }
+   },
+   "contentTopics": {
+    "topics": [
+     {
+      "topic": "Location",
+      "reviewSnippets": [
+       "広いし、バンコク市内でどこにも行きやすい。"
+      ]
+     }
+    ]
+   },
+   "soldOut": null,
+   "pricing": {
+    "isAvailable": true,
+    "isReady": true,
+    "isEasyCancel": false,
+    "isInsiderDeal": false,
+    "payment": {
+     "cancellation": {
+      "cancellationType": "FreeCancellation",
+      "freeCancellationDate": "2026-12-10T00:00:00.000+07:00"
+     },
+     "payLater": {
+      "isEligible": true
+     },
+     "payAtHotel": {
+      "isEligible": false
+     },
+     "noCreditCard": {
+      "isEligible": false
+     }
+    },
+    "supplierInfo": null,
+    "childPolicy": {
+     "freeChildren": 0
+    },
+    "offers": [
+     {
+      "roomOffers": [
+       {
+        "room": {
+         "availableRooms": 5,
+         "supplierId": 29002,
+         "promotions": null,
+         "pricing": [
+          {
+           "currency": "THB",
+           "price": {
+            "perNight": {
+             "exclusive": {
+              "display": 4300.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4300.0
+             },
+             "inclusive": {
+              "display": 5061.1,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5061.1
+             }
+            },
+            "perBook": {
+             "exclusive": {
+              "display": 8600.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 8600.0
+             },
+             "inclusive": {
+              "display": 10122.2,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 10122.2
+             }
+            },
+            "perRoomPerNight": {
+             "exclusive": {
+              "display": 4300.0,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 4300.0
+             },
+             "inclusive": {
+              "display": 5061.1,
+              "crossedOutPrice": 0.0,
+              "originalPrice": 5061.1
+             }
+            },
+            "totalDiscount": 0
+           }
+          }
+         ],
+         "payment": {
+          "paymentModel": "MerchantCommission",
+          "cancellation": {
+           "cancellationType": "FreeCancellation"
+          }
+         },
+         "discount": {
+          "deals": [],
+          "channelDiscount": "Retail"
+         },
+         "capacity": {
+          "extraBedsAvailable": false
+         }
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "enrichment": {
+    "topSellingPoint": [
+     {
+      "tspType": "CheapestFiveStarRating",
+      "value": null
+     },
+     {
+      "tspType": "LuxuryHotel",
+      "value": null
+     }
+    ],
+    "bookingHistory": {
+     "bookingCount": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+     },
+     "lastBooking": "2026-11-09T18:58:00.000+07:00"
+    },
+    "isPopular": false,
+    "isTopRatedInCity": false,
+    "roomInformation": {
+     "cheapestRoomSizeSqm": 65.0,
+     "facilities": [
+      {
+       "id": 75,
+       "propertyFacilityName": "無料Wi-Fi",
+       "symbol": "wifi"
+      },
+      {
+       "id": 2594,
+       "propertyFacilityName": "開閉可の窓",
+       "symbol": "confirmation-instant"
+      },
+      {
+       "id": 43,
+       "propertyFacilityName": "バルコニー/テラス",
+       "symbol": "balcony-terrace"
+      },
+      {
+       "id": 29,
+       "propertyFacilityName": "書斎デスク",
+       "symbol": "desk"
+      },
+      {
+       "id": 50,
+       "propertyFacilityName": "プライベートプール",
+       "symbol": "private-pool"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "aggregation": {
+  "matrixGroupResults": [
+   {
+    "matrixGroup": "AffordableCategory",
+    "matrixItemResults": [
+     {
+      "id": 2,
+      "name": "ラグジュアリー",
+      "count": 11,
+      "filterKey": "AffordableCategory",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "バジェット/格安",
+      "count": 2,
+      "filterKey": "AffordableCategory",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "AllGuestReviewBreakdown",
+    "matrixItemResults": [
+     {
+      "id": 8,
+      "name": "「サービス」で高評価",
+      "count": 14,
+      "filterKey": "AllGuestStaffRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "「施設の状態/清潔さ」で高評価",
+      "count": 14,
+      "filterKey": "AllGuestCleanlinessRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "「施設・設備」で高評価",
+      "count": 14,
+      "filterKey": "AllGuestFacilitiesRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "「コスパ」で高評価",
+      "count": 14,
+      "filterKey": "AllGuestValueRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "「ロケーション」で高評価",
+      "count": 13,
+      "filterKey": "AllGuestLocationRating",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "「お部屋の快適さ・クオリティ」で高評価",
+      "count": 7,
+      "filterKey": "AllGuestComfortRating",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "HotelFacilities",
+    "matrixItemResults": [
+     {
+      "id": 80,
+      "name": "駐車場",
+      "count": 1,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 116,
+      "name": "24時間フロント対応",
+      "count": 10,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 89,
+      "name": "家族・お子様に優しい設備",
+      "count": 12,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 15,
+      "name": "禁煙",
+      "count": 8,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "TripPurpose",
+    "matrixItemResults": [
+     {
+      "id": 1,
+      "name": "グループにおすすめ",
+      "count": 14,
+      "filterKey": "TripPurpose",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "ファミリーにおすすめ",
+      "count": 5,
+      "filterKey": "TripPurpose",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3,
+      "name": "ワーケーションにおすすめ",
+      "count": 1,
+      "filterKey": "TripPurpose",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "GroupedBedTypes",
+    "matrixItemResults": [
+     {
+      "id": 5,
+      "name": "キングベッド",
+      "count": 14,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "ダブルベッド",
+      "count": 9,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "クイーンベッド",
+      "count": 4,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "シングルベッド/ツインベッド",
+      "count": 3,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 7,
+      "name": "バンクベッド（二段ベッド）",
+      "count": 1,
+      "filterKey": "GroupedBedTypes",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "HotelAreaId",
+    "matrixItemResults": [
+     {
+      "id": 27713,
+      "name": "スクンビット",
+      "count": 11,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 27715,
+      "name": "シーロム",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 27717,
+      "name": "スワンナプーム空港",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 378468,
+      "name": "サイアム",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 514610,
+      "name": "サトーン",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "BeachAccessTypeIds",
+    "matrixItemResults": []
+   },
+   {
+    "matrixGroup": "HotelChainId",
+    "matrixItemResults": [
+     {
+      "id": 21,
+      "name": "マリオット",
+      "count": 14,
+      "filterKey": "HotelChainId",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "CityCenterDistance",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "中心地に所在",
+      "count": 10,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "中心地まで2 km未満",
+      "count": 2,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "中心地まで2～5 km未満",
+      "count": 2,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3,
+      "name": "中心地まで5～10 km未満",
+      "count": 0,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "中心地まで10 km以上",
+      "count": 1,
+      "filterKey": "CityCenterDistance",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "ReviewScore",
+    "matrixItemResults": [
+     {
+      "id": 9,
+      "name": "最高!",
+      "count": 6,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "非常に満足",
+      "count": 14,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "すごく良い",
+      "count": 14,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "良い",
+      "count": 14,
+      "filterKey": "ReviewScore",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "ProductType",
+    "matrixItemResults": [
+     {
+      "id": -1,
+      "name": "すべての宿泊施設",
+      "count": 15,
+      "filterKey": "ProductType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "ホテル",
+      "count": 15,
+      "filterKey": "ProductType",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "NoOfBeds",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "指定なし",
+      "count": 14,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 1,
+      "name": "1+",
+      "count": 14,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 2,
+      "name": "2+",
+      "count": 12,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 3,
+      "name": "3+",
+      "count": 7,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 4,
+      "name": "4+",
+      "count": 2,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 5,
+      "name": "5+",
+      "count": 1,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "6+",
+      "count": 1,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "7+",
+      "count": 1,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "8+",
+      "count": 1,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 9,
+      "name": "9+",
+      "count": 1,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 10,
+      "name": "10+",
+      "count": 0,
+      "filterKey": "NoOfBeds",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "KidsStayForFree",
+    "matrixItemResults": [
+     {
+      "id": 250691,
+      "name": "お子さま宿泊無料",
+      "count": 0,
+      "filterKey": "KidsStayForFree",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "NoOfBedrooms",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "指定なし",
+      "count": 14,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 1,
+      "name": "1+",
+      "count": 14,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 2,
+      "name": "2+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 3,
+      "name": "3+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 4,
+      "name": "4+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 5,
+      "name": "5+",
+      "count": 1,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "6+",
+      "count": 0,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "7+",
+      "count": 0,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "8+",
+      "count": 0,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 9,
+      "name": "9+",
+      "count": 0,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 10,
+      "name": "10+",
+      "count": 0,
+      "filterKey": "NoOfBedrooms",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "NoOfBathrooms",
+    "matrixItemResults": [
+     {
+      "id": 0,
+      "name": "指定なし",
+      "count": 14,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 1,
+      "name": "1+",
+      "count": 14,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 2,
+      "name": "2+",
+      "count": 11,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 3,
+      "name": "3+",
+      "count": 4,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 4,
+      "name": "4+",
+      "count": 1,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 5,
+      "name": "5+",
+      "count": 0,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 6,
+      "name": "6+",
+      "count": 0,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "7+",
+      "count": 0,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "8+",
+      "count": 0,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 9,
+      "name": "9+",
+      "count": 0,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 10,
+      "name": "10+",
+      "count": 0,
+      "filterKey": "NoOfBathrooms",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "LandmarkIds",
+    "matrixItemResults": [
+     {
+      "id": 143861,
+      "name": "エムクオーティエ",
+      "count": 4,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23159,
+      "name": "スクンビット",
+      "count": 3,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 141553,
+      "name": "ターミナル 21 ショッピング モール",
+      "count": 3,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 23157,
+      "name": "ソイ カウボーイ",
+      "count": 2,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1456083,
+      "name": "キングパワー マハナコーン",
+      "count": 2,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22118,
+      "name": "パッポン ナイトライフ",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22122,
+      "name": "エラワン寺院",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22124,
+      "name": "サイアム パラゴン",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 22125,
+      "name": "セントラル ワールド",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 230484,
+      "name": "ステート タワー",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 724232,
+      "name": "ビッグ C ラチャダムリ",
+      "count": 1,
+      "filterKey": "LandmarkIds",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "ReviewTopicIds",
+    "matrixItemResults": [
+     {
+      "id": 40,
+      "name": "洗練されたサービス",
+      "count": 8,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 43,
+      "name": "立地の良さ",
+      "count": 6,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 54,
+      "name": "行き届いた清掃",
+      "count": 6,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 33,
+      "name": "気配り上手なホスト",
+      "count": 1,
+      "filterKey": "ReviewTopicIds",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "BusStationLandmarkIds",
+    "matrixItemResults": []
+   },
+   {
+    "matrixGroup": "AtmosphereIds",
+    "matrixItemResults": [
+     {
+      "id": 5,
+      "name": "ナイトライフ",
+      "count": 14,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 6,
+      "name": "レストラン",
+      "count": 14,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 1,
+      "name": "ショッピングエリア",
+      "count": 12,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 2,
+      "name": "ビジネスエリア",
+      "count": 13,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 103,
+      "name": "交通のハブ",
+      "count": 1,
+      "filterKey": "AtmosphereIds",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "PaymentOptions",
+    "matrixItemResults": [
+     {
+      "id": 49499,
+      "name": "キャンセル無料",
+      "count": 14,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 56649,
+      "name": "宿泊施設へ直接支払い ",
+      "count": 14,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 52770,
+      "name": "今日予約でも支払いは後日",
+      "count": 14,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 84640,
+      "name": "今日予約して今日支払い",
+      "count": 14,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "TrainStationLandmarkIds",
+    "matrixItemResults": []
+   },
+   {
+    "matrixGroup": "StarRatingWithLuxury",
+    "matrixItemResults": [
+     {
+      "id": 5,
+      "name": "",
+      "count": 10,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 101,
+      "name": "Agoda Luxe",
+      "count": 4,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 4,
+      "name": "",
+      "count": 3,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 3,
+      "name": "",
+      "count": 1,
+      "filterKey": "StarRatingWithLuxury",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "AccommodationType",
+    "matrixItemResults": [
+     {
+      "id": 34,
+      "name": "ホテル",
+      "count": 13,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 120,
+      "name": "アパートホテル",
+      "count": 2,
+      "filterKey": "AccommodationType",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 89,
+      "name": "家族・お子様に優しい設備",
+      "count": 12,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "RoomBenefits",
+    "matrixItemResults": [
+     {
+      "id": 78322,
+      "name": "朝食込み",
+      "count": 14,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "RoomAmenities",
+    "matrixItemResults": [
+     {
+      "id": 25,
+      "name": "エアコン",
+      "count": 4,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 33,
+      "name": "アイロン設備",
+      "count": 4,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 37,
+      "name": "バスタブ",
+      "count": 3,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 86,
+      "name": "冷蔵庫",
+      "count": 3,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 35,
+      "name": "テレビ",
+      "count": 3,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 31,
+      "name": "インターネット・Wi-Fi",
+      "count": 3,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 47,
+      "name": "コーヒー/ティーメーカー",
+      "count": 3,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 42,
+      "name": "キッチン ",
+      "count": 1,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 342,
+      "name": "ペット客室同伴可",
+      "count": 1,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 43,
+      "name": "バルコニー/テラス",
+      "count": 1,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 87,
+      "name": "洗濯機",
+      "count": 1,
+      "filterKey": "RoomAmenities",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "MetroSubwayStationLandmarkIds",
+    "matrixItemResults": []
+   },
+   {
+    "matrixGroup": "ReviewLocationScore",
+    "matrixItemResults": [
+     {
+      "id": 9,
+      "name": "最高!",
+      "count": 2,
+      "filterKey": "ReviewLocationScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 8,
+      "name": "非常に満足",
+      "count": 13,
+      "filterKey": "ReviewLocationScore",
+      "filterRequestType": "Range"
+     },
+     {
+      "id": 7,
+      "name": "すごく良い",
+      "count": 14,
+      "filterKey": "ReviewLocationScore",
+      "filterRequestType": "Range"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "Popular",
+    "matrixItemResults": [
+     {
+      "id": 27713,
+      "name": "スクンビット エリア",
+      "count": 11,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 378468,
+      "name": "サイアム エリア",
+      "count": 1,
+      "filterKey": "HotelAreaId",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 56649,
+      "name": "宿泊施設へ直接支払い ",
+      "count": 14,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 89,
+      "name": "家族・お子様に優しい設備",
+      "count": 12,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 116,
+      "name": "24時間フロント対応",
+      "count": 10,
+      "filterKey": "HotelFacilities",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "Segment",
+    "matrixItemResults": [
+     {
+      "id": 78322,
+      "name": "朝食込み",
+      "count": 14,
+      "filterKey": "RoomBenefits",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 49499,
+      "name": "キャンセル無料",
+      "count": 14,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     },
+     {
+      "id": 56649,
+      "name": "宿泊施設へ直接支払い ",
+      "count": 14,
+      "filterKey": "PaymentOptions",
+      "filterRequestType": "IDs"
+     }
+    ]
+   },
+   {
+    "matrixGroup": "PopularForFamily",
+    "matrixItemResults": [
+     {
+      "id": 250691,
+      "name": "お子さま宿泊無料",
+      "count": 0,
+      "filterKey": "KidsStayForFree",
+      "filterRequestType": "IDs"
+     }
+    ]
+   }
+  ]
+ }
+}

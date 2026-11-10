@@ -1,0 +1,2889 @@
+{
+ "hasReviewsData": true,
+ "pageSize": 5,
+ "hotelId": 9059812,
+ "hotelName": "Palette Bella B All Suites Bangkok Hotel",
+ "additionalReviewProviders": [
+  27901,
+  28999,
+  27989
+ ],
+ "recentReviewScores": [
+  {
+   "providerId": 332,
+   "recentReviewScores": [
+    8.0,
+    4.4,
+    6.8,
+    7.2,
+    6.4,
+    8.0,
+    7.6,
+    4.8,
+    10.0,
+    2.0
+   ],
+   "recentReviewScoresFormatted": [
+    "8.0",
+    "4.4",
+    "6.8",
+    "7.2",
+    "6.4",
+    "8.0",
+    "7.6",
+    "4.8",
+    "10",
+    "2.0"
+   ]
+  },
+  {
+   "providerId": 3038,
+   "recentReviewScores": [
+    6.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0
+   ],
+   "recentReviewScoresFormatted": [
+    "6.0",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  }
+ ],
+ "commentList": {
+  "reviewPageUrl": "/bella-b-all-suite-bangkok-sha-extra-plus/reviews/bangkok-th.html",
+  "currentPage": 1,
+  "hotelID": 9059812,
+  "pageSize": 5,
+  "selectedSortOption": 7,
+  "haveMoreThanOneComments": true,
+  "isCrawlablePage": true,
+  "isCurated": false,
+  "isReviewPage": false,
+  "shouldShowProminentLink": false,
+  "pageNumberToPageUrl": {},
+  "reviewsSortOptions": {
+   "1": "Most recent",
+   "2": "Rating, high to low",
+   "3": "Rating, low to high",
+   "7": "Most helpful"
+  },
+  "comments": [
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": true,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": true,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1181109090,
+    "providerId": 332,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "September 2026",
+    "encryptedReviewData": "BF1I+sMnyIjGTcxbg8tmhw==",
+    "formattedRating": "10.0",
+    "formattedReviewDate": "September 16, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Exceptional",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "Responded October 05, 2026",
+    "responseText": "Dear Pimwara,\n\nขอบคุณมากค่ะสำหรับรีวิวที่ละเอียดยิ่ง! ดีใจที่ท่านประทับใจในที่นอน เตียง ความสะอาด ทำเลที่ตั้งใกล้ไอคอนสยาม และความคุ้มค่า ยินดีต้อนรับท่านและครอบครัวเสมอนะคะ\n\nRegards,\n\nLeo\n\nPalette Bella B All Suites Bangkok Hotel",
+    "responseTranslateSource": "en",
+    "reviewComments": "A good mattress, no itchiness, no springs poking, a comfortable bed means a good sleep. The linens are clean, no bad odors. The room is clean with no musty smell or cigarette smoke. A great location at a very affordable price, suitable for people conducting business in the city or traveling. The hotel is near Icon Siam but at a budget price, perfect for bringing the family to stay.",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Room",
+    "translateSource": "th",
+    "translateTarget": "en",
+    "checkInDate": "2026-09-15T00:00:00+07:00",
+    "checkOutDate": "2026-09-16T00:00:00+07:00",
+    "responseDate": "2026-10-05T17:11:27.445+07:00",
+    "reviewDate": "2026-09-16T08:16:48+07:00",
+    "reviewerInfo": {
+     "countryName": "Thailand",
+     "displayMemberName": "Pimwara",
+     "flagName": "th",
+     "reviewGroupName": "Solo traveler",
+     "roomTypeName": "Premier Deluxe Double",
+     "countryId": 106,
+     "lengthOfStay": 1,
+     "reviewGroupId": 3,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "ห้องพัก ",
+    "originalComment": "ที่นอนดี ไม่คัน ไม่มีสปริงทิ่ม เตียงหลังนอนสบาย คือหลับสบาย ผ้าซักสอาด ไม่เหม็น  ห้องสะอาดไม่มีกลิ่นอับ หรือกลิ่นบุหรี่  ทำเลดี ราคาดีงามมาก เหมาะกับคนที่ติดต่อธุระกิจในเมือง หรือท่องเที่ยว รร. ใกล้ ไอคอนสยาม แต่ราคาหลักร้อย เหมาะกับพาครอบครัวมาพัก ",
+    "ugcImages": [
+     {
+      "id": 5047822,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/aa1a9d06adc21dc21028220670deaa5e.jpeg?ce=3",
+      "caption": ""
+     },
+     {
+      "id": 5047821,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/c4582a9e2cb5cd31d9195b02ee2268f2.jpeg?ce=3",
+      "caption": ""
+     }
+    ],
+    "formattedResponseDate": "2026/10/05 17:11:27"
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1194343525,
+    "providerId": 3038,
+    "rating": 6.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "6I6yrWzUL5LqV2JtNiJLdg==",
+    "formattedRating": "6.0",
+    "formattedReviewDate": "October 09, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Good",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "",
+    "responseTranslateSource": "en",
+    "reviewComments": "",
+    "reviewNegatives": "Not bad",
+    "reviewPositives": "Ok",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Ok",
+    "translateSource": "en",
+    "translateTarget": "en",
+    "reviewDate": "2026-10-09T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Anchalee",
+     "flagName": "",
+     "reviewGroupName": "Couple",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": true,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": true,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1132120362,
+    "providerId": 332,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "June 2026",
+    "encryptedReviewData": "UhpdLxS2H7j0p2RvDm1m9Q==",
+    "formattedRating": "10.0",
+    "formattedReviewDate": "June 15, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Exceptional",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "Responded June 25, 2026",
+    "responseText": "เรียน คุณ Vivo,\n\nขอขอบคุณสำหรับคะแนนเต็ม 10/10 และรีวิวที่ยอดเยี่ยมของคุณ เรายินดีเป็นอย่างยิ่งที่ทราบว่าคุณชื่นชอบความเงียบสงบ การจัดสัดส่วนห้องพักที่ดี รวมถึงการบริการของทีมงานระหว่างการเข้าพัก\n\nความคิดเห็นของคุณเป็นกำลังใจสำคัญให้ทีมงานของเรามุ่งมั่นรักษามาตรฐานการบริการที่ดีต่อไป หวังว่าจะได้ต้อนรับคุณอีกครั้งที่ Palette Bella B All Suites Bangkok Hotel\n\nWarm Regards,\nEthan\nPalette Bella B All Suites Bangkok Hotel",
+    "responseTranslateSource": "en",
+    "reviewComments": "I recommend it, it's quiet and peaceful. I really like the room; it has well-defined areas. The bedroom and living room are great. I will definitely stay again. It's 8 minutes to Icon Siam, and it didn't disappoint. The service is excellent.",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Book 3 nice rooms, all 3 rooms, please extend to get the Agoda price of 420. In summary, stay for 3 nights.",
+    "translateSource": "th",
+    "translateTarget": "en",
+    "checkInDate": "2026-06-11T00:00:00+07:00",
+    "checkOutDate": "2026-06-12T00:00:00+07:00",
+    "responseDate": "2026-06-25T01:32:06.344+07:00",
+    "reviewDate": "2026-06-15T03:37:34+07:00",
+    "reviewerInfo": {
+     "countryName": "Thailand",
+     "displayMemberName": "Vivo",
+     "flagName": "th",
+     "reviewGroupName": "Family with teens",
+     "roomTypeName": "Premier Deluxe Twin",
+     "countryId": 106,
+     "lengthOfStay": 1,
+     "reviewGroupId": 5,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "จอง3ห้องสวยทั้ง3ห้องคะต่ออีกได้ราคาอโกด้า420อีกสรุปนอน3คืนคะ",
+    "originalComment": "แนะนำคะเงียบสงบชอบห้องมากแบ่งเป็นสัดส่วนได้ดีมากห้องนอนห้องรับแขกมีโอกาสจะพักอีกคะไปไอคอลสยาม8นาทีถึงคะไม่ผิดหวังคะบริการก็ดีเยี่ยมคะ",
+    "ugcImages": [
+     {
+      "id": 4233574,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/76fc5cc909ca81283ef723ecd654128e.jpeg?ce=3",
+      "caption": ""
+     },
+     {
+      "id": 4233573,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/85826ab913c622310511f181ff25ca72.jpeg?ce=3",
+      "caption": ""
+     },
+     {
+      "id": 4233489,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/a00d915b0ca9e066ea681eb1e12299db.jpeg?ce=3",
+      "caption": ""
+     },
+     {
+      "id": 4233438,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/a5868decd4e5f312336c07022496ed1f.jpeg?ce=3",
+      "caption": ""
+     }
+    ],
+    "formattedResponseDate": "2026/06/25 01:32:06"
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1194343533,
+    "providerId": 3038,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "qqG82zgk9bKLIBFzRaIIGQ==",
+    "formattedRating": "10.0",
+    "formattedReviewDate": "October 03, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Exceptional",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "",
+    "responseTranslateSource": "en",
+    "reviewComments": "",
+    "reviewNegatives": "",
+    "reviewPositives": "Life gets so busy with work and school, so having a dedicated space where we could just be together and laugh was priceless.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Great quality time",
+    "translateSource": "en",
+    "translateTarget": "en",
+    "reviewDate": "2026-10-03T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Kendall",
+     "flagName": "",
+     "reviewGroupName": "Family with young children",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 4,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": true,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": true,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1118941465,
+    "providerId": 332,
+    "rating": 8.8,
+    "checkInDateMonthAndYear": "May 2026",
+    "encryptedReviewData": "QMy9sc42CAZSs0E1T72lGA==",
+    "formattedRating": "8.8",
+    "formattedReviewDate": "May 16, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Excellent",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "Responded May 25, 2026",
+    "responseText": "Dear Guest,\n\nThank you for your review rating and your detailed feedback. We are delighted to hear that you were satisfied with your long-term stay, our convenient location, the daily replenishment of drinking water and coffee, as well as your use of the hotel’s swimming pool and fitness facilities.\n\nAdditionally, we appreciate your suggestions regarding the operating hours of the swimming pool and fitness center; we will certainly take these into consideration as we strive to further enhance our guest experience.\n\nWe look forward to welcoming you back again in the near future.\n\nWarm regards,\nLiya\nPalette Bella B All Suites Bangkok Hotel",
+    "responseTranslateSource": "en",
+    "reviewComments": "It's not extremely close, but it's within walking distance to the train station and bus stop.\n\nIt's about a 10-minute walk north to Tops and CAFE Amazon, and about a 15-minute walk to Iconsiam (although you'll be sweating a lot).\n\nThe hotel replenishes bottles of water and stick coffee every day.\n\nFor some reason, the pool and gym are open from 6:00 AM to 6:00 PM, and there is no night pool. I think it would be more enjoyable if they were open from 9:00 AM to 9:00 PM or 8:00 AM to 8:00 PM.\n\nIn the morning, I take a boat (6 baht) across the river for breakfast. After coming back, I go to the pool and take a break at the hotel. From 3 PM, I go back to the pool and then go outside for sightseeing around 5 PM. Since it's hot during the day, I didn't feel like going out, and since the pool is on the rooftop, I only went in before noon and in the evening.\n\nI had a great time staying for several nights.",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "I am very satisfied.",
+    "translateSource": "ja",
+    "translateTarget": "en",
+    "checkInDate": "2026-05-10T00:00:00+07:00",
+    "checkOutDate": "2026-05-14T00:00:00+07:00",
+    "responseDate": "2026-05-25T22:19:45.145+07:00",
+    "reviewDate": "2026-05-16T09:15:31+07:00",
+    "reviewerInfo": {
+     "countryName": "Japan",
+     "displayMemberName": "Kohsuke",
+     "flagName": "jp",
+     "reviewGroupName": "Couple",
+     "roomTypeName": "Executive Suite",
+     "countryId": 3,
+     "lengthOfStay": 4,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "大満足です。",
+    "originalComment": "すごく近いわけではありませんが、電車の駅、バス停まで歩ける距離。\n\n徒歩10分ぐらい北にtopsやCAFEAmazon南にモールのセーナフェスト\n15分歩きますがアイコンサイアムも歩いて行けます。(汗だくだくで)\n\nホテルは毎日水ペットボトルとスティックコーヒーを補充してくれます。\n\nプールとジムが朝6:00からなぜか夕方18:00まででナイトプールはありません。\n9:00から21:00か8:00〜20:00だともっと楽しめると思います。\n\n朝、船(6バーツ)で川渡って朝食\n帰って来たらプールに行きホテルで一休み\n15時からまたプールに行って17時頃から外へ出て観光。\n日中が暑いので外出する気になれず、プールもルーフトップなので昼前と夕方に入ってました。\n\n連泊で滞在しとてもよかったです。",
+    "ugcImages": [
+     {
+      "id": 3961429,
+      "providerId": 332,
+      "groupId": "other",
+      "url": "//pix6.agoda.net/generic/cd682df8e98d4bec667fc50e80f75060.jpeg?ce=3",
+      "caption": ""
+     }
+    ],
+    "formattedResponseDate": "2026/05/25 22:19:45"
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1194343534,
+    "providerId": 3038,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "Io3/hpEqoMQMnhcXgBTY5Q==",
+    "formattedRating": "10.0",
+    "formattedReviewDate": "October 02, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Exceptional",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "",
+    "responseTranslateSource": "en",
+    "reviewComments": "",
+    "reviewNegatives": "",
+    "reviewPositives": "This was a lovely little place for a couple's getaway. Our room felt comfortable, private, and welcoming.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Cozy Hideaway",
+    "translateSource": "en",
+    "translateTarget": "en",
+    "reviewDate": "2026-10-02T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Alexis",
+     "flagName": "",
+     "reviewGroupName": "Couple",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": true,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": true,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1103287887,
+    "providerId": 332,
+    "rating": 8.4,
+    "checkInDateMonthAndYear": "April 2026",
+    "encryptedReviewData": "SJctGQZOJS1Y0gulHKEDmg==",
+    "formattedRating": "8.4",
+    "formattedReviewDate": "April 06, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Excellent",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "Responded April 14, 2026",
+    "responseText": "Dear NOHYUN,\n\nThank you very much for your kind rating of 8.4 and for sharing your detailed feedback. We are pleased to hear that you found your stay at Palette Bella B All Suites Bangkok Hotel to be great value for money.\n\nIt’s wonderful to know you enjoyed the rooftop swimming pool, the convenient location just 5 minutes from the station, and the easy access to nearby shops and restaurants such as 7-Eleven and KFC. We’re also glad you found it convenient for visiting Icon Siam and enjoying boat tours along the river.\n\nWe truly appreciate your feedback and hope to have the pleasure of welcoming you again in the future.\n\nWarm regards,\nSophia\nPalette Bella B All Suites Bangkok Hotel",
+    "responseTranslateSource": "en",
+    "reviewComments": "There is also a swimming pool on the roof, and it's a 5-minute walk from the nearby station. In a 10-minute distance, there are several shops like Seven Eleven and KFC, making it the best value for money. It's close to Icon Siam Station, making it a great place for a palace boat tour.",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Best for those who want value for money.",
+    "translateSource": "ko",
+    "translateTarget": "en",
+    "checkInDate": "2026-04-01T00:00:00+07:00",
+    "checkOutDate": "2026-04-08T00:00:00+07:00",
+    "responseDate": "2026-04-14T16:36:02.34+07:00",
+    "reviewDate": "2026-04-06T07:11:52+07:00",
+    "reviewerInfo": {
+     "countryName": "Japan",
+     "displayMemberName": "NOHYUN",
+     "flagName": "jp",
+     "reviewGroupName": "Solo traveler",
+     "roomTypeName": "Premier Deluxe Twin",
+     "countryId": 3,
+     "lengthOfStay": 7,
+     "reviewGroupId": 3,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "가성비를 원하는 사람에게는 최고",
+    "originalComment": "옥상에 수영장도 있고 근처에 역에서 5분거리\n10분거리로 세븐일레븐과 KFC등 여러 상가도 있어서 가성비로는 최고. 아이콘시암역과 가까워서 왕궁 보트 투어를 하는데 좋은곳",
+    "ugcImages": [],
+    "formattedResponseDate": "2026/04/14 16:36:02"
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1194343536,
+    "providerId": 3038,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "EcHynVffG5cKy/pDrZR+Sw==",
+    "formattedRating": "10.0",
+    "formattedReviewDate": "October 02, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Exceptional",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "",
+    "responseTranslateSource": "en",
+    "reviewComments": "",
+    "reviewNegatives": "",
+    "reviewPositives": "The hotel provided a quiet environment where I could focus on work. The practical facilities and comfortable room made the trip much easier.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Quiet Hotel With Practical Facilities For Work Travelers",
+    "translateSource": "en",
+    "translateTarget": "en",
+    "reviewDate": "2026-10-02T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Harve",
+     "flagName": "",
+     "reviewGroupName": "Solo traveler",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 3,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": true,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": true,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1104901860,
+    "providerId": 332,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "April 2026",
+    "encryptedReviewData": "q/gsu24XegMAVBRZpTmueQ==",
+    "formattedRating": "10.0",
+    "formattedReviewDate": "April 13, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Exceptional",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "Responded April 20, 2026",
+    "responseText": "เรียน คุณ Amonrat,\n\nขอขอบคุณสำหรับคะแนนรีวิวที่ยอดเยี่ยม เรายินดีเป็นอย่างยิ่งที่ท่านพึงพอใจกับความสะดวกสบายของห้องพัก สิ่งอำนวยความสะดวกที่ครบครันในสไตล์คอนโด รวมถึงทำเลที่ตั้งและความคุ้มค่าในการเข้าพักที่ Palette Bella B All Suites Bangkok Hotel\n\nความคิดเห็นของท่านเป็นกำลังใจสำคัญให้กับทีมงานของเรา และเราจะรักษามาตรฐานการบริการที่ดีนี้ต่อไป\n\nหวังว่าจะได้มีโอกาสต้อนรับท่านอีกครั้งในอนาคต\n\nขอแสดงความนับถือ\nThani\nPalette Bella B All Suites Bangkok Hotel",
+    "responseTranslateSource": "en",
+    "reviewComments": "Fully furnished accommodation with complete amenities like a condo. This place is very affordable and easy to find, located right by the road. It's perfect for couples.",
+    "reviewNegatives": "",
+    "reviewPositives": "",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Agoda",
+    "reviewTitle": "Convenient",
+    "translateSource": "th",
+    "translateTarget": "en",
+    "checkInDate": "2026-04-11T00:00:00+07:00",
+    "checkOutDate": "2026-04-12T00:00:00+07:00",
+    "responseDate": "2026-04-20T15:43:43.596+07:00",
+    "reviewDate": "2026-04-13T07:28:27+07:00",
+    "reviewerInfo": {
+     "countryName": "Thailand",
+     "displayMemberName": "Amonrat",
+     "flagName": "th",
+     "reviewGroupName": "Couple",
+     "roomTypeName": "Premier Deluxe Twin",
+     "countryId": 106,
+     "lengthOfStay": 1,
+     "reviewGroupId": 2,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": false,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "สะดวกสบาย",
+    "originalComment": "ที่พักพร้อมอยู่สิ่งอำนวยความสะดวกครบครันเหมือนคอนโดพร้อมเฟอร์นิเจอร์ ที่นี่ที่เดียวราคากันเองมากกกและหาง่ายไม่ยากติดริมถนนค่ะเหมาะสำหรับคู่รัก",
+    "ugcImages": [],
+    "formattedResponseDate": "2026/04/20 15:43:43"
+   },
+   {
+    "isHelpfulComment": false,
+    "isReviewVoted": false,
+    "isShowReviewResponse": false,
+    "isShowReviewResponseTranslateButton": false,
+    "isShowReviewTranslateButton": false,
+    "helpfulVotes": 0,
+    "responseLanguageId": 1,
+    "unHelpfulVotes": 0,
+    "hotelReviewId": 1194343538,
+    "providerId": 3038,
+    "rating": 10.0,
+    "checkInDateMonthAndYear": "",
+    "encryptedReviewData": "hZNtXGazj5Jq7MQybgzSlg==",
+    "formattedRating": "10.0",
+    "formattedReviewDate": "September 29, 2026",
+    "formattedReviewHelpfulText": "Did you find this review helpful?",
+    "ratingText": "Exceptional",
+    "responderName": "Palette Bella B All Suites Bangkok Hotel",
+    "responseDateText": "",
+    "responseTranslateSource": "en",
+    "reviewComments": "",
+    "reviewNegatives": "",
+    "reviewPositives": "The room was well prepared and had all the basic amenities I needed. The staff also paid attention to small requests, which made the stay more pleasant.",
+    "reviewProviderLogo": "",
+    "reviewProviderText": "Booking.com",
+    "reviewTitle": "Comfortable Business Stay With Excellent Attention To Detail",
+    "translateSource": "en",
+    "translateTarget": "en",
+    "reviewDate": "2026-09-29T00:00:00+07:00",
+    "reviewerInfo": {
+     "countryName": "",
+     "displayMemberName": "Darin",
+     "flagName": "",
+     "reviewGroupName": "Solo traveler",
+     "roomTypeName": "",
+     "countryId": 0,
+     "lengthOfStay": 0,
+     "reviewGroupId": 3,
+     "roomTypeId": 0,
+     "reviewerReviewedCount": 0,
+     "isExpertReviewer": false,
+     "isShowGlobalIcon": true,
+     "isShowReviewedCount": false
+    },
+    "originalTitle": "",
+    "originalComment": "",
+    "ugcImages": [],
+    "formattedResponseDate": ""
+   }
+  ],
+  "reviewFilterAndSort": [
+   {
+    "providerId": 332,
+    "selectedSortingOption": 7,
+    "hasSelectedFilters": false,
+    "showLanguageFilter": true,
+    "showRoomTypeFilter": true,
+    "hasCommentsMoreThanOnePage": true,
+    "shouldShowReviewFilters": true,
+    "sortings": [
+     {
+      "sortId": 1,
+      "sortText": "Most recent"
+     },
+     {
+      "sortId": 2,
+      "sortText": "Rating, high to low"
+     },
+     {
+      "sortId": 3,
+      "sortText": "Rating, low to high"
+     },
+     {
+      "sortId": 7,
+      "sortText": "Most helpful"
+     }
+    ],
+    "filters": [
+     {
+      "name": "Language",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 2,
+      "filterItems": [
+       {
+        "id": 1,
+        "key": "1",
+        "name": "English",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 22,
+        "key": "22",
+        "name": "ภาษาไทย",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 2,
+        "key": "2",
+        "name": "Français",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 3,
+        "key": "3",
+        "name": "Deutsch",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 9,
+        "key": "9",
+        "name": "한국어",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 6,
+        "key": "6",
+        "name": "日本語",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 8,
+        "key": "8",
+        "name": "简体中文",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 5,
+        "key": "5",
+        "name": "Español",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 11,
+        "key": "11",
+        "name": "Русский",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 7,
+        "key": "7",
+        "name": "繁體中文 (香港)",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 24,
+        "key": "24",
+        "name": "Tiếng Việt",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 4,
+        "key": "4",
+        "name": "Italiano",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 27,
+        "key": "27",
+        "name": "Język polski",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 20,
+        "key": "20",
+        "name": "繁體中文 (台灣)",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 32,
+        "key": "32",
+        "name": "Türkçe",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 13,
+        "key": "13",
+        "name": "Nederlands",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 26,
+        "key": "26",
+        "name": "Bahasa Indonesia",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 25,
+        "key": "25",
+        "name": "Svenska",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 40,
+        "key": "40",
+        "name": "العربية",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 30,
+        "key": "30",
+        "name": "Suomi",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 12,
+        "key": "12",
+        "name": "Português (PT)",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 18,
+        "key": "18",
+        "name": "English / Australia",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 31,
+        "key": "31",
+        "name": "Čeština",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 43,
+        "key": "43",
+        "name": "Português (BR)",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 14,
+        "key": "14",
+        "name": "English / Canada",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 23,
+        "key": "23",
+        "name": "Bahasa Malaysia",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 29,
+        "key": "29",
+        "name": "Dansk",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 16,
+        "key": "16",
+        "name": "English / United Kingdom",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 10,
+        "key": "10",
+        "name": "Ελληνικά",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 28,
+        "key": "28",
+        "name": "Norsk",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 50,
+        "key": "50",
+        "name": "Українська",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 38,
+        "key": "38",
+        "name": "Slovenski jezik",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 34,
+        "key": "34",
+        "name": "Magyar",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 37,
+        "key": "37",
+        "name": "Română",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 51,
+        "key": "51",
+        "name": "Filipino",
+        "count": 0,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Room type",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 3,
+      "filterItems": [
+       {
+        "id": 109616052,
+        "key": "109616052",
+        "name": "1 Bedroom Suite",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 604874553,
+        "key": "604874553",
+        "name": "Executive Suite",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 109616085,
+        "key": "109616085",
+        "name": "Premier Deluxe Double",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 1080735746,
+        "key": "1080735746",
+        "name": "Royale Suite",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 109615154,
+        "key": "109615154",
+        "name": "Suite",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 801951029,
+        "key": "801951029",
+        "name": "Premier Deluxe Twin",
+        "count": 0,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Rating",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 4,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "exceptional",
+        "name": "9+ Exceptional",
+        "count": 312,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "excellent",
+        "name": "8-9 Excellent",
+        "count": 123,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "very_good",
+        "name": "7-8 Very Good",
+        "count": 167,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "good",
+        "name": "6-7 Good",
+        "count": 82,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "below_expectation",
+        "name": "<6 Below Expectation",
+        "count": 271,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Time of the year",
+      "filterItemsPerRow": 4,
+      "displayShowMore": false,
+      "type": 5,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "mar_to_may",
+        "name": "Mar - May",
+        "count": 212,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "jun_to_aug",
+        "name": "Jun - Aug",
+        "count": 280,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "sep_to_nov",
+        "name": "Sep - Nov",
+        "count": 249,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "dec_to_feb",
+        "name": "Dec - Feb",
+        "count": 214,
+        "isSelected": false
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "providerId": 3038,
+    "selectedSortingOption": 7,
+    "hasSelectedFilters": false,
+    "showLanguageFilter": false,
+    "showRoomTypeFilter": false,
+    "hasCommentsMoreThanOnePage": true,
+    "shouldShowReviewFilters": false,
+    "sortings": [
+     {
+      "sortId": 1,
+      "sortText": "Most recent"
+     },
+     {
+      "sortId": 2,
+      "sortText": "Rating, high to low"
+     },
+     {
+      "sortId": 3,
+      "sortText": "Rating, low to high"
+     },
+     {
+      "sortId": 7,
+      "sortText": "Most helpful"
+     }
+    ],
+    "filters": [
+     {
+      "name": "Rating",
+      "filterItemsPerRow": 4,
+      "displayShowMore": true,
+      "type": 4,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "exceptional",
+        "name": "9+ Exceptional",
+        "count": 53,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "excellent",
+        "name": "8-9 Excellent",
+        "count": 25,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "very_good",
+        "name": "7-8 Very Good",
+        "count": 49,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "good",
+        "name": "6-7 Good",
+        "count": 37,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "below_expectation",
+        "name": "<6 Below Expectation",
+        "count": 123,
+        "isSelected": false
+       }
+      ]
+     },
+     {
+      "name": "Time of the year",
+      "filterItemsPerRow": 4,
+      "displayShowMore": false,
+      "type": 5,
+      "filterItems": [
+       {
+        "id": 0,
+        "key": "mar_to_may",
+        "name": "Mar - May",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "jun_to_aug",
+        "name": "Jun - Aug",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "sep_to_nov",
+        "name": "Sep - Nov",
+        "count": 0,
+        "isSelected": false
+       },
+       {
+        "id": 0,
+        "key": "dec_to_feb",
+        "name": "Dec - Feb",
+        "count": 0,
+        "isSelected": false
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "providerList": [
+   {
+    "id": 332,
+    "isDefaultProvider": true,
+    "totalIndex": 955
+   },
+   {
+    "id": 3038,
+    "isDefaultProvider": false,
+    "totalIndex": 287
+   }
+  ],
+  "provider": 332,
+  "searchReview": {
+   "searchKeyword": ""
+  }
+ },
+ "score": {
+  "reviewPageUrl": "/bella-b-all-suite-bangkok-sha-extra-plus/reviews/bangkok-th.html",
+  "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+  "hotelId": 9059812,
+  "hotelName": "Palette Bella B All Suites Bangkok Hotel",
+  "providerIdForSeoReviewScore": 332,
+  "providerId": 332,
+  "demographics": [
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 7.7,
+    "maxScore": 10.0,
+    "id": 0,
+    "count": 2719,
+    "providerId": 332,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.7",
+    "name": "All guests",
+    "reviewProviderLogoText": "Provided by verified guests of",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "8.0",
+     "text": "Very good value for money",
+     "name": "Value for money"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.8,
+      "formattedScore": "7.8",
+      "scale": 10.0,
+      "percentage": 78.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "78.0",
+      "cityAverage": 8.0,
+      "uid": "cleanliness-7.8-18",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 7.4,
+      "uid": "facilities-7.5-17",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.9,
+      "formattedScore": "7.9",
+      "scale": 10.0,
+      "percentage": 79.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "79.0",
+      "cityAverage": 7.7,
+      "uid": "location-7.9-25",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.9,
+      "formattedScore": "7.9",
+      "scale": 10.0,
+      "percentage": 79.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "79.0",
+      "cityAverage": 7.9,
+      "uid": "staffPerformance-7.9-21",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 8.0,
+      "formattedScore": "8.0",
+      "scale": 10.0,
+      "percentage": 80.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "80.0",
+      "cityAverage": 7.8,
+      "uid": "valueForMoney-8.0-24",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exceptional",
+      "count": 847
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8-9 Excellent",
+      "count": 446
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7-8 Very Good",
+      "count": 204
+     },
+     {
+      "id": "good",
+      "scoreText": "6-7 Good",
+      "count": 242
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Below Expectation",
+      "count": 370
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 7.8,
+    "maxScore": 10.0,
+    "id": 1,
+    "count": 55,
+    "providerId": 332,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.8",
+    "name": "Business travelers",
+    "reviewProviderLogoText": "Provided by verified guests of",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "8.2",
+     "text": "Excellent value for money",
+     "name": "Value for money"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.7,
+      "formattedScore": "7.7",
+      "scale": 10.0,
+      "percentage": 77.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "77.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.7-20",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.5-26",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 8.1,
+      "formattedScore": "8.1",
+      "scale": 10.0,
+      "percentage": 81.0,
+      "scoreText": "Excellent",
+      "progressBarScoreStyle": "81.0",
+      "cityAverage": 0.0,
+      "uid": "location-8.1-8",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.6,
+      "formattedScore": "7.6",
+      "scale": 10.0,
+      "percentage": 76.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "76.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.6-10",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 8.2,
+      "formattedScore": "8.2",
+      "scale": 10.0,
+      "percentage": 82.0,
+      "scoreText": "Excellent",
+      "progressBarScoreStyle": "82.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.2-19",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exceptional",
+      "count": 24
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8-9 Excellent",
+      "count": 10
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7-8 Very Good",
+      "count": 3
+     },
+     {
+      "id": "good",
+      "scoreText": "6-7 Good",
+      "count": 9
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Below Expectation",
+      "count": 9
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 7.9,
+    "maxScore": 10.0,
+    "id": 2,
+    "count": 1237,
+    "providerId": 332,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.9",
+    "name": "Couples",
+    "reviewProviderLogoText": "Provided by verified guests of",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "8.1",
+     "text": "Excellent value for money",
+     "name": "Value for money"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.9,
+      "formattedScore": "7.9",
+      "scale": 10.0,
+      "percentage": 79.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "79.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.9-5",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.7,
+      "formattedScore": "7.7",
+      "scale": 10.0,
+      "percentage": 77.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "77.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.7-25",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 8.0,
+      "formattedScore": "8.0",
+      "scale": 10.0,
+      "percentage": 80.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "80.0",
+      "cityAverage": 0.0,
+      "uid": "location-8.0-1",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 8.0,
+      "formattedScore": "8.0",
+      "scale": 10.0,
+      "percentage": 80.0,
+      "scoreText": "Excellent",
+      "progressBarScoreStyle": "80.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-8.0-10",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 8.1,
+      "formattedScore": "8.1",
+      "scale": 10.0,
+      "percentage": 81.0,
+      "scoreText": "Excellent",
+      "progressBarScoreStyle": "81.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.1-22",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exceptional",
+      "count": 524
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8-9 Excellent",
+      "count": 257
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7-8 Very Good",
+      "count": 111
+     },
+     {
+      "id": "good",
+      "scoreText": "6-7 Good",
+      "count": 132
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Below Expectation",
+      "count": 211
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 7.7,
+    "maxScore": 10.0,
+    "id": 3,
+    "count": 541,
+    "providerId": 332,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.7",
+    "name": "Solo travelers",
+    "reviewProviderLogoText": "Provided by verified guests of",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "8.0",
+     "text": "Very good service",
+     "name": "Service"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.7,
+      "formattedScore": "7.7",
+      "scale": 10.0,
+      "percentage": 77.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "77.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.7-25",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.5-12",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.6,
+      "formattedScore": "7.6",
+      "scale": 10.0,
+      "percentage": 76.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "76.0",
+      "cityAverage": 0.0,
+      "uid": "location-7.6-15",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 8.0,
+      "formattedScore": "8.0",
+      "scale": 10.0,
+      "percentage": 80.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "80.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-8.0-8",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.9,
+      "formattedScore": "7.9",
+      "scale": 10.0,
+      "percentage": 79.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "79.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-7.9-5",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exceptional",
+      "count": 192
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8-9 Excellent",
+      "count": 123
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7-8 Very Good",
+      "count": 59
+     },
+     {
+      "id": "good",
+      "scoreText": "6-7 Good",
+      "count": 69
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Below Expectation",
+      "count": 96
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 7.4,
+    "maxScore": 10.0,
+    "id": 4,
+    "count": 58,
+    "providerId": 332,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.4",
+    "name": "Families with young children",
+    "reviewProviderLogoText": "Provided by verified guests of",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "7.6",
+     "text": "Very good cleanliness",
+     "name": "Cleanliness"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.6,
+      "formattedScore": "7.6",
+      "scale": 10.0,
+      "percentage": 76.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "76.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.6-0",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.0,
+      "formattedScore": "7.0",
+      "scale": 10.0,
+      "percentage": 70.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "70.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.0-11",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.6,
+      "formattedScore": "7.6",
+      "scale": 10.0,
+      "percentage": 76.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "76.0",
+      "cityAverage": 0.0,
+      "uid": "location-7.6-8",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.2,
+      "formattedScore": "7.2",
+      "scale": 10.0,
+      "percentage": 72.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "72.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.2-23",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-7.5-12",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exceptional",
+      "count": 19
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8-9 Excellent",
+      "count": 10
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7-8 Very Good",
+      "count": 9
+     },
+     {
+      "id": "good",
+      "scoreText": "6-7 Good",
+      "count": 6
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Below Expectation",
+      "count": 13
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 7.5,
+    "maxScore": 10.0,
+    "id": 5,
+    "count": 40,
+    "providerId": 332,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.5",
+    "name": "Families with teens",
+    "reviewProviderLogoText": "Provided by verified guests of",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "7.8",
+     "text": "Very good value for money",
+     "name": "Value for money"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.4,
+      "formattedScore": "7.4",
+      "scale": 10.0,
+      "percentage": 74.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "74.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.4-26",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.1,
+      "formattedScore": "7.1",
+      "scale": 10.0,
+      "percentage": 71.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "71.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.1-1",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 8.1,
+      "formattedScore": "8.1",
+      "scale": 10.0,
+      "percentage": 81.0,
+      "scoreText": "Excellent",
+      "progressBarScoreStyle": "81.0",
+      "cityAverage": 0.0,
+      "uid": "location-8.1-16",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.0,
+      "formattedScore": "7.0",
+      "scale": 10.0,
+      "percentage": 70.0,
+      "scoreText": "Good",
+      "progressBarScoreStyle": "70.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.0-9",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.8,
+      "formattedScore": "7.8",
+      "scale": 10.0,
+      "percentage": 78.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "78.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-7.8-29",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exceptional",
+      "count": 12
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8-9 Excellent",
+      "count": 10
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7-8 Very Good",
+      "count": 4
+     },
+     {
+      "id": "good",
+      "scoreText": "6-7 Good",
+      "count": 6
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Below Expectation",
+      "count": 8
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 332,
+      "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+      "logoName": "agoda",
+      "logoAltText": "Agoda"
+     }
+    ],
+    "score": 7.8,
+    "maxScore": 10.0,
+    "id": 6,
+    "count": 264,
+    "providerId": 332,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.8",
+    "name": "Groups",
+    "reviewProviderLogoText": "Provided by verified guests of",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "8.0",
+     "text": "Excellent value for money",
+     "name": "Value for money"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.7,
+      "formattedScore": "7.7",
+      "scale": 10.0,
+      "percentage": 77.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "77.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.7-12",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.5-13",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 8.1,
+      "formattedScore": "8.1",
+      "scale": 10.0,
+      "percentage": 81.0,
+      "scoreText": "Excellent",
+      "progressBarScoreStyle": "81.0",
+      "cityAverage": 0.0,
+      "uid": "location-8.1-24",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.9,
+      "formattedScore": "7.9",
+      "scale": 10.0,
+      "percentage": 79.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "79.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.9-17",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 8.0,
+      "formattedScore": "8.0",
+      "scale": 10.0,
+      "percentage": 80.0,
+      "scoreText": "Excellent",
+      "progressBarScoreStyle": "80.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-8.0-2",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": [
+     {
+      "id": "exceptional",
+      "scoreText": "9+ Exceptional",
+      "count": 76
+     },
+     {
+      "id": "excellent",
+      "scoreText": "8-9 Excellent",
+      "count": 36
+     },
+     {
+      "id": "very_good",
+      "scoreText": "7-8 Very Good",
+      "count": 18
+     },
+     {
+      "id": "good",
+      "scoreText": "6-7 Good",
+      "count": 20
+     },
+     {
+      "id": "below_expectation",
+      "scoreText": "<6 Below Expectation",
+      "count": 33
+     }
+    ]
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 7.2,
+    "maxScore": 10.0,
+    "id": 0,
+    "count": 498,
+    "providerId": 3038,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.2",
+    "name": "All guests",
+    "reviewProviderLogoText": "Verified reviews provided by",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "7.6",
+     "text": "Very good service",
+     "name": "Service"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.1,
+      "formattedScore": "7.1",
+      "scale": 10.0,
+      "percentage": 71.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "71.0",
+      "cityAverage": 8.1,
+      "uid": "cleanliness-7.1-11",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 6.9,
+      "formattedScore": "6.9",
+      "scale": 10.0,
+      "percentage": 69.0,
+      "scoreText": "Good",
+      "progressBarScoreStyle": "69.0",
+      "cityAverage": 7.7,
+      "uid": "facilities-6.9-8",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 7.7,
+      "uid": "location-7.5-5",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Room comfort and quality",
+      "score": 7.2,
+      "formattedScore": "7.2",
+      "scale": 10.0,
+      "percentage": 72.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "72.0",
+      "cityAverage": 7.9,
+      "uid": "roomComfort-7.2-3",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.6,
+      "formattedScore": "7.6",
+      "scale": 10.0,
+      "percentage": 76.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "76.0",
+      "cityAverage": 8.1,
+      "uid": "staffPerformance-7.6-16",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.4,
+      "formattedScore": "7.4",
+      "scale": 10.0,
+      "percentage": 74.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "74.0",
+      "cityAverage": 7.6,
+      "uid": "valueForMoney-7.4-19",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 7.2,
+    "maxScore": 10.0,
+    "id": 2,
+    "count": 225,
+    "providerId": 3038,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.2",
+    "name": "Couples",
+    "reviewProviderLogoText": "Verified reviews provided by",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "7.8",
+     "text": "Very good service",
+     "name": "Service"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.2,
+      "formattedScore": "7.2",
+      "scale": 10.0,
+      "percentage": 72.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "72.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.2-22",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.0,
+      "formattedScore": "7.0",
+      "scale": 10.0,
+      "percentage": 70.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "70.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.0-4",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "location-7.5-2",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Room comfort and quality",
+      "score": 7.3,
+      "formattedScore": "7.3",
+      "scale": 10.0,
+      "percentage": 73.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "73.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-7.3-22",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.8,
+      "formattedScore": "7.8",
+      "scale": 10.0,
+      "percentage": 78.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "78.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.8-26",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.2,
+      "formattedScore": "7.2",
+      "scale": 10.0,
+      "percentage": 72.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "72.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-7.2-2",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 7.2,
+    "maxScore": 10.0,
+    "id": 3,
+    "count": 168,
+    "providerId": 3038,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.2",
+    "name": "Solo travelers",
+    "reviewProviderLogoText": "Verified reviews provided by",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "7.5",
+     "text": "Very good service",
+     "name": "Service"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.1,
+      "formattedScore": "7.1",
+      "scale": 10.0,
+      "percentage": 71.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "71.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.1-18",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 7.0,
+      "formattedScore": "7.0",
+      "scale": 10.0,
+      "percentage": 70.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "70.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-7.0-19",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.6,
+      "formattedScore": "7.6",
+      "scale": 10.0,
+      "percentage": 76.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "76.0",
+      "cityAverage": 0.0,
+      "uid": "location-7.6-24",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Room comfort and quality",
+      "score": 7.2,
+      "formattedScore": "7.2",
+      "scale": 10.0,
+      "percentage": 72.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "72.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-7.2-28",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.5-27",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.3,
+      "formattedScore": "7.3",
+      "scale": 10.0,
+      "percentage": 73.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "73.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-7.3-3",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 7.0,
+    "maxScore": 10.0,
+    "id": 4,
+    "count": 46,
+    "providerId": 3038,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.0",
+    "name": "Families with young children",
+    "reviewProviderLogoText": "Verified reviews provided by",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "7.8",
+     "text": "Very good value for money",
+     "name": "Value for money"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 7.1,
+      "formattedScore": "7.1",
+      "scale": 10.0,
+      "percentage": 71.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "71.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-7.1-3",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 6.9,
+      "formattedScore": "6.9",
+      "scale": 10.0,
+      "percentage": 69.0,
+      "scoreText": "Good",
+      "progressBarScoreStyle": "69.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-6.9-24",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.3,
+      "formattedScore": "7.3",
+      "scale": 10.0,
+      "percentage": 73.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "73.0",
+      "cityAverage": 0.0,
+      "uid": "location-7.3-6",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Room comfort and quality",
+      "score": 6.8,
+      "formattedScore": "6.8",
+      "scale": 10.0,
+      "percentage": 68.0,
+      "scoreText": "Good",
+      "progressBarScoreStyle": "68.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-6.8-9",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.0,
+      "formattedScore": "7.0",
+      "scale": 10.0,
+      "percentage": 70.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "70.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.0-1",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.8,
+      "formattedScore": "7.8",
+      "scale": 10.0,
+      "percentage": 78.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "78.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-7.8-9",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 3038,
+      "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+      "logoName": "booking",
+      "logoAltText": "Booking.com"
+     }
+    ],
+    "score": 7.0,
+    "maxScore": 10.0,
+    "id": 6,
+    "count": 59,
+    "providerId": 3038,
+    "cityAverageText": "Average rating for 4 star properties in Bangkok",
+    "formattedScore": "7.0",
+    "name": "Groups",
+    "reviewProviderLogoText": "Verified reviews provided by",
+    "scoreText": "Very good",
+    "subReview": {
+     "score": "7.6",
+     "text": "Very good value for money",
+     "name": "Value for money"
+    },
+    "grades": [
+     {
+      "id": "cleanliness",
+      "name": "Cleanliness",
+      "score": 6.5,
+      "formattedScore": "6.5",
+      "scale": 10.0,
+      "percentage": 65.0,
+      "scoreText": "Good",
+      "progressBarScoreStyle": "65.0",
+      "cityAverage": 0.0,
+      "uid": "cleanliness-6.5-27",
+      "subGrades": []
+     },
+     {
+      "id": "facilities",
+      "name": "Facilities",
+      "score": 6.4,
+      "formattedScore": "6.4",
+      "scale": 10.0,
+      "percentage": 64.0,
+      "scoreText": "Good",
+      "progressBarScoreStyle": "64.0",
+      "cityAverage": 0.0,
+      "uid": "facilities-6.4-19",
+      "subGrades": []
+     },
+     {
+      "id": "location",
+      "name": "Location",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "location-7.5-10",
+      "subGrades": []
+     },
+     {
+      "id": "roomComfort",
+      "name": "Room comfort and quality",
+      "score": 7.1,
+      "formattedScore": "7.1",
+      "scale": 10.0,
+      "percentage": 71.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "71.0",
+      "cityAverage": 0.0,
+      "uid": "roomComfort-7.1-28",
+      "subGrades": []
+     },
+     {
+      "id": "staffPerformance",
+      "name": "Service",
+      "score": 7.5,
+      "formattedScore": "7.5",
+      "scale": 10.0,
+      "percentage": 75.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "75.0",
+      "cityAverage": 0.0,
+      "uid": "staffPerformance-7.5-10",
+      "subGrades": []
+     },
+     {
+      "id": "valueForMoney",
+      "name": "Value for money",
+      "score": 7.6,
+      "formattedScore": "7.6",
+      "scale": 10.0,
+      "percentage": 76.0,
+      "scoreText": "Very good",
+      "progressBarScoreStyle": "76.0",
+      "cityAverage": 0.0,
+      "uid": "valueForMoney-7.6-7",
+      "subGrades": []
+     }
+    ],
+    "scoreDistribution": []
+   },
+   {
+    "reviewProviderLogos": [
+     {
+      "providerId": 27901,
+      "logoUrl": "https://cdn6.agoda.net/images/default/japanican-logo.png",
+      "logoName": "jtb",
+      "logoAltText": "Japanican.com"
+     },
+     {
+      "providerId": 28999,
+      "logoUrl": "https://cdn6.agoda.net/images/default/priceline-logo.png",
+      "logoName": "priceline",
+      "logoAltText": "Priceline.com"
+     },
+     {
+      "providerId": 27989,
+      "logoUrl": "https://cdn6.agoda.net/images/default/yanolja-logo.png",
+      "logoName": "yanolja",
+      "logoAltText": "Yanolja"
+     },
+     {
+      "providerId": 29014,
+      "logoUrl": "",
+      "logoName": "jtb",
+      "logoAltText": "Japanican.com"
+     }
+    ],
+    "score": 8.2,
+    "maxScore": 10.0,
+    "id": 0,
+    "count": 214,
+    "providerId": -999,
+    "cityAverageText": "",
+    "formattedScore": "8.2",
+    "name": "All guests",
+    "reviewProviderLogoText": "Real guests. Trusted reviews. Provided by",
+    "scoreText": "Excellent",
+    "grades": [],
+    "scoreDistribution": []
+   }
+  ],
+  "priceRange": ""
+ },
+ "reviewTabs": {
+  "reviewTabs": [
+   {
+    "providerId": 332,
+    "reviewCount": 2719,
+    "tabName": "Agoda Reviews (2,719)",
+    "ratingViaProvider": "Rating via Agoda"
+   },
+   {
+    "providerId": 3038,
+    "reviewCount": 498,
+    "tabName": "Booking.com Reviews (498)",
+    "ratingViaProvider": "Rating via Booking.com"
+   },
+   {
+    "providerId": -999,
+    "reviewCount": 214,
+    "tabName": "Additional reviews (214)",
+    "ratingViaProvider": "Rating via additional providers"
+   }
+  ],
+  "defaultProviderId": 332,
+  "showBComAsLink": true,
+  "originalProvider": 332
+ },
+ "reviewWordCloud": {
+  "reviewWordCloud": [],
+  "hasReviewWordCloud": false
+ },
+ "facilityClassWordsCloud": {
+  "reviewWordCloud": [],
+  "hasReviewWordCloud": false
+ },
+ "reviewTagsV2": {
+  "reviewTagsV2": [
+   {
+    "tagId": 13,
+    "tagName": "Cleanliness",
+    "mentionedNumber": 230,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 42.0,
+    "negativePercentage": 57.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 24,
+    "tagName": "Location",
+    "mentionedNumber": 213,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 76.0,
+    "negativePercentage": 23.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 36,
+    "tagName": "Service",
+    "mentionedNumber": 183,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 45.0,
+    "negativePercentage": 54.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 28,
+    "tagName": "Pool",
+    "mentionedNumber": 104,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 64.0,
+    "negativePercentage": 35.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 31,
+    "tagName": "Room comfort",
+    "mentionedNumber": 100,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 35.0,
+    "negativePercentage": 65.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 33,
+    "tagName": "Room size",
+    "mentionedNumber": 100,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 90.0,
+    "negativePercentage": 10.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 43,
+    "tagName": "Value for money",
+    "mentionedNumber": 77,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 84.0,
+    "negativePercentage": 15.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 39,
+    "tagName": "Soundproofing",
+    "mentionedNumber": 73,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 5.0,
+    "negativePercentage": 94.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 45,
+    "tagName": "Wi-Fi",
+    "mentionedNumber": 63,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 4.0,
+    "negativePercentage": 95.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 11,
+    "tagName": "Check in",
+    "mentionedNumber": 59,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 16.0,
+    "negativePercentage": 83.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 1,
+    "tagName": "Air conditioning",
+    "mentionedNumber": 51,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 43.0,
+    "negativePercentage": 56.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 21,
+    "tagName": "In room amenities",
+    "mentionedNumber": 45,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 48.0,
+    "negativePercentage": 51.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 5,
+    "tagName": "Bathroom",
+    "mentionedNumber": 40,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 10.0,
+    "negativePercentage": 90.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 17,
+    "tagName": "Gym",
+    "mentionedNumber": 39,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 46.0,
+    "negativePercentage": 53.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 8,
+    "tagName": "Bedding",
+    "mentionedNumber": 31,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 29.0,
+    "negativePercentage": 70.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 32,
+    "tagName": "Room design",
+    "mentionedNumber": 24,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 45.0,
+    "negativePercentage": 54.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 38,
+    "tagName": "Shower",
+    "mentionedNumber": 20,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 10.0,
+    "negativePercentage": 90.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 44,
+    "tagName": "Walkability",
+    "mentionedNumber": 17,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 82.0,
+    "negativePercentage": 17.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 20,
+    "tagName": "Hot water",
+    "mentionedNumber": 16,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 12.0,
+    "negativePercentage": 87.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   },
+   {
+    "tagId": 23,
+    "tagName": "Kitchen",
+    "mentionedNumber": 16,
+    "positiveNumber": 0,
+    "negativeNumber": 0,
+    "neutralNumber": 0,
+    "positivePercentage": 62.0,
+    "negativePercentage": 37.0,
+    "neutralPercentage": 0.0,
+    "ratingType": "Excellent"
+   }
+  ],
+  "hasReviewTagsV2": true
+ }
+}

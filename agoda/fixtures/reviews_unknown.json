@@ -1,0 +1,26 @@
+{
+ "reviewPageUrl": "",
+ "currentPage": 1,
+ "hotelID": 999999999,
+ "pageSize": 5,
+ "selectedSortOption": 1,
+ "haveMoreThanOneComments": false,
+ "isCrawlablePage": true,
+ "isCurated": false,
+ "isReviewPage": false,
+ "shouldShowProminentLink": false,
+ "pageNumberToPageUrl": {},
+ "reviewsSortOptions": {
+  "1": "Most recent",
+  "2": "Rating, high to low",
+  "3": "Rating, low to high",
+  "7": "Most helpful"
+ },
+ "comments": [],
+ "reviewFilterAndSort": [],
+ "providerList": [],
+ "provider": 332,
+ "searchReview": {
+  "searchKeyword": ""
+ }
+}

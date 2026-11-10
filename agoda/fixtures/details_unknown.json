@@ -1,0 +1,410 @@
+{
+ "protocol": "https:",
+ "hotelId": 999999999,
+ "culture": "en-us",
+ "origin": "IN",
+ "gtmId": "GTM-5TXL8JK",
+ "debug": false,
+ "imageParams": {
+  "pageType": 7,
+  "hotelId": 999999999,
+  "brokenImages": [],
+  "totalNumberOfImages": 0,
+  "brokenImageUrl": "https://cdn6.agoda.net/images/default/image-place-holder@2x.png",
+  "alwaysSendImageInfo": true
+ },
+ "hotelInfo": {
+  "hotelsCountSameCity": 0,
+  "isShowSeeAllSimilarProperties": false,
+  "isSingleRoom": false,
+  "isNHA": false,
+  "isGetQuestionEnabled": false,
+  "isContactHostActive": false,
+  "shouldShowAccommodationTypeLabel": false,
+  "isAgMse": false,
+  "engagement": {
+   "hasBookingHistory": false
+  },
+  "starRating": {
+   "tooltip": "Gold star ratings are provided by the property to reflect the comfort, facilities, and amenities you can expect.",
+   "icon": "",
+   "iconColor": "orange-yellow",
+   "value": 0.0
+  },
+  "supplierId": 0,
+  "hasHostExperience": false,
+  "isContainBookOnRequest": false,
+  "genericBadge": {
+   "badgeId": 0
+  }
+ },
+ "hasSearchCriteria": false,
+ "loyaltyProgramId": 0,
+ "giftCardBalance": 0.0,
+ "hotelSearchCriteria": {
+  "pageInitData": {
+   "isManualCal": false
+  },
+  "hotelId": 999999999,
+  "checkIn": "2026-11-09T00:00:00",
+  "checkOut": "2026-11-09T00:00:00",
+  "checkInDate": "2026-11-09",
+  "checkOutDate": "2026-11-09",
+  "los": 0,
+  "adults": 2,
+  "children": 0,
+  "rooms": 1,
+  "cityId": 0,
+  "priceView": 0,
+  "priceViewTextType": 0,
+  "referrerUrl": "",
+  "currencyCode": "USD",
+  "currencyDisplay": "$",
+  "isEnableAPS": true,
+  "isWysiwyp": true,
+  "origin": "IN",
+  "countryId": 0,
+  "defaultChildAge": 8,
+  "travellerType": -1,
+  "voucherMode": false,
+  "connectedTrip": false,
+  "isDayUseFunnel": false,
+  "isDayUseFeatureAvailable": false
+ },
+ "aboutHotel": {
+  "hotelPolicy": {
+   "hideAutomatedChildPolicyText": false,
+   "extraBedAge": 1,
+   "hasBcomChildPolicy": false
+  },
+  "noExtraBedAvailable": true,
+  "featureGroups": [],
+  "reviewFacilityMentions": [],
+  "placesOfInterest": {
+   "placesOfInterestProperties": []
+  },
+  "bathInformation": {}
+ },
+ "error": {},
+ "mosaicInitData": {
+  "images": [],
+  "mosaicImages": [],
+  "imageCategories": [],
+  "staticMapUrl": "//maps.googleapis.com/maps/api/staticmap?zoom=15&size=504x238&language=en&center=0%2c0&key=AIzaSyC8COgFCyVzK5lDTEqp__tEGkTqRPnIjkM&client=gme-booking&channel=agoda&signature=-pJS_0-z2CCdPIkcq3yi-0YcQRo=",
+  "discount": {
+   "cheapestPrice": "0",
+   "from": "0",
+   "fromText": "from",
+   "currency": "$",
+   "currencyOnBack": false
+  },
+  "mapsEntryPoint": {
+   "entryPointText": "See area",
+   "shouldRenderMaps": false
+  },
+  "videos": []
+ },
+ "reviews": {
+  "isReviewPage": false,
+  "serviceData": {
+   "reviewCommentsEndpoint": "/api/cronos/property/review/ReviewComments",
+   "reviewTranslateEndpoint": "/NewSite/en-us/Review/TranslateReviewAsync",
+   "reviewResponseTranslateEndpoint": "/NewSite/en-us/Review/TranslateReviewResponseAsync",
+   "hotelId": 999999999,
+   "providerId": 332,
+   "isReviewPage": false,
+   "isCrawlable": true
+  },
+  "hotelReviewsOptions": {
+   "hotelProviderId": 332,
+   "isMobile": false,
+   "isCrawlable": true,
+   "isReviewPage": false,
+   "memberId": 0
+  },
+  "displayLanguageId": 1,
+  "reviewsContainerSelector": "div[data-hotelreview]",
+  "providerList": "332,3038"
+ },
+ "highLightsInfo": {
+  "header": "Nearest essentials"
+ },
+ "nearbyAttractionInfo": {
+  "header": "Nearby attractions",
+  "highLights": []
+ },
+ "hotelPageFeatures": {
+  "enableOLSB_0": true,
+  "xProperties_1": true,
+  "insiderDeals_2": true,
+  "comparisonGrid_3": true,
+  "backToSearch_4": true,
+  "breakcrumbs_5": true
+ },
+ "reviewInitData": {
+  "languageId": 1,
+  "locale": "en-us",
+  "countryId": 0,
+  "hotelId": 999999999,
+  "hotelProviderId": 332,
+  "demographicId": 0,
+  "pageNo": 1,
+  "pageSize": 5,
+  "sorting": 1,
+  "reviewProviderIds": [
+   332,
+   3038,
+   27901,
+   28999,
+   29100,
+   27999,
+   27980,
+   27989,
+   29014
+  ],
+  "isReviewPage": false,
+  "paginationSize": 5,
+  "isCrawlable": true,
+  "isBot": false,
+  "memberId": 0,
+  "searchKeyword": "",
+  "additionalReviewsProviderId": -999,
+  "additionalReviewsProviders": [
+   27901,
+   28999,
+   27989,
+   29014
+  ],
+  "activeProvider": 0
+ },
+ "datelessMasterRoomInfo": [],
+ "currencyInfo": {
+  "currency": "$",
+  "code": "USD",
+  "onBack": false,
+  "groupSeparator": ",",
+  "groupSizes": [
+   3
+  ],
+  "decimalSeparator": ".",
+  "numberOfDecimal": 2,
+  "currencyFormat": "$ {0}"
+ },
+ "stickyFooter": {
+  "discount": {
+   "percentageDiscount": "",
+   "cheapestPriceWithCurrency": "$ 0"
+  }
+ },
+ "inquiryProperty": {
+  "starRatingFontIcon": "",
+  "starRatingColor": "orange-yellow",
+  "hotelLocation": " , ",
+  "isLoggedIn": false,
+  "translatedCheckIn": "09 November 2026",
+  "checkInDate": "2026-11-09",
+  "translatedCheckOut": "09 November 2026",
+  "checkOutDate": "2026-11-09",
+  "adults": "2",
+  "children": "0",
+  "rooms": "1",
+  "propertyId": "999999999",
+  "supportedLanguages": "",
+  "apiUrl": "/api/en-us/Main/contacthost",
+  "memberId": "0",
+  "preloadImage": "https://cdn6.agoda.net/images/default/preload.gif",
+  "cheapestPrice": "0",
+  "currency": "$"
+ },
+ "numberOfFitRoom": 0,
+ "numberOfNotFitRoom": 0,
+ "isMultiRoomSuggestionExist": false,
+ "breadcrumbs": [
+  {
+   "regionName": "Home",
+   "isShowCountNumber": true,
+   "regionCount": "Properties:",
+   "regionLink": "/?cid=-1&ckuid=e5d0c2b8-6773-4a81-b83a-cd46336d75bc"
+  }
+ ],
+ "mapParams": {
+  "staticUrl": "//maps.googleapis.com/maps/api/staticmap?zoom=15&size=504x238&language=en&center=0%2c0&key=AIzaSyC8COgFCyVzK5lDTEqp__tEGkTqRPnIjkM&client=gme-booking&channel=agoda&signature=-pJS_0-z2CCdPIkcq3yi-0YcQRo=",
+  "useReactMap": true,
+  "defaultMapType": "ROAD",
+  "key": "",
+  "latlng": [
+   0.0,
+   0.0
+  ],
+  "latlngOffset": [
+   0,
+   0
+  ],
+  "loadingMessage": "Loading...",
+  "mapProviderName": "GoogleMaps",
+  "mapType": {
+   "hybrid": "HYBRID",
+   "road": "ROAD",
+   "satellite": "SATELLITE",
+   "terrain": "TERRAIN"
+  },
+  "review": {
+   "hotelName": "",
+   "starRating": "",
+   "starRatingInfo": {
+    "fontIcon": "ficon-",
+    "color": "orange-yellow",
+    "tooltip": "Gold star ratings are provided by the property to reflect the comfort, facilities, and amenities you can expect."
+   },
+   "isCurrencyOnBackPosition": false
+  },
+  "url": "//maps.googleapis.com/maps/api/js?language=en&v=3&callback=agoda.maps.provider.GoogleMaps.APILoaded&key=AIzaSyC8COgFCyVzK5lDTEqp__tEGkTqRPnIjkM&client=gme-booking&channel=agoda",
+  "url_tiles": "",
+  "zoom": 15,
+  "shouldObfuscateAddress": false
+ },
+ "poiService": {
+  "hotelId": 999999999,
+  "showStaticMap": true
+ },
+ "indexSearchCriteria": {
+  "hotelId": 999999999,
+  "languageId": 1,
+  "origin": "IN",
+  "checkIn": "2026-11-09T00:00:00",
+  "los": 0,
+  "adults": 2,
+  "children": 0,
+  "rooms": 1,
+  "currencyCode": "USD",
+  "isWysiwyp": true,
+  "priceView": 0,
+  "isEnableAPS": false,
+  "cityId": 0
+ },
+ "wysiwyp": {
+  "isSingleRoom": false,
+  "page": "property-desktop",
+  "currentPriceView": 0,
+  "priceViewEnums": {
+   "exclusive": 1,
+   "inclusiveWithSurchargePerRoomPerNight": 2,
+   "inclusiveWithSurchargePerBooking": 3
+  },
+  "applyGiftcard": {
+   "isApplyGiftcard": false
+  }
+ },
+ "suggestPriceType": {
+  "suggestPrice": "NA",
+  "applyType": "UNKNOWN"
+ },
+ "favorite": {
+  "isFavorite": false,
+  "cms": {
+   "tooltipFavoriteHeart": "Save this property",
+   "tooltipMarkedFavoriteHeart": "Added to saved list"
+  }
+ },
+ "hardLoginAutoReloadInterval": 3000,
+ "contactHost": {
+  "init": {
+   "params": {
+    "_isLoggedIn": false,
+    "_isCheckInSoonWarning": true,
+    "_translatedCheckIn": "09 November 2026",
+    "_checkInDate": "2026-11-09",
+    "_translatedCheckOut": "09 November 2026",
+    "_checkOutDate": "2026-11-09",
+    "_nights": "",
+    "_adults": "2",
+    "_children": "0",
+    "_rooms": "1",
+    "_propertyId": "999999999",
+    "_supportedLanguages": "",
+    "_apiUrl": "/api/en-us/Main/contacthost",
+    "_memberId": "0",
+    "_isTablet": false
+   }
+  }
+ },
+ "shouldRenderReview": false,
+ "referrerUrl": "",
+ "searchId": "5a07453b-eca7-4478-bf1f-a42b8509e47f",
+ "hotelModel": {
+  "completeLoading": {
+   "reviewScores": false,
+   "reviewComments": false,
+   "scrollToReviewSection": false,
+   "heroImage": false
+  }
+ },
+ "prefetchUrl": "https://secure.agoda.com/pixel.gif",
+ "hasExtrabed": false,
+ "shouldAddInterConnectingRoom": false,
+ "noCCRequired": {
+  "shouldShowNoCCRequired": false,
+  "noCreditCardRequiredText": "Book this property <span>without a credit card!</span>",
+  "bookingForToNightText": "Booking for tonight?",
+  "noCreditCardNeededText": "No credit card needed!",
+  "hotelCheckInLocalDate": "2026-11-09",
+  "noCCNoProblem": "No credit card, no problem!",
+  "bookWithNoCC": "You can book your stay without a credit card."
+ },
+ "agodaHomesRibbon": {
+  "heading": "agodaHomes",
+  "line1": "Enjoy extra space and local neighborhoods",
+  "line2": "with this Agoda Homes property.",
+  "isAgodaHomesRebranding": false
+ },
+ "registerReviewUrlIfReviewInitDataPresent": true,
+ "cronosDetails": {
+  "urls": {
+   "review/HotelReviews": "/api/cronos/property/review/HotelReviews",
+   "review/ReviewComments": "/api/cronos/property/review/ReviewComments",
+   "recommendation/RecommendedProperties": "/api/cronos/property/Recommendation/RecommendedProperties"
+  },
+  "experiments": {}
+ },
+ "seo": {
+  "isNHA": false,
+  "shouldUseLodgingBusinessSchemaAndUseNewItemProps": false,
+  "shouldShowCorrelationId": false,
+  "shouldRenderPriceRangeLDJson": true,
+  "shouldRenderAsMultipleEntity": false,
+  "shouldIncreaseDatelessReview": false,
+  "shouldHideHotelMapsForPrerender": false
+ },
+ "isLoginRequiredForCn": false,
+ "isCmaEnabled": false,
+ "isLogin": false,
+ "isL1LoggedIn": false,
+ "recaptchaV3PublicKey": "6LdfPZMUAAAAABUVfpzBjTdfhwUkaxeQqMknz7Ee",
+ "isAboutHotelLazy": true,
+ "isInternationalUser": false,
+ "restaurantOnSite": [],
+ "breakfastInformation": {},
+ "mixAndSave": {
+  "shouldFetchUpSellPOC": false,
+  "mixAndSaveRequestTimeout": 0
+ },
+ "isShowChildRateWidget": false,
+ "isShowMultiRoomOccupancy": false,
+ "isShowRecommendedProperty": true,
+ "isDisabledButtonForMaintenence": false,
+ "voucherMode": false,
+ "enableQuickAnswersChatBot": false,
+ "privateSale": {
+  "showAPSPeekOnMobile": false,
+  "showAPSPeekBoxLayout": false,
+  "showAPSDiscountAppliedBadge": false,
+  "showDiscountTextInsteadOfPrice": false,
+  "isEnabled": true
+ },
+ "displayTermsAndConditions": true,
+ "isCxpRoomGridSegment": false,
+ "isCxpRoomGridJapanExperiment": false,
+ "isRoomNavigationEnabled": false,
+ "showTotalStayPriceView": true,
+ "showFullParkingBanner": false
+}
