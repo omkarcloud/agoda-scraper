@@ -311,6 +311,19 @@ _GQL_NOT_FOUND = ("is empty for", "doesn't exist", "does not exist", "doesn't no
                   "not found")
 _GQL_BAD_REQUEST = ("must be greater than", "must be between", "expected value of type", "invalid")
 
+# The site adds the `RoomAmenityFilter` pricing feature whenever a room-level
+# filter (bed types, room amenities) is on (its search bundle:
+# isRoomAmenitiesRequest -> featureFlag RoomAmenityFilter). Without it the
+# search answers the filtered COUNT but an EMPTY property list (2026-11-10:
+# Bangkok + king beds = 2,483 hotels, 0 rows; with the flag 12 rows a page).
+ROOM_LEVEL_FILTERS = ("GroupedBedTypes", "RoomAmenities")
+
+
+def room_level_filtered(ids_filters):
+    """True when an ids filter needs the RoomAmenityFilter pricing feature."""
+    return any(isinstance(f, dict) and f.get("filterKey") in ROOM_LEVEL_FILTERS and f.get("ids")
+               for f in ids_filters or [])
+
 
 def search_variables(kind, object_id, checkin, checkout, adults=2, child_ages=None, rooms=1, currency="USD",
                      locale=DEFAULT_LOCALE, sort=("Ranking", "Desc"), ids_filters=None, range_filters=None,
@@ -404,7 +417,8 @@ def search_variables(kind, object_id, checkin, checkout, adults=2, child_ages=No
                                         "PromosCumulative", "MixAndSave", "APSPeek", "StackChannelDiscount", "AutoApplyPromos",
                                         "EnableAgencySupplyForPackages", "EnableCashback", "CreditCardPromotionPeek",
                                         "EnableCofundedCashback", "DispatchGoLocalForInternational", "EnableGoToTravelCampaign",
-                                        "EnableCashbackMildlyAggressiveDisplay", "EnablePriceTrend", "MultipleExtraBeds"],
+                                        "EnableCashbackMildlyAggressiveDisplay", "EnablePriceTrend", "MultipleExtraBeds"]
+                                       + (["RoomAmenityFilter"] if room_level_filtered(ids_filters) else []),
                         "features": {"calculateRareRoomBadge": False, "crossOutRate": False, "isAPSPeek": False, "isAllOcc": False,
                                      "isApsEnabled": False, "isIncludeUsdAndLocalCurrency": False, "isMSE": True,
                                      "isRPM2Included": True, "maxSuggestions": 0, "isEnableSupplierFinancialInfo": False,

@@ -509,6 +509,52 @@ def test_fetch_reviews_asks_an_empty_page_again(monkeypatch):
     assert fetch.fetch_reviews(185945, page=999) == empty and len(calls) == fetch.EMPTY_PAGE_RETRIES + 1
 
 
+def test_room_level_filters_turn_on_the_sites_pricing_feature():
+    from agoda import fetch
+    flags = lambda ids: fetch.search_variables("city", 9395, "2026-12-12", "2026-12-13", ids_filters=ids)[
+        "PricingSummaryRequest"]["pricing"]["featureFlag"]
+    assert "RoomAmenityFilter" in flags([{"filterKey": "GroupedBedTypes", "ids": [5]}])
+    assert "RoomAmenityFilter" in flags([{"filterKey": "RoomAmenities", "ids": [25]}])
+    assert "RoomAmenityFilter" not in flags([{"filterKey": "HotelFacilities", "ids": [93]}])
+    assert "RoomAmenityFilter" not in flags(None)
+
+
+def _search_page(monkeypatch, payload, **params):
+    """hotels/search through api._search with the site's answer stubbed."""
+    from agoda import api, schemas
+    monkeypatch.setattr(api, "fetch_search", lambda *a, **k: payload)
+    return api._search(**schemas.SearchSchema().load({"location": "city:9395", **params}))
+
+
+def test_an_impossible_site_total_is_no_total(monkeypatch):
+    # 2026-11-10: an area search with filters answered totalFilteredHotels 0
+    # next to hotels; paging must follow the page, not stop after it
+    page = fixture("search_city_bangkok_page1.json")
+    organic = sum(1 for p in page["properties"] if not (p.get("sponsoredDetail") or {}).get("isShowSponsoredFlag"))
+    page["searchResult"]["searchInfo"]["totalFilteredHotels"] = 0
+    out = _search_page(monkeypatch, page, limit=str(organic))
+    assert out["results"] and out["pagination"]["total_count"] is None
+    assert out["pagination"]["has_next"] is True and out["pagination"]["total_pages"] is None
+    page["properties"] = page["properties"][:3]
+    out = _search_page(monkeypatch, page, limit="45")
+    assert out["pagination"]["has_next"] is False
+
+
+def test_price_sorts_put_unpriced_properties_last(monkeypatch):
+    page = fixture("search_city_bangkok_page1.json")
+    page["properties"][0]["pricing"] = {"isAvailable": False, "isReady": False, "offers": []}
+    first = page["properties"][0]["propertyId"]
+    site_order = [r["id"] for r in _search_page(monkeypatch, page)["results"]]
+    assert site_order[0] == first                                     # recommended keeps the site's order
+    cheapest = _search_page(monkeypatch, page, sort="price_low_to_high")["results"]
+    priced = [bool((r["price"] or {}).get("per_night")) for r in cheapest]
+    assert priced == sorted(priced, reverse=True) and not priced[-1]  # every priced row before every unpriced one
+    for group in (True, False):                                       # each group in the site's own order
+        ids = [r["id"] for r, p in zip(cheapest, priced) if p is group]
+        assert ids == [i for i in site_order if i in ids]
+    assert first in [r["id"] for r, p in zip(cheapest, priced) if not p]
+
+
 def test_empty_review_pages_are_never_cached():
     from agoda import cache_config
     assert cache_config.reviews_ttl({}, {"reviews": []}) is None

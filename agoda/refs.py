@@ -47,6 +47,15 @@ LOCALES = (
     "sk-sk", "hu-hu", "el-gr", "ro-ro", "bg-bg", "hr-hr", "sl-si",
 )
 DEFAULT_LOCALE = "en-us"
+# The currencies Agoda sells in (GET /api/cronos/layout/currency/getlist,
+# AllCurrencyList, 2026-11-10). Any other code answers an empty search (a
+# 200 with no hotels), so the schemas reject it up front.
+CURRENCIES = (
+    "AED", "AFN", "AUD", "BDT", "BHD", "BRL", "CAD", "CHF", "CNY", "COP", "CZK", "DKK", "EGP", "EUR", "FJD", "GBP",
+    "HKD", "HUF", "IDR", "ILS", "INR", "JOD", "JPY", "KHR", "KRW", "KWD", "KZT", "LAK", "LKR", "MVR", "MXN", "MYR",
+    "NGN", "NOK", "NZD", "OMR", "PHP", "PKR", "PLN", "QAR", "RON", "RUB", "SAR", "SEK", "SGD", "THB", "TRY", "TWD",
+    "UAH", "USD", "VND", "XPF", "ZAR",
+)
 # Agoda's numeric language ids (the autocomplete path's second segment and
 # AG-Language-Id), from the review language filter + the site's own list.
 LANGUAGE_IDS = {

@@ -109,6 +109,9 @@ def test_search_schema_children_keep_duplicates():
     ({"location": "Bangkok", "page": "201"}, "page"),
     ({"location": "Bangkok", "sort": "cheapest"}, "sort"),
     ({"location": "Bangkok", "currency": "dollars"}, "currency"),
+    # a well-formed code Agoda does not sell in answered an empty 200 search
+    ({"location": "Bangkok", "currency": "XYZ"}, "currency"),
+    ({"location": "Bangkok", "currency": "ISK"}, "currency"),
     ({"location": "Bangkok", "min_price": "100", "max_price": "50"}, "max_price"),
     ({"location": "Bangkok", "city": "9395"}, "city"),
     ({"location": "Bangkok", "url": "https://www.agoda.com/search?city=9395"}, "url"),

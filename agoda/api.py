@@ -149,16 +149,30 @@ def _search(**data):
                     page=data["page"], page_size=data["limit"], city_id=destination.get("city_id"))
     parsed = parsers.parse_search(fetch_search(kind, object_id, locale=language, **criteria))
     results = parsed["results"]
+    if data["sort"] in ("price_low_to_high", "price_high_to_low"):
+        # the site's price sorts rank properties it has no live price for
+        # (sold out, or pricing.isReady false) as the cheapest: 21-25 of the
+        # first 100 Tokyo rows on 2026-11-10. Priced rows first, each group in
+        # the site's own order.
+        results = ([r for r in results if (r.get("price") or {}).get("per_night") is not None]
+                   + [r for r in results if (r.get("price") or {}).get("per_night") is None])
     if pinned is not None:
         results.sort(key=lambda r: 0 if r.get("id") == pinned else 1)
     total = parsed["total_count"]
+    organic = sum(1 for r in results if not r.get("is_sponsored"))
+    if isinstance(total, int) and total < (data["page"] - 1) * data["limit"] + organic:
+        # the site's total can trail its own list (2026-11-10: an area search
+        # with filters answered totalFilteredHotels 0 next to 3 hotels): an
+        # impossible total is no total, so paging follows the page instead
+        total = None
     if isinstance(total, int):
         total_pages = math.ceil(total / data["limit"])
         pagination = {"total_pages": total_pages, "total_count": total}
     else:
         # no total from the site: the next link follows the page being full
         # (route_glue.paginate reads has_next; a null total_pages stays null)
-        pagination = {"total_pages": None, "total_count": None, "has_next": len(results) >= data["limit"]}
+        # (sponsored extras ride on top of `limit` organic rows, so count those)
+        pagination = {"total_pages": None, "total_count": None, "has_next": organic >= data["limit"]}
     dest = parsed["destination"] or {}
     return {
         "location": {

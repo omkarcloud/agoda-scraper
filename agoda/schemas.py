@@ -65,6 +65,16 @@ class LanguageField(StrippedString):
             raise ValidationError(str(e))
 
 
+class AgodaCurrencyField(CurrencyField):
+    """ISO 4217 code Agoda sells in (USD, EUR, JPY, ...; refs.CURRENCIES)."""
+
+    def _deserialize(self, value, attr, data, **kwargs):
+        value = super()._deserialize(value, attr, data, **kwargs)
+        if value is not None and value not in refs.CURRENCIES:
+            raise ValidationError(f"Agoda does not sell in {value}. Use one of: {', '.join(refs.CURRENCIES)}.")
+        return value
+
+
 class ChildAgesField(CommaListField):
     """Comma-separated child ages (0-17), one per child. Unlike the parent
     field the ages are NOT deduped: twins are "5,5", two children."""
@@ -93,7 +103,8 @@ class ChildAgesField(CommaListField):
 # listing tooling reads their bounds and defaults).
 
 def _currency():
-    return CurrencyField(load_default="USD", metadata={"description": "ISO 4217 currency for the prices (default USD)"})
+    return AgodaCurrencyField(load_default="USD", metadata={
+        "description": "ISO 4217 currency Agoda sells in, for the prices (default USD)"})
 
 
 def _checkin():
