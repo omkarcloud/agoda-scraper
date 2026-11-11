@@ -535,9 +535,33 @@ def test_an_impossible_site_total_is_no_total(monkeypatch):
     out = _search_page(monkeypatch, page, limit=str(organic))
     assert out["results"] and out["pagination"]["total_count"] is None
     assert out["pagination"]["has_next"] is True and out["pagination"]["total_pages"] is None
+    # the site's own page: 45 bookable rows (6 of them sponsored) + 4 sold-out extras is a FULL page
+    out = _search_page(monkeypatch, page)
+    assert out["pagination"]["items_per_page"] == 45 and len(out["results"]) == 49
+    assert out["pagination"]["total_count"] is None and out["pagination"]["has_next"] is True
     page["properties"] = page["properties"][:3]
     out = _search_page(monkeypatch, page, limit="45")
     assert out["pagination"]["has_next"] is False
+
+
+def test_sold_out_extras_do_not_make_a_total_impossible(monkeypatch):
+    # Victoria: 10 bookable rows + 1 sold-out extra on a page of 10; a total
+    # of exactly 10 is the whole answer, not a contradiction (and no next page)
+    page = fixture("search_region_victoria.json")
+    assert sum(1 for r in P.parse_search(page)["results"] if not r["is_sold_out"]) == 10
+    page["searchResult"]["searchInfo"]["totalFilteredHotels"] = 10
+    out = _search_page(monkeypatch, page, limit="10")
+    assert len(out["results"]) == 11
+    assert out["pagination"]["total_count"] == 10 and out["pagination"]["total_pages"] == 1
+
+
+def test_a_page_past_the_end_keeps_the_site_total(monkeypatch):
+    # Singapore: 738 hotels, 17 pages of 45; page 18 and beyond list nothing
+    past = fixture("search_city_singapore_past_end.json")
+    for page in ("18", "200"):
+        out = _search_page(monkeypatch, past, page=page)
+        assert out["results"] == [] and out["pagination"]["total_count"] == 738
+        assert out["pagination"]["total_pages"] == 17 and "has_next" not in out["pagination"]
 
 
 def test_price_sorts_put_unpriced_properties_last(monkeypatch):

@@ -159,20 +159,28 @@ def _search(**data):
     if pinned is not None:
         results.sort(key=lambda r: 0 if r.get("id") == pinned else 1)
     total = parsed["total_count"]
-    organic = sum(1 for r in results if not r.get("is_sponsored"))
-    if isinstance(total, int) and total < (data["page"] - 1) * data["limit"] + organic:
+    # the rows a total must cover under any reading: sponsored rows and the
+    # sold-out extras the site shows on top of a page may sit outside it (a
+    # 10-hotel answer listing 10 hotels + 1 sold-out extra is not impossible)
+    organic = sum(1 for r in results if not r.get("is_sponsored") and not r.get("is_sold_out"))
+    if isinstance(total, int) and organic and total < (data["page"] - 1) * data["limit"] + organic:
         # the site's total can trail its own list (2026-11-10: an area search
         # with filters answered totalFilteredHotels 0 next to 3 hotels): an
         # impossible total is no total, so paging follows the page instead
+        # (a page past the end lists nothing, which contradicts no total)
         total = None
     if isinstance(total, int):
         total_pages = math.ceil(total / data["limit"])
         pagination = {"total_pages": total_pages, "total_count": total}
     else:
         # no total from the site: the next link follows the page being full
-        # (route_glue.paginate reads has_next; a null total_pages stays null)
-        # (sponsored extras ride on top of `limit` organic rows, so count those)
-        pagination = {"total_pages": None, "total_count": None, "has_next": organic >= data["limit"]}
+        # (route_glue.paginate reads has_next; a null total_pages stays null).
+        # A full page is `limit` bookable rows, the sponsored ones among
+        # them; the sold-out rows the site shows ride on top (the Bangkok
+        # fixture: 45 rows, 6 of them sponsored, plus 4 sold out), so the
+        # sold-out rows are the ones left out of the count
+        listed = sum(1 for r in results if not r.get("is_sold_out"))
+        pagination = {"total_pages": None, "total_count": None, "has_next": listed >= data["limit"]}
     dest = parsed["destination"] or {}
     return {
         "location": {
