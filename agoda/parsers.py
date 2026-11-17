@@ -30,6 +30,8 @@ from datetime import datetime
 
 from agoda.refs import (LANGUAGE_IDS, PROVIDER_NAMES, TRAVELER_TYPES, URL_KEY_TO_KIND, URL_KEYS_BY_SPECIFICITY,
                         absolute_link, hotel_link, location_key, search_link)
+from scraper_utils.values import bool_or_none as _bool
+from scraper_utils.dates import iso_day as _date
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"\s+")
@@ -121,18 +123,6 @@ def _money(value):
     if number is None or number <= 0:
         return None
     return round(float(number), 2)
-
-
-def _bool(value):
-    return value if isinstance(value, bool) else None
-
-
-def _date(value):
-    """'2026-09-16T08:16:48+07:00' / '2026-12-10T00:00:00' -> '2026-09-16'."""
-    if not value or not isinstance(value, str):
-        return None
-    match = re.match(r"(\d{4}-\d{2}-\d{2})", value)
-    return match.group(1) if match else None
 
 
 def _datetime(value):
@@ -950,5 +940,3 @@ def parse_review_summary(payload):
         "link": hotel_link(score_block.get("reviewPageUrl") or ((payload.get("commentList") or {}).get("reviewPageUrl"))),
         "has_reviews": _bool(payload.get("hasReviewsData")),
     }
-
-

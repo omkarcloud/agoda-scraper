@@ -82,6 +82,7 @@ import egress
 import fastjson
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from agoda.refs import (DEFAULT_LOCALE, PROVIDER_AGODA, REVIEW_TOPIC_FILTER, SEARCH_OPS, SITE, language_id)
+from scraper_utils import responses, retry, sessions
 
 IMPERSONATE = "chrome"
 JSON_TIMEOUT = 40      # GetSecondaryData is up to ~1.3 MB
@@ -136,41 +137,18 @@ def _session():
 
 def _drop_session():
     """Close the thread's session so a poisoned connection (or exit) dies."""
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def _retrying(fn):
     """Run fn() under the shared retry policy (AgodaUpstreamError only;
     NotFound / BadRequest surface immediately)."""
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except AgodaUpstreamError as e:
-            last = e
-            _drop_session()
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    return retry.run(fn, config, AgodaUpstreamError, lambda e: _drop_session())
 
 
 def _classify(resp, label):
     """Map an HTTP response to the error taxonomy; return the body text."""
-    if resp.status_code == 404:
-        raise AgodaNotFound(f"{label} not found")
-    if resp.status_code == 400:
-        raise AgodaBadRequest(resp.text[:200])
-    if resp.status_code in (401, 403, 429):
-        raise AgodaBlocked(f"HTTP {resp.status_code} for {label}")
-    if resp.status_code != 200:
-        raise AgodaUpstreamError(f"HTTP {resp.status_code} for {label}")
-    return resp.text
+    return responses.classify(resp, label, AgodaNotFound, AgodaBadRequest, AgodaBlocked, AgodaUpstreamError)
 
 
 def _json(resp, label):
